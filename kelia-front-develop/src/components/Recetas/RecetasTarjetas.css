@@ -1,0 +1,310 @@
+.receta-card {
+  width: auto;
+  height: auto;
+  border-radius: 12px;
+  overflow: hidden;
+  background: #fff;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  margin: 10px;
+  padding: 5px 5px 5px 5px;
+  min-height: 17rem;
+  display: flex;
+  justify-content: space-between;
+  flex-direction: column;
+}
+
+.receta-info {
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.receta-titulo {
+  font-weight: bold;
+  font-size: 1.1rem;
+  text-align: center;
+}
+
+.receta-meta {
+  margin: 10px 0;
+}
+
+.receta-estrellas {
+  margin-top: 8px;
+  font-size: 1rem;
+  color: gold;
+}
+
+.receta-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  font-size: 1rem;
+  margin-top: 15px;
+}
+
+.receta-img-wrapper {
+  position: relative;
+  width: 100%;
+}
+
+.receta-card-img {
+  width: 100%;
+  height: 100px;
+  object-fit: cover;
+  display: block;
+  border-radius: 8px;
+}
+
+.receta-autor {
+  position: absolute;
+  bottom: 8px;
+  right: 8px;
+  height: 30px !important;
+  width: 30px !important;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 2px solid white;
+}
+
+.seccion-titulo {
+  margin-bottom: 10px;
+  font-weight: bold;
+  font-size: 2rem;
+  padding-top: 20px !important;
+}
+
+.seccion-subtitulo {
+  font-weight: bold;
+  font-size: 1rem;
+  text-align: left;
+}
+
+.seccion-parrafo {
+  font-weight: bold;
+  font-size: 0.8rem;
+  text-align: left;
+}
+
+.agregado-container {
+  text-align: left;
+  margin-left: 30px;
+  margin-bottom: 0%;
+}
+
+.nombre-receta {
+  margin-right: 20px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.select-row {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  padding: 0.25rem 0 0.5rem 0;
+  margin-bottom: 0.5rem;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-bottom: 1.5px solid #d4a373; /* línea fina inferior */
+}
+
+.row-top,
+.row-bottom {
+  display: flex;
+  gap: 0.5rem;
+  margin-bottom: 1.25rem;
+}
+
+.row-top > *,
+.row-bottom > * {
+  flex: 1; /* todos los select crecen parejo */
+  min-width: 140px; /* evita que se colapsen si hay poco espacio */
+  margin: 0;
+}
+
+.select-container-natural {
+  justify-content: flex;
+  display: flex;
+  align-items: center; /* Alinea verticalmente */
+  gap: 2rem;
+  margin-bottom: 1rem;
+}
+
+.todo-agregado {
+  /* Contenedor para dar margenes en nueva receta */
+  width: 100%;
+  padding-left: 60px;
+  padding-right: 60px;
+}
+
+.eliminar-receta-button {
+  /* Boton eliminar linea en nueva receta */
+  background: #d4a373;
+  border-color: #ccc;
+  color: white;
+  font-weight: 500;
+  filter: drop-shadow(1px 1px 1px rgba(0, 0, 0, 0.3));
+  border-radius: 5px;
+  cursor: pointer;
+  border: none;
+  padding: 8px;
+  margin-top: 25px;
+  margin-left: 10px;
+  text-decoration: none;
+  align-self: flex-end; /* para que se alinee a la derecha dentro de su contenedor */
+  margin-bottom: auto; /* empuja hacia arriba si el contenedor crece */
+}
+
+.eliminar-receta-button:hover, /* Boton eliminar linea en nueva receta */
+.agregar-receta-button:hover {
+  background-color: #bc5f28;
+  color: white;
+}
+
+.eliminar-container {
+  /* Boton eliminar linea en nueva receta */
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  margin-right: 25px; /* opcional: separación del otro botón */
+}
+
+.agregar-receta-button {
+  background: #d4a373;
+  border-color: #ccc;
+  color: white;
+  justify-content: end;
+  font-weight: 500;
+  filter: drop-shadow(1px 1px 1px rgba(0, 0, 0, 0.3));
+  border-radius: 5px;
+  cursor: pointer;
+  border: none;
+  padding: 8px;
+  margin-bottom: 10px;
+  margin-top: 25px;
+  margin-left: 10px;
+  margin-right: 25px;
+  text-decoration: none;
+}
+
+.añadir-button {
+  background: #d4a373;
+  color: white;
+  font-weight: 500;
+  filter: drop-shadow(1px 1px 1px rgba(0, 0, 0, 0.3));
+  border-radius: 5px;
+  cursor: pointer;
+  border: none;
+  padding-left: 20px !important;
+  padding-right: 20px !important;
+  padding: 8px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+  text-decoration: none;
+  margin-left: auto;
+}
+
+/* Boton agregado linea en nueva receta */
+.guardado-receta-button {
+  /* Boton guardardo en nueva receta */
+  background: #d4a373;
+  color: white;
+  justify-content: end;
+  font-weight: 500;
+  filter: drop-shadow(1px 1px 1px rgba(0, 0, 0, 0.3));
+  border-radius: 5px;
+  cursor: pointer;
+  border: none;
+  padding-left: 20px !important;
+  padding-right: 20px !important;
+  padding: 8px;
+  margin-bottom: 10px;
+  margin-top: 15px;
+  margin-left: 10px;
+  text-decoration: none;
+  margin-left: auto;
+  font-weight: 500;
+}
+
+.añadir-button:hover, /* Boton agregado linea en nueva receta */
+.guardado-receta-button:hover {
+  background-color: #bc5f28;
+  color: white;
+}
+
+.agregado-linea-receta-button {
+  background: #d4a373;
+  color: white;
+  justify-content: end;
+  font-weight: 500;
+  filter: drop-shadow(1px 1px 1px rgba(0, 0, 0, 0.3));
+  border-radius: 5px;
+  cursor: pointer;
+  border: none;
+  padding-left: 20px !important;
+  padding-right: 20px !important;
+  padding: 8px;
+  margin-bottom: 10px;
+  margin-top: 15px;
+  margin-left: 10px;
+  text-decoration: none;
+  margin-left: auto;
+}
+
+.agregado-linea-receta-button:hover {
+  background-color: #bc5f28;
+  color: white;
+}
+
+.container-agregado,
+.container-guardado {
+  display: flex;
+  margin-right: 20px;
+  margin-left: 20px;
+}
+
+.instrucciones-receta {
+  margin-right: 20px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.seccion-tiempos {
+  font-weight: bold;
+  font-size: 0.8rem;
+  text-align: left;
+  margin-left: 2px;
+}
+
+.tacho {
+  color: #d4a373;
+}
+
+.tacho:hover {
+  color: #bc5f28;
+}
+
+.button-comentar {
+  background: #d4a373;
+  border: none;
+  border-radius: 5px;
+  font-weight: bold;
+  padding: 0.5rem 1.5rem;
+  font-size: 1.1rem;
+  cursor: pointer;
+  color: white;
+  transition: background 0.2s;
+}
+
+.button-comentar:hover {
+  background: #bc5f28;
+}
+
+@media (max-width: 768px) {
+  .todo-agregado {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+}

@@ -1,0 +1,62 @@
+.titulo-nombre,
+.titulo-marca,
+.titulo-tipo {
+  color:black;
+  border-radius: 999px !important;
+  padding: 0.5rem 1rem !important;     
+  font-size: medium;
+  display: inline-flex !important;   
+  text-align: center !important;
+  margin: 0 auto !important;
+}
+
+.titulo-agregado{
+  vertical-align: middle !important;
+}
+
+.preguntayboton{
+  display: flex;
+  align-items: center;
+  justify-content: center; /* o 'flex-start' si no lo querés centrado */
+  gap: 10px; /* espacio entre texto y botón */
+  margin-top: 20px;
+}
+th{
+  text-align: center !important;
+}
+
+.contenedor-busqueda{
+  width: 100%;
+  display: flex;
+  padding: 10px;
+}
+
+.tabla-productos{
+ border-color: #CCD5AE;
+}
+
+.ver-masmenos{
+  padding: 0.5rem 1rem !important;
+  display: block !important;   
+  text-align: center !important;
+  margin: 0 auto !important;
+  max-width: max-content;
+}
+
+.button-vermasmenos {
+  background-color: #D4A373 !important;  /* fondo clarito */
+  color: white !important;
+  font-weight: 600;
+  border-radius: 5px;
+  padding: 0.5rem 1rem;
+  border: none;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  transition: background-color 0.3s ease;
+}
+
+.button-vermasmenos:hover {
+  background-color: #bc5f28 !important; /* tono naranja más oscuro */
+  color: white !important;
+}

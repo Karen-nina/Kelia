@@ -1,0 +1,182 @@
+.recetas-wrapper {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/*Buscador*/
+.buscador-container {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  width: 100%;
+  max-width: 100%;
+}
+
+.input-wrapper {
+  position: relative;
+}
+
+.buscador-input {
+  border-radius: 5px;
+  padding-left: 2.5rem;
+  max-width: 100%;
+}
+
+.buscador-icon {
+  top: 50%;
+  left: 10px;
+  transform: translateY(-50%);
+  color: #888;
+  position: absolute;
+}
+
+/* Contenedor de los tags */
+.container-tags {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  margin-bottom: 20px;
+}
+
+/* Contenedor de los tags */
+.tags-izquierda {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: center;
+  justify-content: center;
+  gap: 10px; /* Espacio entre botones */
+}
+
+/* Botones de tags */
+.tag-button {
+  background: #faedcd;
+  filter: drop-shadow(1px 1px 1px rgba(0, 0, 0, 0.3));
+  border-radius: 10px;
+  cursor: pointer;
+  border: none;
+  padding: 8px;
+  min-width: 7rem;
+}
+
+/* Estilo especial para el botón de limpiar (opcional) */
+.limpiar-button {
+  background: #d4a373;
+  border-color: #ccc;
+  color: white;
+  font-weight: 500;
+  padding: 8px;
+  filter: drop-shadow(1px 1px 1px rgba(0, 0, 0, 0.3));
+}
+.limpiar-button:hover {
+  background-color: #bc5f28;
+  color: white;
+}
+
+/* Estilo especial para el botón de limpiar (opcional) */
+.agregar-button {
+  background: #d4a373;
+  color: white;
+  font-weight: 500;
+  padding: 8px;
+  filter: drop-shadow(1px 1px 1px rgba(0, 0, 0, 0.3));
+  text-decoration: none;
+}
+
+.agregar-button:hover {
+  background-color: #bc5f28;
+  color: white;
+}
+
+.tag-button:hover {
+  filter: drop-shadow(4px 4px 4px rgba(0, 0, 0, 0.3));
+}
+
+.limpiar-agregar {
+  display: flex;
+  gap: 10px;
+  align-items: center; /* centra verticalmente si los botones tienen distinta altura */
+  justify-content: center; /* o center, o space-between */
+  flex-wrap: nowrap; /* asegúrate que no se vayan a otra línea */
+}
+
+/*Slide*/
+.scroll-button {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  z-index: 1;
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 1.5em;
+  color: rgb(0, 0, 0);
+  width: 40px; /* Ajusta el tamaño del círculo */
+  height: 40px; /* Ajusta el tamaño del círculo */
+  border-radius: 50%; /* Crea el círculo */
+  background-color: lightgray; /* Color gris del círculo */
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.scroll-left-circle {
+  left: 14%;
+  opacity: 1;
+}
+
+.scroll-left-circle:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+.scroll-right-circle {
+  right: 14%;
+  opacity: 1;
+}
+
+.scroll-right-circle:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+/*Recetas*/
+.seccion-recetas-container {
+  margin-bottom: 30px;
+  width: 100%;
+  position: relative;
+  justify-items: center;
+}
+
+.recetas-container {
+  display: flex;
+  gap: 10px;
+  overflow-x: auto;
+  padding: 0 5%;
+}
+
+.seccion-titulo {
+  margin-bottom: 10px;
+  font-weight: bolder;
+  font-size: 28px;
+  padding-top: 20px !important;
+}
+
+.nueva-container {
+  align-items: center;
+}
+
+.receta-nueva-container {
+  background-color: #f3f1e6;
+  width: 100%;
+}
+
+@media (max-width: 768px) {
+  .limpiar-agregar {
+    width: 100%;
+  }
+  .tags-izquierda {
+    margin-bottom: 10px;
+  }
+}

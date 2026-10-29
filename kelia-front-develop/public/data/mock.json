@@ -1,0 +1,586 @@
+{
+  "posts": [
+    
+    {
+      "id": "6846067a3c6ee70cd168f0af",
+      "user": {
+          "id": "205",
+          "username": "dulcesdias",
+          "displayName": "Clara",
+          "avatar": "/img/perfil-1.jpg"
+      },
+      "content": "Probé la receta de [[recipe:Muffins arándanos]] y me encantaron!",
+      "createdAt": "2025-06-08T18:54:02.364",
+      "active": 1,
+      "likes":["user206","user208"], 
+      "comments": [
+          {
+              "user": {
+                  "id": "206",
+                  "username": "fanblue",
+                  "displayName": "Nico",
+                  "avatar": "/img/perfil-5.jpg"
+              },
+          "rating": 4,
+          "content": "Muy buenos...",
+          "createdAt": "2025-05-13T11:00:00.000"
+          }
+      ],
+      "mentionedRecipes":[ 
+          {
+              "id": "17",
+              "title": "Muffins arándanos"
+          }
+      ],
+      "mentionedProducts":[],
+      "mentionedPlaces":[]
+    },
+    {
+      "id": "6846067a3c6ee70cd168f0aa",
+      "user": {
+          "id": "205",
+          "username": "skybudgie",
+          "displayName": "Sky",
+          "avatar": "/img/perfil-3.jpg"
+      },
+      "content": "Alguien probó la nueva premezcla de [[product:PanSinTacc]]? La usé para hacer pizzetas y quedaron geniales! Las conseguí en [[place:Organic Sin TACC]].",
+      "createdAt": "2025-05-15T10:30:00.000",
+      "active": 1,
+      "likes":["user206","user208","user206","user208","user206","user208","user206","user208","user206","user208","user206","user208","user206","user208","user206","user208","user206","user208","user206","user208","user206","user208","user206","user208","user206","user208","user206","user208","user206","user208","user206","user208","user206","user208","user206","user208","user206","user208","user206","user208","user206","user208","user206","user208","user206","user208","user206","user208","user206","user208","user208"], 
+      "comments": [
+          {
+              "user": {
+                  "id": "206",
+                  "username": "lau123",
+                  "displayName": "Lau",
+                  "avatar": "/img/perfil-2.jpg"
+              },
+          "likes": 3,
+          "content": "¡Sí! A mí también me gustó mucho.",
+          "createdAt": "2025-05-13T11:00:00.000"
+          },
+          {
+              "user": {
+                  "id": "206",
+                  "username": "juanito",
+                  "displayName": "Juan",
+                  "avatar": "/img/perfil-4.jpg"
+              },
+          "likes": 1,
+          "content": "¿Dónde la conseguiste?",
+          "createdAt": "2025-05-14T11:00:00.000"
+          }
+      ],
+      "mentionedRecipes":[],
+      "mentionedProducts":[ 
+          {
+              "id": "17",
+              "title": "PanSinTacc"
+          }
+      ],
+      "mentionedPlaces":[ 
+          {
+              "id": "ChIJ8Rn_Y3rJvJURtV7iwxCzchw",
+              "name": "Organic Sin TACC"
+          }
+      ]
+    },
+    {
+      "id": "6846067a3c6ee70cd168f0ab",
+      "user": {
+          "id": "205",
+          "username": "lau123",
+          "displayName": "Lau",
+          "avatar": "/img/perfil-2.jpg"
+      },
+      "content": "Descubrí que algunas marcas de avena ahora están certificadas sin TACC!",
+      "createdAt": "2025-05-14T14:45:00.000",
+      "active": 1,
+      "likes":["user206","user208","user300","user400"], 
+      "comments": [
+          {
+              "user": {
+                  "id": "206",
+                  "username": "celiacoarg",
+                  "displayName": "CeliacoArg",
+                  "avatar": "/img/perfil-4.jpg"
+              },
+          "likes": 7,
+          "content": "¡Qué buena noticia!",
+          "createdAt": "2025-05-13T11:00:00.000"
+          },
+          {
+              "user": {
+                  "id": "206",
+                  "username": "meliok",
+                  "displayName": "Meli",
+                  "avatar": "/img/perfil-1.jpg"
+              },
+          "likes": 2,
+          "content": "¿Sabés si se consigue en supermercados?",
+          "createdAt": "2025-05-12T11:00:00.000"
+          }
+      ],
+      "mentionedRecipes":[],
+      "mentionedProducts":[],
+      "mentionedPlaces":[]
+    }
+    ,{
+      "id": "6846067a3c6ee70cd168f0af",
+      "user": {
+          "id": "205",
+          "username": "friend45",
+          "displayName": "Dario",
+          "avatar": "/img/perfil-4.jpg"
+      },
+      "content": "Alguien conoce una buena marca de arroz",
+      "createdAt": "2025-06-08T18:54:02.364",
+      "active": 1,
+      "likes":["user206","user208"], 
+      "comments": [
+          {
+              "user": {
+                  "id": "206",
+                  "username": "fanblue",
+                  "displayName": "Nico",
+                  "avatar": "/img/perfil-5.jpg"
+              },
+          "rating": 4,
+          "content": "arroz gallo.",
+          "createdAt": "2025-05-13T11:00:00.000"
+          }
+      ],
+      "mentionedRecipes":[ 
+      ],
+      "mentionedProducts":[],
+      "mentionedPlaces":[]
+    }
+  ],
+  "products": [
+    {
+      "title": "Galletitas Oreo Sin Gluten 95g",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_821457-MLU76457616021_052024-O.webp",
+      "link": "https://www.mercadolibre.com.ar/galletitas-oreo-sin-gluten-95g/p/MLA36582489",
+      "seller": "Open 25hs",
+      "certificate": true
+    },
+    {
+      "title": "Queso Rallado Reggianito La Serenisima 35gr",
+      "thumbnail": "https://http2.mlstatic.com/D_NQ_NP_767075-MLA73884906774_012024-F.webp",
+      "link": "https://articulo.mercadolibre.com.ar/MLA-1632849542-queso-rallado-reggianito-la-serenisima-35gr-sin-tacc-_JM#polycard_client=search-nordic&position=24&search_layout=stack&type=item&tracking_id=a967a055-0c61-4cea-b8b2-60c51a4e75db&wid=MLA1632849542&sid=search",
+      "seller": "Positiva",
+      "certificate": true
+    }
+
+  ],
+  "recipes": [
+  {
+    "id": "1",
+    "title": "Cheesecake de oreo",
+    "user": {
+      "id": "123",
+      "username": "skybudgie",
+      "displayName": "Sky"
+    },
+    "ingredients": ["100grs oreo", "100grs crema"],
+    "thumbnail": "/img/1.jpg",
+    "instructions": ["Primero debemos triturar las galletitas.", "Batir la crema."],
+    "reviews": [
+      {
+        "user": {
+          "id": "123",
+          "username": "skybudgie",
+          "displayName": "Sky"
+        },
+        "rating": 5,
+        "comment": "Muy bueno!"
+      }
+    ],
+    "preparationTime": 15,
+    "save_count": 24,
+    "rating": 5,
+    "tags": ["dulce" , "horno"],
+    "category" : ["postre"]
+  },
+  {
+    "id": "2",
+    "title": "Tarta de JyQ",
+    "user": {
+      "id": "124",
+      "username": "cocinalinda",
+      "displayName": "Linda"
+    },
+    "ingredients": ["masa para tarta sin tacc", "150grs jamón", "150grs queso", "3 huevos", "200ml crema"],
+    "thumbnail": "/img/2.jpg",
+    "instructions": ["Batir huevos y crema", "Agregar jamón y queso", "Hornear 30 minutos"],
+    "reviews": [],
+    "preparationTime": 40,
+    "save_count": 15,
+    "rating": 3,
+    "category": ["almuerzo", "cena"],
+    "tags" : ["salado", "horno"]
+  },
+  {
+    "id": "3",
+    "title": "Panqueques con DDL",
+    "user": {
+      "id": "125",
+      "username": "dulcedia",
+      "displayName": "Dulce"
+    },
+    "ingredients": ["2 huevos", "200ml leche", "100grs premezcla", "dulce de leche"],
+    "thumbnail": "/img/3.jpg",
+    "instructions": ["Mezclar ingredientes", "Cocinar en sartén", "Rellenar con dulce de leche"],
+    "reviews": [],
+    "preparationTime": 20,
+    "save_count": 30,
+    "rating": 5,
+    "category": ["postre", "desayuno"],
+    "tags": ["dulce", "rápido"]
+  },
+  {
+    "id": "4",
+    "title": "Milanesas de pollo",
+    "user": {
+      "id": "126",
+      "username": "chefargentino",
+      "displayName": "Argento"
+    },
+    "ingredients": ["pechugas de pollo", "pan rallado", "huevo", "sal", "aceite"],
+    "thumbnail": "/img/4.jpg",
+    "instructions": ["Pasar pollo por huevo y pan rallado", "Freír hasta dorar"],
+    "reviews": [],
+    "preparationTime": 25,
+    "save_count": 40,
+    "rating": 4,
+    "category": ["almuerzo", "cena"],
+    "tags": ["salado", "frito"]
+  },
+  {
+    "id": "5",
+    "title": "Tortilla de papas",
+    "user": {
+      "id": "127",
+      "username": "saborescaseros",
+      "displayName": "Casera"
+    },
+    "ingredients": ["4 papas", "4 huevos", "sal", "cebolla (opcional)", "aceite"],
+    "thumbnail": "/img/5.jpg",
+    "instructions": ["Freír papas", "Mezclar con huevo", "Cocinar en sartén"],
+    "reviews": [],
+    "preparationTime": 35,
+    "save_count": 28,
+    "rating": 5,
+    "category": ["almuerzo", "cena"],
+    "tags": ["vegetariano" , "salado"  , "rápido"]
+  },
+  {
+    "id": "6",
+    "title": "Arroz con leche",
+    "user": {
+      "id": "128",
+      "username": "abuelita",
+      "displayName": "Abuela Tita"
+    },
+    "ingredients": ["1 taza arroz", "1 litro leche", "azúcar", "canela"],
+    "thumbnail": "/img/6.jpg",
+    "instructions": ["Hervir arroz con leche", "Agregar azúcar y canela", "Cocinar a fuego lento"],
+    "reviews": [],
+    "preparationTime": 45,
+    "save_count": 33,
+    "rating": 5,
+    "category": ["postre"],
+    "tags": ["rápido" , "vegetariano"]
+  },
+  {
+    "id": "7",
+    "title": "Pizza casera",
+    "user": {
+      "id": "129",
+      "username": "pizzalover",
+      "displayName": "Lucho"
+    },
+    "ingredients": ["premezcla", "levadura", "agua", "salsa de tomate", "queso", "orégano"],
+    "thumbnail": "/img/7.jpg",
+    "instructions": ["Preparar masa", "Agregar salsa y queso", "Hornear 20 minutos"],
+    "reviews": [],
+    "preparationTime": 60,
+    "save_count": 50,
+    "rating": 4,
+    "category": ["cena", "almuerzo"],
+    "tags": ["salado" , "horno"] 
+  },
+  {
+    "id": "8",
+    "title": "Empanadas de carne",
+    "user": {
+      "id": "130",
+      "username": "empanadero",
+      "displayName": "Carlos"
+    },
+    "ingredients": ["discos de empanada", "carne picada", "cebolla", "huevo", "especias"],
+    "thumbnail": "/img/8.jpg",
+    "instructions": ["Cocinar carne", "Rellenar discos", "Hornear o freír"],
+    "reviews": [],
+    "preparationTime": 50,
+    "save_count": 45,
+    "rating": 5,
+    "category": ["cena"  , "almuerzo"],
+    "tags" : ["salado" , "frito"]
+  },
+  {
+    "id": "9",
+    "title": "Ensalada César",
+    "user": {
+      "id": "131",
+      "username": "lightchef",
+      "displayName": "Verde"
+    },
+    "ingredients": ["lechuga", "pollo", "crutones", "queso", "salsa César"],
+    "thumbnail": "/img/9.jpg",
+    "instructions": ["Cocinar pollo", "Mezclar ingredientes", "Agregar salsa"],
+    "reviews": [],
+    "preparationTime": 15,
+    "save_count": 22,
+    "rating": 4,
+    "category": ["almuerzo", "cena"],
+    "tags" : ["vegetariano" , "vegano" , "ensalada"]
+  },
+  {
+    "id": "10",
+    "title": "Bizcochuelo de vainilla",
+    "user": {
+      "id": "132",
+      "username": "dulzuras",
+      "displayName": "Maru"
+    },
+    "ingredients": ["3 huevos", "1 taza azúcar", "1 taza premezcla", "esencia de vainilla"],
+    "thumbnail": "/img/10.jpg",
+    "instructions": ["Batir huevos con azúcar", "Agregar premezcla y vainilla", "Hornear 40 minutos"],
+    "reviews": [],
+    "preparationTime": 50,
+    "save_count": 18,
+    "rating": 4,
+    "category": ["postre"],
+    "tags": ["dulce", "horno"]
+  },
+  {
+    "id": "11",
+    "title": "Tacos picantes de carne",
+    "user": {
+      "id": "123",
+      "username": "skybudgie",
+      "displayName": "Sky"
+    },
+    "ingredients": ["500gr carne picada", "Tortillas de maíz", "Salsa picante", "Cebolla", "Ají molido"],
+    "thumbnail": "/img/11.jpg",
+    "instructions": ["Saltear la carne con la cebolla", "Agregar ají molido y salsa picante", "Servir en tortillas calientes"],
+    "reviews": [],
+    "preparationTime": 20,
+    "save_count": 15,
+    "rating": 5,
+    "category": ["almuerzo"],
+    "tags": ["picante"]
+  },
+  {
+    "id": "12",
+    "title": "Pollo al curry picante",
+    "user": {
+      "id": "123",
+      "username": "skybudgie",
+      "displayName": "Sky"
+    },
+    "ingredients": ["2 pechugas de pollo", "Curry rojo", "Leche de coco", "Cebolla", "Chile en polvo"],
+    "thumbnail": "/img/12.jpg",
+    "instructions": ["Dorar el pollo", "Agregar cebolla y curry", "Incorporar leche de coco y chile", "Cocinar a fuego lento"],
+    "reviews": [],
+    "preparationTime": 30,
+    "save_count": 22,
+    "rating": 4,
+    "category": ["almuerzo", "cena"],
+    "tags": ["picante"]
+  },
+ {
+  "id": "13",  
+  "title": "Chips de batata al horno",
+    "user": {
+      "id": "123",
+      "username": "skybudgie",
+      "displayName": "Sky"
+    },
+    "ingredients": ["1 batata grande", "Aceite de oliva", "Sal", "Pimienta"],
+    "thumbnail": "/img/13.jpg",
+    "instructions": ["Cortar la batata en rodajas finas", "Colocar en bandeja con aceite", "Hornear 20 minutos hasta dorar"],
+    "reviews": [],
+    "preparationTime": 25,
+    "save_count": 18,
+    "rating": 4,
+    "category": ["almuerzo"],
+    "tags": ["salado", "horno", "snacks"]
+  },
+  {
+    "id": "14",
+    "title": "Bolitas de queso y panceta",
+    "user": {
+      "id": "123",
+      "username": "skybudgie",
+      "displayName": "Sky"
+    },
+    "ingredients": ["200gr queso cremoso", "100gr panceta", "Pan rallado", "Huevo"],
+    "thumbnail": "/img/14.jpg",
+    "instructions": ["Formar bolitas con el queso", "Envolver en panceta", "Pasar por huevo y pan rallado", "Freír hasta dorar"],
+    "reviews": [],
+    "preparationTime": 20,
+    "save_count": 30,
+    "rating": 5,
+    "category": ["cena"],
+    "tags": ["salado", "rápido", "snacks"]
+  },
+  {
+    "id": "15",
+    "title": "Pancakes clásicos",
+    "user": {
+      "id": "201",
+      "username": "desayunador",
+      "displayName": "Dani"
+    },
+    "ingredients": ["1 taza de premezcla", "1 huevo", "1 taza de leche", "2 cdas de azúcar", "1 cdita de polvo de hornear", "1 pizca de sal"],
+    "thumbnail": "/img/15.jpg",
+    "instructions": ["Mezclar los ingredientes secos.", "Agregar el huevo y la leche.", "Cocinar en sartén con un poco de manteca."],
+    "preparationTime": 20,
+    "rating": 4,
+    "save_count": 12,
+    "category": "Desayuno",
+    "tags": ["dulce"],
+    "reviews": [
+      {
+        "user": {
+          "id": "202",
+          "username": "bruncher",
+          "displayName": "Vale"
+        },
+    "rating": 4,
+    "comment": "Súper esponjosos. ¡Recomiendo con miel!"}]
+  },
+  {
+    "id": "16",
+    "title": "Medialunas manteca",
+    "user": {
+      "id": "203",
+      "username": "panadero23",
+      "displayName": "Lucho"
+    },
+    "ingredients": ["500g premezcla", "25g levadura", "1 huevo", "150g manteca", "100g azúcar", "200ml leche"],
+    "thumbnail": "/img/16.png",
+    "instructions": ["Activar la levadura con leche tibia y azúcar.", "Mezclar con el resto de ingredientes.", "Estirar, cortar triángulos y enrollar.", "Hornear a 180°C hasta dorar."],
+    "preparationTime": 90,
+    "rating": 5,
+    "save_count": 24,
+    "category": "Desayuno",
+    "tags": ["dulce"],
+    "reviews": [
+      {
+        "user": {
+          "id": "204",
+          "username": "matecito",
+          "displayName": "Juan"
+        },
+        "rating": 5,
+        "comment": "Parecen de panadería. ¡Riquísimas!"
+      }
+    ]
+  },
+  {
+    "id": "17",
+    "title": "Muffins arándanos",
+    "user": {
+      "id": "205",
+      "username": "dulcesdias",
+      "displayName": "Clara"
+    },
+    "ingredients": ["2 tazas de premezcla", "1 taza de azúcar", "2 huevos", "1/2 taza de leche", "1 taza de arándanos", "1/2 taza de aceite", "1 cdita de polvo de hornear"],
+    "thumbnail": "/img/16.jpg",
+    "instructions": ["Batir huevos, azúcar y aceite.", "Agregar la premezcla y leche alternadamente.", "Sumar los arándanos.", "Llevar al horno 20 minutos."],
+    "preparationTime": 30,
+    "rating": 4,
+    "save_count": 17,
+    "category": "Desayuno",
+    "tags": ["dulce"],
+    "reviews": [
+      {
+        "user": {
+          "id": "206",
+          "username": "fanblue",
+          "displayName": "Nico"
+        },
+        "rating": 4,
+        "comment": "Muy buenos, aunque los prefiero con chips de chocolate."
+      }
+    ]
+  },
+  {
+    "id": "18",
+    "title": "Churros caseros",
+    "user": {
+      "id": "207",
+      "username": "saborcriollo",
+      "displayName": "Tito"
+    },
+    "ingredients": ["1 taza de premezcla", "1 taza de agua", "1 cda de manteca", "1 pizca de sal", "Aceite para freír", "Azúcar para espolvorear"],
+    "thumbnail": "/img/17.jpeg",
+    "instructions": ["Hervir el agua con manteca y sal.", "Agregar la premezcla de golpe.", "Mezclar y colocar en manga.", "Freír y espolvorear con azúcar."],
+    "preparationTime": 25,
+    "rating": 5,
+    "save_count": 20,
+    "category": "Desayuno",
+    "tags": ["dulce"],
+    "reviews": [
+      {
+        "user": {
+          "id": "208",
+          "username": "rosquinera",
+          "displayName": "Abi"
+        },
+        "rating": 5,
+        "comment": "Una bomba para el desayuno con chocolate caliente."
+      }
+    ]
+  },
+  {
+    "id": "19",
+    "title": "Tortilla de avena integral",
+    "user": {
+      "id": "209",
+      "username": "brunchlover",
+      "displayName": "Lau"
+    },
+    "ingredients": [
+      "1 huevo",
+      "3 cdas de avena integral",
+      "1 cda de leche (opcional)",
+      "1 pizca de sal",
+      "Aceite o manteca para cocinar"
+    ],
+    "thumbnail": "/img/18.jpg",
+    "instructions": [
+      "Batir el huevo con la avena, sal y leche si se desea más suave.",
+      "Dejar reposar 5 minutos para que la avena absorba el líquido.",
+      "Cocinar en sartén antiadherente con un poco de aceite o manteca, vuelta y vuelta."
+    ],
+    "preparationTime": 10,
+    "rating": 5,
+    "save_count": 15,
+    "category": "Desayuno",
+    "tags": ["rápido"],
+    "reviews": [
+      {
+        "user": {
+          "id": "210",
+          "username": "saludable_ya",
+          "displayName": "Feli"
+        },
+        "rating": 5,
+        "comment": "¡Riquísima y súper rápida! Ideal con queso y palta arriba."
+      }
+    ]}]
+}

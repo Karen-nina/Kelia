@@ -1,0 +1,4685 @@
+[
+  {
+    "name": "Bonafide Lujàn",
+    "category": "Cafeteria",
+    "lat": -34.5661962,
+    "lng": -59.1136067,
+    "place_id": null
+  },
+  {
+    "name": "CATA Cocina y Pastelería sin gluten",
+    "category": "Cafeteria",
+    "lat": -34.6352098,
+    "lng": -58.5923266,
+    "place_id": "ChIJl8SEklfHvJURElCn5FyyKgI"
+  },
+  {
+    "name": "Havanna",
+    "category": "Cafeteria",
+    "lat": -34.8171287,
+    "lng": -58.4642714,
+    "place_id": "ChIJA0HXxmHRvJURL1bkvpLEF90"
+  },
+  {
+    "name": "Cafetería Antojos del Horno",
+    "category": "Cafeteria",
+    "lat": -35.0242665,
+    "lng": -58.4258442,
+    "place_id": "ChIJa-ReH70tvZURJgsUSEi5tSY"
+  },
+  {
+    "name": "Caffe del Doge",
+    "category": "Cafeteria",
+    "lat": -35.4408191,
+    "lng": -58.8082766,
+    "place_id": "ChIJSz72BkJpvZURBRdmeqkgZy4"
+  },
+  {
+    "name": "La Cafetería El Nido",
+    "category": "Cafeteria",
+    "lat": -34.7546019,
+    "lng": -58.4030744,
+    "place_id": "ChIJxS1e9pDSvJUREVg73tzAZ9g"
+  },
+  {
+    "name": "Amitié Cafeteria Sin Gluten",
+    "category": "Cafeteria",
+    "lat": -34.5940417,
+    "lng": -58.4219966,
+    "place_id": "ChIJoxdAGQvLvJURFBBo_cn841U"
+  },
+  {
+    "name": "TACC FREE POINT",
+    "category": "Cafeteria",
+    "lat": -34.5293125,
+    "lng": -58.7014338,
+    "place_id": "ChIJm457Cb29vJURSHsPMyj2x9w"
+  },
+  {
+    "name": "Bistró Café et Bar",
+    "category": "Cafeteria",
+    "lat": -38.0319707,
+    "lng": -60.0999362,
+    "place_id": "ChIJuVCtg30xkpUROL0jGMf1rdk"
+  },
+  {
+    "name": "Bäcke Gluten Free",
+    "category": "Cafeteria",
+    "lat": -34.5940653,
+    "lng": -58.5031713,
+    "place_id": null
+  },
+  {
+    "name": "TERRAXA",
+    "category": "Cafeteria",
+    "lat": -37.3242651,
+    "lng": -59.1378413,
+    "place_id": "ChIJL_RQbZAfkZURYAzkMR3w7Zw"
+  },
+  {
+    "name": "Sorti Café",
+    "category": "Cafeteria",
+    "lat": -38.3798697,
+    "lng": -60.274023,
+    "place_id": null
+  },
+  {
+    "name": "Havanna Tandil",
+    "category": "Cafeteria",
+    "lat": -37.3270412,
+    "lng": -59.1351985,
+    "place_id": null
+  },
+  {
+    "name": "Ruya Coffee Store",
+    "category": "Cafeteria",
+    "lat": -38.3807672,
+    "lng": -60.2727975,
+    "place_id": null
+  },
+  {
+    "name": "Betular Pâtisserie",
+    "category": "Cafeteria",
+    "lat": -34.6012632,
+    "lng": -58.512071,
+    "place_id": null
+  },
+  {
+    "name": "Casa Telma",
+    "category": "Cafeteria",
+    "lat": -34.6196592,
+    "lng": -58.3728157,
+    "place_id": "ChIJe-s0EW_LvJUR0KManALssnw"
+  },
+  {
+    "name": "Comer en Compañía",
+    "category": "Cafeteria",
+    "lat": -34.5992858,
+    "lng": -58.39713,
+    "place_id": "ChIJm3Vp9MrKvJURvoZonpbP8Ck"
+  },
+  {
+    "name": "De Vez en Cuando la Vida",
+    "category": "Cafeteria",
+    "lat": -34.5841813,
+    "lng": -60.944231,
+    "place_id": "ChIJC2a15rHruJURLdkN8n1-evI"
+  },
+  {
+    "name": "Café Martinez",
+    "category": "Cafeteria",
+    "lat": -34.161989,
+    "lng": -58.9592166,
+    "place_id": "ChIJxb6uKrZzu5URzTeqQV3V918"
+  },
+  {
+    "name": "Chipaceria Lima",
+    "category": "Cafeteria",
+    "lat": -34.6455942,
+    "lng": -60.4762488,
+    "place_id": "ChIJG1LBGgAluZURRp0N3ARLqPs"
+  },
+  {
+    "name": "Café Martínez",
+    "category": "Cafeteria",
+    "lat": -34.59905,
+    "lng": -58.393281,
+    "place_id": null
+  },
+  {
+    "name": "Barragán Lonchería y Café",
+    "category": "Cafeteria",
+    "lat": -34.6112378,
+    "lng": -58.4565149,
+    "place_id": null
+  },
+  {
+    "name": "Fika",
+    "category": "Cafeteria",
+    "lat": -34.4353341,
+    "lng": -58.7963694,
+    "place_id": "ChIJ9RbJCS-fvJURhUVlXu8AGNY"
+  },
+  {
+    "name": "Las Margaritas Café",
+    "category": "Cafeteria",
+    "lat": -34.3894819,
+    "lng": -59.8210018,
+    "place_id": "ChIJQxj-loHhu5URyF0ZfnYvAxg"
+  },
+  {
+    "name": "Arabia Café de Especialidad",
+    "category": "Cafeteria",
+    "lat": -35.6404835,
+    "lng": -59.7780659,
+    "place_id": null
+  },
+  {
+    "name": "Hoy hay pastelería y café de especialidad",
+    "category": "Cafeteria",
+    "lat": -35.401189,
+    "lng": -59.3365148,
+    "place_id": "ChIJq3FYGAC7vZURa52wBzco77U"
+  },
+  {
+    "name": "Sansa café &amp; Brunch",
+    "category": "Cafeteria",
+    "lat": -34.6047991,
+    "lng": -58.4948579,
+    "place_id": "ChIJRUOZe4u3vJURtpHh1lmU5IQ"
+  },
+  {
+    "name": "Tacc Off",
+    "category": "Cafeteria",
+    "lat": -34.9251409,
+    "lng": -57.9458631,
+    "place_id": "ChIJxa9KW6XnopURZkqFDnbszuc"
+  },
+  {
+    "name": "Gout gluten free Quilmes.",
+    "category": "Cafeteria",
+    "lat": -34.7194141,
+    "lng": -58.2607831,
+    "place_id": "ChIJAy0PUU8vo5URstXnlNRg5Z8"
+  },
+  {
+    "name": "Flora Cocina &amp; Café",
+    "category": "Cafeteria",
+    "lat": -34.9220992,
+    "lng": -57.9510347,
+    "place_id": "ChIJKawOei_mopUREnzawTsl8mA"
+  },
+  {
+    "name": "Café Martínez",
+    "category": "Cafeteria",
+    "lat": -34.6189503,
+    "lng": -58.5040387,
+    "place_id": "ChIJYz7i6dPJvJURsMzFQO_PDaA"
+  },
+  {
+    "name": "Argot Café",
+    "category": "Cafeteria",
+    "lat": -34.6084031,
+    "lng": -58.4811568,
+    "place_id": "ChIJa2R6nOHJvJURFfOglIiry_s"
+  },
+  {
+    "name": "ifigenia Café",
+    "category": "Cafeteria",
+    "lat": -34.6100713,
+    "lng": -58.4710254,
+    "place_id": "ChIJXTw_AjrJvJUR6bS8f4rmJ2k"
+  },
+  {
+    "name": "Antolina",
+    "category": "Cafeteria",
+    "lat": -34.6722055,
+    "lng": -58.7236243,
+    "place_id": "ChIJaYGFGve_vJURSHmwA2_S5SU"
+  },
+  {
+    "name": "Bonafide",
+    "category": "Cafeteria",
+    "lat": -34.6703294,
+    "lng": -58.7259694,
+    "place_id": "ChIJVVVVVfq_vJURm6zJAi1zCno"
+  },
+  {
+    "name": "Aparicio bar de cafés y espressos",
+    "category": "Cafeteria",
+    "lat": -34.6279431,
+    "lng": -58.4324369,
+    "place_id": "ChIJMxw69kTLvJURjfgKJKLqXYw"
+  },
+  {
+    "name": "Havanna",
+    "category": "Cafeteria",
+    "lat": -38.5829677,
+    "lng": -58.7289884,
+    "place_id": "ChIJDWHMpwWYj5URiu36aKKr7dM"
+  },
+  {
+    "name": "La Oficina Cafe Resto",
+    "category": "Cafeteria",
+    "lat": -38.5722032,
+    "lng": -58.729171,
+    "place_id": "ChIJhZ4_Fb2Xj5UR7mRoZhGGxxY"
+  },
+  {
+    "name": "Dolche Patagonia Playa",
+    "category": "Cafeteria",
+    "lat": -38.582805,
+    "lng": -58.7292667,
+    "place_id": "ChIJEwMopsiXj5UROIWmvUXPZxU"
+  },
+  {
+    "name": "Van Dyke",
+    "category": "Cafeteria",
+    "lat": -38.2705796,
+    "lng": -57.8379373,
+    "place_id": "ChIJsx3aX-wRhZURKj2Tm9QdRV8"
+  },
+  {
+    "name": "Havanna",
+    "category": "Cafeteria",
+    "lat": -38.2710731,
+    "lng": -57.8372562,
+    "place_id": "ChIJNYFF0WIQhZUREbWdp9_M8Ik"
+  },
+  {
+    "name": "Tizhianna Café Resto",
+    "category": "Cafeteria",
+    "lat": -37.9982724,
+    "lng": -57.5601157,
+    "place_id": "ChIJ2ZlTF6zehJUR_pKo1Dd2Hbk"
+  },
+  {
+    "name": "El Pastelero Artesanal Café Boutique",
+    "category": "Cafeteria",
+    "lat": -38.578806,
+    "lng": -58.7319001,
+    "place_id": "ChIJq8NUTQKZj5URBWIUo9DVtxE"
+  },
+  {
+    "name": "Chilabas cafe &amp; deli",
+    "category": "Cafeteria",
+    "lat": -38.5702743,
+    "lng": -58.7292088,
+    "place_id": "ChIJD7kbl-SXj5UR1_QSNmnZlNY"
+  },
+  {
+    "name": "Van Dyke Restaurant",
+    "category": "Cafeteria",
+    "lat": -38.2688913,
+    "lng": -57.8398717,
+    "place_id": null
+  },
+  {
+    "name": "Casamonte",
+    "category": "Cafeteria",
+    "lat": -38.7134342,
+    "lng": -62.2563402,
+    "place_id": "ChIJz2OMACej7ZURp_N1GGlwucY"
+  },
+  {
+    "name": "La Feria",
+    "category": "Cafeteria",
+    "lat": -38.7166985,
+    "lng": -62.2681867,
+    "place_id": "ChIJScVw3q287ZURMJCC-WDwj0Q"
+  },
+  {
+    "name": "The Coffee Store",
+    "category": "Cafeteria",
+    "lat": -38.697307,
+    "lng": -62.265548,
+    "place_id": "ChIJbXwmTFK77ZURMvGd4XeXihM"
+  },
+  {
+    "name": "Eclair",
+    "category": "Cafeteria",
+    "lat": -38.7154689,
+    "lng": -62.2645854,
+    "place_id": "ChIJkWNIvge97ZUR_giV-Qs24Gs"
+  },
+  {
+    "name": "Bonafide Café",
+    "category": "Cafeteria",
+    "lat": -38.7191346,
+    "lng": -62.2677759,
+    "place_id": null
+  },
+  {
+    "name": "Madre. Brunch y cafe",
+    "category": "Cafeteria",
+    "lat": -38.718755,
+    "lng": -62.264685,
+    "place_id": "ChIJOydjcwC97ZURC7tEtifFNgI"
+  },
+  {
+    "name": "Grand Central Cafe Club",
+    "category": "Cafeteria",
+    "lat": -38.7191418,
+    "lng": -62.2654732,
+    "place_id": "ChIJ-Zu5Vuq97ZURi-AnRAVCyjA"
+  },
+  {
+    "name": "Havanna",
+    "category": "Cafeteria",
+    "lat": -38.7171493,
+    "lng": -62.263169,
+    "place_id": "ChIJ6XuXrrK87ZURDdpmtKFyCMo"
+  },
+  {
+    "name": "Nunnie pasteleria",
+    "category": "Cafeteria",
+    "lat": -38.7170346,
+    "lng": -62.271173,
+    "place_id": "ChIJI5-KmxK97ZURQRcHzjx1Ab4"
+  },
+  {
+    "name": "Matilda - Casa de té",
+    "category": "Cafeteria",
+    "lat": -38.7050251,
+    "lng": -62.2677984,
+    "place_id": "ChIJVSs1cZ277ZURgem7ZG9K0_k"
+  },
+  {
+    "name": "La Casa de las Flores - Café &amp; Aromas",
+    "category": "Cafeteria",
+    "lat": -38.7182872,
+    "lng": -62.2622982,
+    "place_id": "ChIJ5wd-bi2j7ZURmn5_0FK7piA"
+  },
+  {
+    "name": "Greta Casa de Té y Café",
+    "category": "Cafeteria",
+    "lat": -37.6905878,
+    "lng": -63.1603787,
+    "place_id": null
+  },
+  {
+    "name": "Bistro 1884",
+    "category": "Cafeteria",
+    "lat": -37.6035049,
+    "lng": -62.4072319,
+    "place_id": "ChIJIcD3yCCV65URnij2HwcjJQQ"
+  },
+  {
+    "name": "Amorata cafe",
+    "category": "Cafeteria",
+    "lat": -37.179112,
+    "lng": -62.7607914,
+    "place_id": "ChIJbbvvZF8n6pURVaJgEl5yWDU"
+  },
+  {
+    "name": "Las Golondrinas - Casa de Té",
+    "category": "Cafeteria",
+    "lat": -38.0805017,
+    "lng": -61.9349262,
+    "place_id": "ChIJvQCLY9Py7JURKyaOTityKd0"
+  },
+  {
+    "name": "Los Buhos - Casa de Té - Cafetería",
+    "category": "Cafeteria",
+    "lat": -38.0784314,
+    "lng": -61.9287116,
+    "place_id": "ChIJF-DRspzz7JUR1X-mvKMqlYI"
+  },
+  {
+    "name": "Bonafide",
+    "category": "Cafeteria",
+    "lat": -37.4590727,
+    "lng": -61.9348964,
+    "place_id": "ChIJW2xGHyhz65URXl5XqRGg3pU"
+  },
+  {
+    "name": "Penguin Coffee",
+    "category": "Cafeteria",
+    "lat": -37.4596278,
+    "lng": -61.9351637,
+    "place_id": "ChIJidBppnVz65URFlfQ5Hb2DBw"
+  },
+  {
+    "name": "Green Coffe",
+    "category": "Cafeteria",
+    "lat": -38.1381139,
+    "lng": -61.795618,
+    "place_id": "ChIJFxcU18Tv7JURmXQZeLEyDwM"
+  },
+  {
+    "name": "Confiteria Carvimar",
+    "category": "Restaurante",
+    "lat": -35.4320081,
+    "lng": -60.1709074,
+    "place_id": "ChIJvydbqVZgvpURtxIvBQ9wK80"
+  },
+  {
+    "name": "Jade sin tacc",
+    "category": "Restaurante",
+    "lat": -34.5596944,
+    "lng": -58.4620652,
+    "place_id": "ChIJdaVde823vJURTDM6paN-8as"
+  },
+  {
+    "name": "Sin gluten hogar",
+    "category": "Restaurante",
+    "lat": -34.5650615,
+    "lng": -59.1227415,
+    "place_id": "ChIJlamJELN9vJURs9KmEcZ2hVk"
+  },
+  {
+    "name": "La cocina sin gluten Muniz",
+    "category": "Restaurante",
+    "lat": -34.547051,
+    "lng": -58.7015353,
+    "place_id": "ChIJ6UMB7fm9vJURr8PVePo04fs"
+  },
+  {
+    "name": "TACCOUT",
+    "category": "Restaurante",
+    "lat": -34.5721186,
+    "lng": -58.4308559,
+    "place_id": null
+  },
+  {
+    "name": "JANA GLUTEN FREE | Pizzeria sin TACC",
+    "category": "Restaurante",
+    "lat": -34.6482529,
+    "lng": -58.4837906,
+    "place_id": null
+  },
+  {
+    "name": "La Embajada",
+    "category": "Restaurante",
+    "lat": -34.6085241,
+    "lng": -58.3754224,
+    "place_id": null
+  },
+  {
+    "name": "El Paseo Resto Bar",
+    "category": "Restaurante",
+    "lat": -34.1990771,
+    "lng": -60.7323669,
+    "place_id": "ChIJvwo37xlXuJUR01IMk7DhzHM"
+  },
+  {
+    "name": "Felipe Jaime Bar",
+    "category": "Restaurante",
+    "lat": -34.292334,
+    "lng": -60.2578928,
+    "place_id": null
+  },
+  {
+    "name": "La Fragata - Ramos Mejía",
+    "category": "Restaurante",
+    "lat": -34.6436721,
+    "lng": -58.5648308,
+    "place_id": "ChIJm8lJkuXHvJUR7m7m9vhBo08"
+  },
+  {
+    "name": "Mega-Burger",
+    "category": "Restaurante",
+    "lat": -35.0218629,
+    "lng": -58.4196536,
+    "place_id": "ChIJM1xa5bgtvZURINE1ZuQXOSk"
+  },
+  {
+    "name": "D&apos;oro Italian Bar",
+    "category": "Restaurante",
+    "lat": -34.6097093,
+    "lng": -58.3749556,
+    "place_id": "ChIJLQR0nNPKvJURtyi02e1xSBc"
+  },
+  {
+    "name": "Tuti 2",
+    "category": "Restaurante",
+    "lat": -35.4410071,
+    "lng": -60.8769524,
+    "place_id": "ChIJWwGZSsENv5URn05p18Hk85Y"
+  },
+  {
+    "name": "Restaurante Di Tutti Capi",
+    "category": "Restaurante",
+    "lat": -34.439549,
+    "lng": -59.4460698,
+    "place_id": "ChIJwfvkA-GMu5URD8lcqJ54t3w"
+  },
+  {
+    "name": "Maledetto Trattoria",
+    "category": "Restaurante",
+    "lat": -34.6434353,
+    "lng": -58.5656575,
+    "place_id": null
+  },
+  {
+    "name": "Rossina Lujan",
+    "category": "Restaurante",
+    "lat": -34.5629253,
+    "lng": -59.1199701,
+    "place_id": "ChIJkZbgF7N9vJURxUYmp6M8Xx0"
+  },
+  {
+    "name": "Torremolinos",
+    "category": "Restaurante",
+    "lat": -35.4457472,
+    "lng": -60.883363,
+    "place_id": "ChIJq9tli437cg0RSLm_ruiL1Cw"
+  },
+  {
+    "name": "Olivo Café+Restó",
+    "category": "Restaurante",
+    "lat": -35.4410071,
+    "lng": -60.8769524,
+    "place_id": "ChIJrU6qiQYNv5URC4zk_JfU2Do"
+  },
+  {
+    "name": "Box Work Café",
+    "category": "Restaurante",
+    "lat": -35.4678369,
+    "lng": -60.8502571,
+    "place_id": null
+  },
+  {
+    "name": "TABA 52",
+    "category": "Restaurante",
+    "lat": -34.856522,
+    "lng": -58.5024404,
+    "place_id": null
+  },
+  {
+    "name": "La Carpintería de Abbott",
+    "category": "Restaurante",
+    "lat": -35.2805263,
+    "lng": -58.8034003,
+    "place_id": null
+  },
+  {
+    "name": "Anatani Yummy &amp; Gluten Free",
+    "category": "Restaurante",
+    "lat": -34.565927,
+    "lng": -58.4630776,
+    "place_id": "ChIJ49-B_9W1vJURF9_Z_cNpxo8"
+  },
+  {
+    "name": "Piacere Sin Tacc Ramos Mejia",
+    "category": "Restaurante",
+    "lat": -34.6483495,
+    "lng": -58.5639337,
+    "place_id": "ChIJbWNtCarHvJUROSRxMplWZfU"
+  },
+  {
+    "name": "GOUT CAFE GLUTEN FREE",
+    "category": "Restaurante",
+    "lat": -34.592987,
+    "lng": -58.3972725,
+    "place_id": null
+  },
+  {
+    "name": "Rica &amp; Celi Gluten Free",
+    "category": "Restaurante",
+    "lat": -34.5964897,
+    "lng": -58.4047086,
+    "place_id": "ChIJL3QWLu3LvJURTICmFPa6BeY"
+  },
+  {
+    "name": "Gout Gluten Free Canning",
+    "category": "Restaurante",
+    "lat": -34.8818769,
+    "lng": -58.5046614,
+    "place_id": "ChIJueROFWvXvJUROcNW-qNnnRM"
+  },
+  {
+    "name": "Piacere Sin Tacc Palomar",
+    "category": "Restaurante",
+    "lat": -34.6293953,
+    "lng": -58.5976411,
+    "place_id": "ChIJc4zy47G5vJURDQA6ZF4D3Oo"
+  },
+  {
+    "name": "Marie Libre de Gluten",
+    "category": "Restaurante",
+    "lat": -34.7907159,
+    "lng": -58.3571927,
+    "place_id": "ChIJ88tei7gso5URVM6gCAfsLiQ"
+  },
+  {
+    "name": "Vegetariana, alimentación consciente Sin tacc",
+    "category": "Restaurante",
+    "lat": -34.6196696,
+    "lng": -58.372662,
+    "place_id": null
+  },
+  {
+    "name": "Sintaxis Villa Urquiza",
+    "category": "Restaurante",
+    "lat": -34.5775374,
+    "lng": -58.4863307,
+    "place_id": "ChIJMUhKqtW3vJUR_BNkxsp4Zpg"
+  },
+  {
+    "name": "Restaurante LAS HORTENSIAS SIN TACC",
+    "category": "Restaurante",
+    "lat": -34.5277792,
+    "lng": -58.7572976,
+    "place_id": "ChIJFXGyoT-XvJURCZ1bASXEQIw"
+  },
+  {
+    "name": "MaBi Vegana Sin Tacc",
+    "category": "Restaurante",
+    "lat": -34.6921588,
+    "lng": -58.7562629,
+    "place_id": "ChIJ_112aRLrvJURCNEsZRnKzsc"
+  },
+  {
+    "name": "Paula Lopez Castan, sin gluten, lácteos,azúcar",
+    "category": "Restaurante",
+    "lat": -34.6424255,
+    "lng": -58.5608996,
+    "place_id": "ChIJz-tsz-DJvJURtgYd8BuU83w"
+  },
+  {
+    "name": "Don Zapiola Sin Tacc Mercado Belgrano",
+    "category": "Restaurante",
+    "lat": -34.5629126,
+    "lng": -58.4585378,
+    "place_id": "ChIJdUy8z8m1vJUR0PSb049vH8k"
+  },
+  {
+    "name": "Gluten Free Lomas",
+    "category": "Restaurante",
+    "lat": -34.7615518,
+    "lng": -58.4044072,
+    "place_id": "ChIJ90bh94fTvJURR3zsxifu3zw"
+  },
+  {
+    "name": "Chipakilla",
+    "category": "Restaurante",
+    "lat": -34.6023026,
+    "lng": -58.5508726,
+    "place_id": "ChIJv8loHYC3vJUR3YC3nJ1T-r4"
+  },
+  {
+    "name": "Carlota caraf",
+    "category": "Restaurante",
+    "lat": -34.6088821,
+    "lng": -58.9566524,
+    "place_id": "ChIJE86K-Y2PvJURHTxsWdS8TIA"
+  },
+  {
+    "name": "Celiacos_laguaina",
+    "category": "Restaurante",
+    "lat": -34.6338679,
+    "lng": -58.8710607,
+    "place_id": "ChIJIxyLxvyRvJURknz47LWRuX4"
+  },
+  {
+    "name": "Vida Saludable Fit",
+    "category": "Restaurante",
+    "lat": -34.8736124,
+    "lng": -58.5336533,
+    "place_id": "ChIJDeFRvrnXvJURpOVKS8DgpMY"
+  },
+  {
+    "name": "Alma Keto BA",
+    "category": "Restaurante",
+    "lat": -34.5787108,
+    "lng": -58.4368407,
+    "place_id": "ChIJGWNXgLO1vJURDBfuO0ze0AA"
+  },
+  {
+    "name": "Pasta Rossa Adrogué",
+    "category": "Restaurante",
+    "lat": -34.7995026,
+    "lng": -58.390955,
+    "place_id": "ChIJ25S_fD_TvJUR5aNolsDpQ4E"
+  },
+  {
+    "name": "IL MANDORLA",
+    "category": "Restaurante",
+    "lat": -34.5995921,
+    "lng": -58.3796414,
+    "place_id": "ChIJF5F1iT3LvJURvUGZhzGuOBQ"
+  },
+  {
+    "name": "La Mamma Rosa",
+    "category": "Restaurante",
+    "lat": -35.4405466,
+    "lng": -58.8038855,
+    "place_id": "ChIJx8tRRRZpvZURB19KZdQhKOc"
+  },
+  {
+    "name": "Kayú",
+    "category": "Restaurante",
+    "lat": -34.5893248,
+    "lng": -58.4449019,
+    "place_id": "ChIJ4ZSvYwC1vJURXBFe3zRaESQ"
+  },
+  {
+    "name": "Lo de Carlitos",
+    "category": "Restaurante",
+    "lat": -34.8002836,
+    "lng": -58.3971312,
+    "place_id": "ChIJywcwJhXTvJURqGGxHmZiDlY"
+  },
+  {
+    "name": "Cuídate Vaca (Parrilla al carbón)",
+    "category": "Restaurante",
+    "lat": -34.7050589,
+    "lng": -58.3946851,
+    "place_id": "ChIJlZUbWB_NvJURs-aAB4HGQ6I"
+  },
+  {
+    "name": "Restaurante Lo de Juan y Moni",
+    "category": "Restaurante",
+    "lat": -35.445426,
+    "lng": -58.8058639,
+    "place_id": "ChIJlUMwCxhpvZURvXVjhqgErC8"
+  },
+  {
+    "name": "Maridaje Resto",
+    "category": "Restaurante",
+    "lat": -34.8605062,
+    "lng": -58.5036682,
+    "place_id": "ChIJX_k2-qbXvJURtWCpMQ0A0-E"
+  },
+  {
+    "name": "AJONJOLI AlmacénDeComidas",
+    "category": "Restaurante",
+    "lat": -35.7722834,
+    "lng": -58.4954116,
+    "place_id": "ChIJbV7cESXxl5URsYIlDXwv1ok"
+  },
+  {
+    "name": "Barstow | Canning",
+    "category": "Restaurante",
+    "lat": -34.8548837,
+    "lng": -58.5035139,
+    "place_id": "ChIJJcyKXN_XvJURiiGnwrwdfYA"
+  },
+  {
+    "name": "Hefesto Parrilla &amp; Restaurant",
+    "category": "Restaurante",
+    "lat": -35.4472947,
+    "lng": -58.8118431,
+    "place_id": "ChIJiV1kp-ppvZURLNQlJQgAZwU"
+  },
+  {
+    "name": "Piacere Sin Tacc La Cortada",
+    "category": "Restaurante",
+    "lat": -34.6401528,
+    "lng": -58.5694736,
+    "place_id": "ChIJzaRZ6LnHvJUR5yrbvXTcIP8"
+  },
+  {
+    "name": "Sabor y Ritmo - COCINAFUSION",
+    "category": "Restaurante",
+    "lat": -34.8892912,
+    "lng": -58.3855878,
+    "place_id": "ChIJu1M1NOorvZUR49iGF3i158Q"
+  },
+  {
+    "name": "Doña Julia Fabrica de pastas ?",
+    "category": "Restaurante",
+    "lat": -35.0553391,
+    "lng": -58.7602524,
+    "place_id": "ChIJD53KtBIfvZURBsQrtWgtogk"
+  },
+  {
+    "name": "San Vicente CENTRAL",
+    "category": "Restaurante",
+    "lat": -35.0238455,
+    "lng": -58.4215584,
+    "place_id": "ChIJ-ShWWVQsvZURs_NP5LWMT6w"
+  },
+  {
+    "name": "Chori",
+    "category": "Restaurante",
+    "lat": -34.5878021,
+    "lng": -58.4304358,
+    "place_id": "ChIJmXkvwoi1vJURZowrijZACpE"
+  },
+  {
+    "name": "Prater Bar",
+    "category": "Restaurante",
+    "lat": -34.6453885,
+    "lng": -58.6436079,
+    "place_id": "ChIJybUx_Ky4vJUR7MJx3kgB3PE"
+  },
+  {
+    "name": "Lomiteria Popular - Monte Grande",
+    "category": "Restaurante",
+    "lat": -34.8170732,
+    "lng": -58.4648507,
+    "place_id": "ChIJXdodE6XRvJURANMbDIS0nT4"
+  },
+  {
+    "name": "El Mangrullo",
+    "category": "Restaurante",
+    "lat": -35.44744,
+    "lng": -58.8131597,
+    "place_id": "ChIJ4XtnvyRpvZURF7fLimUwytc"
+  },
+  {
+    "name": "Goût Gluten Free Rosario Italia",
+    "category": "Restaurante",
+    "lat": -32.938006,
+    "lng": -60.646094,
+    "place_id": "ChIJ_UrMfDmrt5UR4dn4A1lezVc"
+  },
+  {
+    "name": "Celigourmet",
+    "category": "Restaurante",
+    "lat": -34.5878586,
+    "lng": -58.4306549,
+    "place_id": "ChIJ1fN_F6axvJURlWZNqSj1Nfs"
+  },
+  {
+    "name": "Matilde Gluten Free",
+    "category": "Restaurante",
+    "lat": -33.6787368,
+    "lng": -59.6677708,
+    "place_id": "ChIJd3Gztv8jupURPaaofYjeUO8"
+  },
+  {
+    "name": "Sintaxis Palermo",
+    "category": "Restaurante",
+    "lat": -34.5862775,
+    "lng": -58.4274655,
+    "place_id": "ChIJm7SaDYa1vJURilQqmNXr5bA"
+  },
+  {
+    "name": "magui.sintacc",
+    "category": "Restaurante",
+    "lat": -33.6835339,
+    "lng": -59.6588362,
+    "place_id": "ChIJMYeFlgsjupURXv02fDncFzU"
+  },
+  {
+    "name": "Maururu",
+    "category": "Restaurante",
+    "lat": -32.942218,
+    "lng": -60.654532,
+    "place_id": "ChIJvyTIFc2rt5URPdejySau_dI"
+  },
+  {
+    "name": "Delimade Viandas Gluten free Sin tacc",
+    "category": "Restaurante",
+    "lat": -34.6090303,
+    "lng": -58.386205,
+    "place_id": "ChIJC3FsOce3vJURc8Apin0S8zE"
+  },
+  {
+    "name": "La Cocina de Matías",
+    "category": "Restaurante",
+    "lat": -34.5841195,
+    "lng": -58.4467713,
+    "place_id": "ChIJcw26fO61vJURksUIHHFEzQM"
+  },
+  {
+    "name": "Cocelia | Olivos",
+    "category": "Restaurante",
+    "lat": -34.5174714,
+    "lng": -58.4984012,
+    "place_id": null
+  },
+  {
+    "name": "Sintaxis Villa Ballester",
+    "category": "Restaurante",
+    "lat": -34.5487964,
+    "lng": -58.5507495,
+    "place_id": "ChIJQb2k_823vJURX2kHYUOqZ10"
+  },
+  {
+    "name": "Tali&apos;s Gluten Free",
+    "category": "Restaurante",
+    "lat": -34.5849036,
+    "lng": -58.4997263,
+    "place_id": "ChIJ_-BaBQK3vJURpOg5qTOQrVw"
+  },
+  {
+    "name": "Eggs &amp; Greens Café",
+    "category": "Restaurante",
+    "lat": -34.5682283,
+    "lng": -58.4334328,
+    "place_id": "ChIJ5zfPk9m1vJURpp7za1j9NpE"
+  },
+  {
+    "name": "P.F. Chang&apos;s",
+    "category": "Restaurante",
+    "lat": -34.4843036,
+    "lng": -58.4883846,
+    "place_id": null
+  },
+  {
+    "name": "Nostro -pizza y pasta",
+    "category": "Restaurante",
+    "lat": -37.3265899,
+    "lng": -59.1366557,
+    "place_id": "ChIJXVnmzpAfkZURpS7a9q6ecsI"
+  },
+  {
+    "name": "Tierra de Azafranes- Arrocería Restaurante",
+    "category": "Restaurante",
+    "lat": -37.3239313,
+    "lng": -59.1306512,
+    "place_id": null
+  },
+  {
+    "name": "La Casona de CHEpapá Corsi",
+    "category": "Restaurante",
+    "lat": -37.3456649,
+    "lng": -59.1348457,
+    "place_id": null
+  },
+  {
+    "name": "Q´Tupé",
+    "category": "Restaurante",
+    "lat": -37.3290496,
+    "lng": -59.1129543,
+    "place_id": null
+  },
+  {
+    "name": "Comé cabrón",
+    "category": "Restaurante",
+    "lat": -37.3468801,
+    "lng": -59.1312812,
+    "place_id": null
+  },
+  {
+    "name": "CeliGourmet",
+    "category": "Restaurante",
+    "lat": -34.6001258,
+    "lng": -58.3769235,
+    "place_id": null
+  },
+  {
+    "name": "Bodegón Del Fuerte",
+    "category": "Restaurante",
+    "lat": -37.3291493,
+    "lng": -59.1354721,
+    "place_id": "ChIJgd_B_ZYfkZURWjV_qUF__LQ"
+  },
+  {
+    "name": "Calabaza Belgrano",
+    "category": "Restaurante",
+    "lat": -37.3250328,
+    "lng": -59.1246161,
+    "place_id": "ChIJg8yndOsfkZURliVwkIYydWQ"
+  },
+  {
+    "name": "Capitano Restaurant, Coffee &amp; Bar",
+    "category": "Restaurante",
+    "lat": -37.3303101,
+    "lng": -59.1242007,
+    "place_id": null
+  },
+  {
+    "name": "Pink Pizzas y Pastas",
+    "category": "Restaurante",
+    "lat": -37.3250522,
+    "lng": -59.1406927,
+    "place_id": "ChIJ_5yS6JofkZURV1JhJgeYLlQ"
+  },
+  {
+    "name": "Kansas",
+    "category": "Restaurante",
+    "lat": -34.5330764,
+    "lng": -58.4677247,
+    "place_id": "ChIJf03-HKa2vJURsdI-HPoO78E"
+  },
+  {
+    "name": "Johnny B. Good Al Río",
+    "category": "Restaurante",
+    "lat": -34.5331382,
+    "lng": -58.4675827,
+    "place_id": "ChIJsTGeYca3vJURKCRb1abHQDE"
+  },
+  {
+    "name": "Malloy’s",
+    "category": "Restaurante",
+    "lat": -34.4786604,
+    "lng": -58.483289,
+    "place_id": "ChIJRafGHJmxvJUROS0A5rMBoys"
+  },
+  {
+    "name": "Parrilla el Capricho de Hugo Pizarro",
+    "category": "Restaurante",
+    "lat": -38.3812642,
+    "lng": -60.2864822,
+    "place_id": "ChIJxX8tTs9tkpURKQAzwL458xk"
+  },
+  {
+    "name": "La Forneria",
+    "category": "Restaurante",
+    "lat": -34.581424,
+    "lng": -58.494013,
+    "place_id": "ChIJE1UKcZe3vJURP6B9JEWGcyI"
+  },
+  {
+    "name": "Senza glutine market",
+    "category": "Restaurante",
+    "lat": -34.7293845,
+    "lng": -58.2661757,
+    "place_id": "ChIJpS3cYCQvo5UR4LAZ0uSAW2s"
+  },
+  {
+    "name": "Soul Kitchen",
+    "category": "Restaurante",
+    "lat": -34.6396721,
+    "lng": -58.4089537,
+    "place_id": "ChIJMeCIIlbLvJURPwdQZxJ4ICg"
+  },
+  {
+    "name": "Restaurante Libre de Gluten Canela",
+    "category": "Restaurante",
+    "lat": -37.1121728,
+    "lng": -56.8649567,
+    "place_id": "ChIJA7VXgKadnJURo-tBqEE9M0I"
+  },
+  {
+    "name": "Picaron",
+    "category": "Restaurante",
+    "lat": -34.5910772,
+    "lng": -58.4472101,
+    "place_id": "ChIJX3GLZDO1vJURY6E07RUlI50"
+  },
+  {
+    "name": "La Capitana - Bodegón y Vermutería",
+    "category": "Restaurante",
+    "lat": -34.6000866,
+    "lng": -58.4274784,
+    "place_id": "ChIJfUyT5mjLvJURSApdj14eOhI"
+  },
+  {
+    "name": "Estancia Calchaqui",
+    "category": "Restaurante",
+    "lat": -34.7447347,
+    "lng": -58.2887812,
+    "place_id": "ChIJ0ylAfdEto5URKayFVPoyGgM"
+  },
+  {
+    "name": "Smart Plaza - Parque Patricios",
+    "category": "Restaurante",
+    "lat": -34.6397881,
+    "lng": -58.4089527,
+    "place_id": "ChIJqyp0nuXLvJURlIaHEr8NTrY"
+  },
+  {
+    "name": "Bodegón de Campo - Club Ciclón Pla",
+    "category": "Restaurante",
+    "lat": -35.1242532,
+    "lng": -60.2185731,
+    "place_id": "ChIJ4fJXeLPdvpURiZhJMYD9fxI"
+  },
+  {
+    "name": "Bodegón Núñez",
+    "category": "Restaurante",
+    "lat": -34.5483444,
+    "lng": -58.458296,
+    "place_id": "ChIJ95GN7ya0vJUR6uNzHSXFLEU"
+  },
+  {
+    "name": "Club Social Tapalque",
+    "category": "Restaurante",
+    "lat": -36.3552777,
+    "lng": -60.0277572,
+    "place_id": "ChIJSSEeZyvDlZURTmf1NwXRhNM"
+  },
+  {
+    "name": "Babson Resto Bar",
+    "category": "Restaurante",
+    "lat": -34.897336,
+    "lng": -60.012352,
+    "place_id": "ChIJmzRqXp6lvpUR11q1H9z5ywY"
+  },
+  {
+    "name": "Antenor",
+    "category": "Restaurante",
+    "lat": -34.6991877,
+    "lng": -59.3200139,
+    "place_id": "ChIJC1F7Z8ZvvJURoSGUohKxmUM"
+  },
+  {
+    "name": "Modesto Bar",
+    "category": "Restaurante",
+    "lat": -35.1175981,
+    "lng": -60.4849874,
+    "place_id": "ChIJZclzoCvcvpURY3wOKhLXvCk"
+  },
+  {
+    "name": "Piacere sin tacc San Justo",
+    "category": "Restaurante",
+    "lat": -34.6764681,
+    "lng": -58.5614886,
+    "place_id": "ChIJsdcawSrHvJURIZAgrq7qQgs"
+  },
+  {
+    "name": "Milo Restaurante",
+    "category": "Restaurante",
+    "lat": -34.5938473,
+    "lng": -60.9457121,
+    "place_id": "ChIJtT3KtinruJURKXOW_PBR9Vk"
+  },
+  {
+    "name": "Nino",
+    "category": "Restaurante",
+    "lat": -34.5890366,
+    "lng": -60.9361371,
+    "place_id": null
+  },
+  {
+    "name": "El Gran Dauphine",
+    "category": "Restaurante",
+    "lat": -34.5842288,
+    "lng": -60.9439494,
+    "place_id": "ChIJgZssNmTruJURHhmgblzeMx4"
+  },
+  {
+    "name": "El Galpon",
+    "category": "Restaurante",
+    "lat": -34.1983234,
+    "lng": -60.7337712,
+    "place_id": "ChIJGx5i4zBXuJUR8Rxp4rmcoT0"
+  },
+  {
+    "name": "La Toscana",
+    "category": "Restaurante",
+    "lat": -33.893751,
+    "lng": -60.5696295,
+    "place_id": "ChIJezSAEFMr1BIRq1kgW7rDxro"
+  },
+  {
+    "name": "GOUT GLUTEN FREE BELGRANO",
+    "category": "Restaurante",
+    "lat": -34.5672182,
+    "lng": -58.4425144,
+    "place_id": null
+  },
+  {
+    "name": "CAMPOBRAVO",
+    "category": "Restaurante",
+    "lat": -34.5843478,
+    "lng": -58.4364154,
+    "place_id": "ChIJV_9PkY21vJURhqtNyNEdb_M"
+  },
+  {
+    "name": "Cityrock",
+    "category": "Restaurante",
+    "lat": -34.5853766,
+    "lng": -60.9495507,
+    "place_id": null
+  },
+  {
+    "name": "Le Pain Quotidien",
+    "category": "Restaurante",
+    "lat": -34.5889909,
+    "lng": -58.3938671,
+    "place_id": null
+  },
+  {
+    "name": "Le Pain Quotidien",
+    "category": "Restaurante",
+    "lat": -34.5673765,
+    "lng": -58.4372148,
+    "place_id": "ChIJqT0pSge1vJUR3kb6y2fc49I"
+  },
+  {
+    "name": "Alicia y el Gato",
+    "category": "Restaurante",
+    "lat": -34.5651914,
+    "lng": -58.4546041,
+    "place_id": "ChIJ6cb2UgC1vJURrovI22WlLT8"
+  },
+  {
+    "name": "La Tía Zelmira",
+    "category": "Restaurante",
+    "lat": -34.586972,
+    "lng": -58.4055437,
+    "place_id": "ChIJE15boUTLvJUR16m8zTjPHfs"
+  },
+  {
+    "name": "La Casona Del Fiambre",
+    "category": "Restaurante",
+    "lat": -34.5070219,
+    "lng": -60.8640523,
+    "place_id": "ChIJa87W3ybsuJURceCPOT-1sI0"
+  },
+  {
+    "name": "Rebelión",
+    "category": "Restaurante",
+    "lat": -34.5882023,
+    "lng": -58.4272227,
+    "place_id": "ChIJsy9xK-m1vJURebOUflmCB24"
+  },
+  {
+    "name": "La Causa Nikkei",
+    "category": "Restaurante",
+    "lat": -34.5941708,
+    "lng": -58.393335,
+    "place_id": "ChIJuf8DmL3KvJUR9pP5tt0kkOs"
+  },
+  {
+    "name": "Le Jardin d&apos;Amelie",
+    "category": "Restaurante",
+    "lat": -34.5930772,
+    "lng": -60.9435899,
+    "place_id": "ChIJ6x1hbtbruJUR7al1msG_N4Q"
+  },
+  {
+    "name": "Nutrilavie",
+    "category": "Restaurante",
+    "lat": -34.7992471,
+    "lng": -58.3863912,
+    "place_id": "ChIJb0b0i3PTvJUR_-IAPyHfJVQ"
+  },
+  {
+    "name": "Tea Connection Vuelta",
+    "category": "Restaurante",
+    "lat": -34.5598101,
+    "lng": -58.4569944,
+    "place_id": "ChIJlyzgVtO1vJURdC4Ko5Jttxc"
+  },
+  {
+    "name": "El Club de La Milanesa",
+    "category": "Restaurante",
+    "lat": -34.552453,
+    "lng": -58.4498731,
+    "place_id": "ChIJvXS_IDK0vJUR4RqoYP5mJyA"
+  },
+  {
+    "name": "Johnny B. Good Puerto Madero",
+    "category": "Restaurante",
+    "lat": -34.6061387,
+    "lng": -58.3666025,
+    "place_id": "ChIJBaLGHio1o5URwfb1GWzFHw8"
+  },
+  {
+    "name": "LA FAROLA LADO VE",
+    "category": "Restaurante",
+    "lat": -34.4291421,
+    "lng": -58.8337612,
+    "place_id": "ChIJ624_63WdvJURSgKRNDpliU0"
+  },
+  {
+    "name": "El Club de la Milanesa",
+    "category": "Restaurante",
+    "lat": -34.565154,
+    "lng": -58.462274,
+    "place_id": null
+  },
+  {
+    "name": "Paula Casero Gluten Free",
+    "category": "Restaurante",
+    "lat": -34.4387979,
+    "lng": -58.7886988,
+    "place_id": "ChIJsV9xgaS2vJUR9NiHhtjLlMw"
+  },
+  {
+    "name": "Flander&apos;s Bar &amp; Grill",
+    "category": "Restaurante",
+    "lat": -34.4431924,
+    "lng": -58.7548949,
+    "place_id": "ChIJ1VOFYEufvJURMeaEGs-BL74"
+  },
+  {
+    "name": "La Parolaccia Trattoria Pilar",
+    "category": "Restaurante",
+    "lat": -34.4385493,
+    "lng": -58.7928464,
+    "place_id": "ChIJA4hs7seevJURiAyFYBmaHsw"
+  },
+  {
+    "name": "Alma Natura Skyglass",
+    "category": "Restaurante",
+    "lat": -34.4353027,
+    "lng": -58.7963409,
+    "place_id": "ChIJA5eToOafvJURQIOQ2EVJvis"
+  },
+  {
+    "name": "GINKGO",
+    "category": "Restaurante",
+    "lat": -34.4406991,
+    "lng": -58.7865953,
+    "place_id": "ChIJW7jpCNmevJURi82rVVElul4"
+  },
+  {
+    "name": "Viejo Bodegón City",
+    "category": "Restaurante",
+    "lat": -38.010254,
+    "lng": -57.545943,
+    "place_id": "ChIJbYsxJeXdhJURo-iRqWH1NPI"
+  },
+  {
+    "name": "Restaurant Su Casa Pilar",
+    "category": "Restaurante",
+    "lat": -34.4456522,
+    "lng": -58.7606281,
+    "place_id": "ChIJ3XqQqkqfvJURFj1kXWutnJU"
+  },
+  {
+    "name": "Kansas",
+    "category": "Restaurante",
+    "lat": -34.4373296,
+    "lng": -58.7993485,
+    "place_id": "ChIJOboICcKevJURX7ae_tj1VvQ"
+  },
+  {
+    "name": "Fettuccine Mario Ristorante",
+    "category": "Restaurante",
+    "lat": -34.4543321,
+    "lng": -58.9149624,
+    "place_id": "ChIJ96poANScvJURMvgH9LXI_dY"
+  },
+  {
+    "name": "El Mitre, Bar Histórico",
+    "category": "Restaurante",
+    "lat": -34.2442674,
+    "lng": -59.4739901,
+    "place_id": "ChIJpcY07arqu5URkJLtE7KSXkc"
+  },
+  {
+    "name": "Rossita Restaurant",
+    "category": "Restaurante",
+    "lat": -34.2464231,
+    "lng": -59.4740779,
+    "place_id": "ChIJeYbgD6vqu5URlh-HK0s_Y0k"
+  },
+  {
+    "name": "Estancia Chica",
+    "category": "Restaurante",
+    "lat": -34.4610912,
+    "lng": -59.511142,
+    "place_id": "ChIJMz7VOQTzu5URM8SGyUXvGBE"
+  },
+  {
+    "name": "Berto - Cocina de Autor",
+    "category": "Restaurante",
+    "lat": -34.5681757,
+    "lng": -59.1117834,
+    "place_id": "ChIJqXWyRox9vJURj617ywT-G64"
+  },
+  {
+    "name": "De Ollas y Sueños",
+    "category": "Restaurante",
+    "lat": -34.8190723,
+    "lng": -58.4644998,
+    "place_id": "ChIJOQeiQGDRvJURb3WA00LTX_c"
+  },
+  {
+    "name": "Otero",
+    "category": "Restaurante",
+    "lat": -34.4681527,
+    "lng": -58.5013796,
+    "place_id": "ChIJR1TIPsmxvJURox9gBb92o7c"
+  },
+  {
+    "name": "Paprika",
+    "category": "Restaurante",
+    "lat": -35.0063101,
+    "lng": -59.2773962,
+    "place_id": "ChIJOfg08RlQvJURmSgP7b0ezKI"
+  },
+  {
+    "name": "Ingreso a El Camino (Ex El Nene De Keen)",
+    "category": "Restaurante",
+    "lat": -34.4952313,
+    "lng": -59.2078575,
+    "place_id": "ChIJkTgathKHu5UR9JttB_sz-eA"
+  },
+  {
+    "name": "La Rotisería de Luján",
+    "category": "Restaurante",
+    "lat": -34.5638584,
+    "lng": -59.117356,
+    "place_id": "ChIJc7ijlFR9vJURSnJZODDqVWk"
+  },
+  {
+    "name": "La Cantonata",
+    "category": "Restaurante",
+    "lat": -34.5890706,
+    "lng": -60.9414384,
+    "place_id": "ChIJyWTNmSfruJUR4zR1MLTkHj8"
+  },
+  {
+    "name": "Rotiseria Las Pastas De La Abuela",
+    "category": "Restaurante",
+    "lat": -35.6374929,
+    "lng": -59.7826728,
+    "place_id": "ChIJj-Gp2u_gvZURUvTSUH8wFQI"
+  },
+  {
+    "name": "Restaurante Silvano",
+    "category": "Restaurante",
+    "lat": -34.7008357,
+    "lng": -59.3203232,
+    "place_id": "ChIJfwwusMdvvJURtb-c1_1AfcY"
+  },
+  {
+    "name": "Aurelia",
+    "category": "Restaurante",
+    "lat": -35.6341432,
+    "lng": -59.7845968,
+    "place_id": "ChIJkaOukBfhvZURWcllEh1NqJ4"
+  },
+  {
+    "name": "Restaurant de campo &quot;Don fierro&quot;",
+    "category": "Restaurante",
+    "lat": -34.9799452,
+    "lng": -59.2555711,
+    "place_id": "ChIJnZQWK19bvJURbzbSLcTFnFA"
+  },
+  {
+    "name": "Bertto - Cocina de Fuegos",
+    "category": "Restaurante",
+    "lat": -34.8863331,
+    "lng": -58.5060284,
+    "place_id": "ChIJbaQQctnXvJURhHp2sujmV4Q"
+  },
+  {
+    "name": "Lo de Beto",
+    "category": "Restaurante",
+    "lat": -35.0308184,
+    "lng": -58.7501133,
+    "place_id": "ChIJ2deuFT8gvZURYdJw_RHgWLQ"
+  },
+  {
+    "name": "McDonald&apos;s",
+    "category": "Restaurante",
+    "lat": -34.8182227,
+    "lng": -58.4641435,
+    "place_id": "ChIJPTLYNmDRvJURH3SvUGl1YJc"
+  },
+  {
+    "name": "CASERITO PIZZAS",
+    "category": "Restaurante",
+    "lat": -35.0574578,
+    "lng": -58.7585156,
+    "place_id": "ChIJWVdylfQfvZURpPylr6_9GOI"
+  },
+  {
+    "name": "Lamas",
+    "category": "Restaurante",
+    "lat": -34.860722,
+    "lng": -58.5014747,
+    "place_id": "ChIJbwjj2xPXvJURmrFt3f_QjSc"
+  },
+  {
+    "name": "Restaurante La Parrilla",
+    "category": "Restaurante",
+    "lat": -35.0418603,
+    "lng": -58.7622796,
+    "place_id": "ChIJlSQlXf4evZURkjEneBQ-QwQ"
+  },
+  {
+    "name": "Mostaza",
+    "category": "Restaurante",
+    "lat": -34.8081248,
+    "lng": -58.400431,
+    "place_id": "ChIJSehYSm_TvJURu-ShPp4nwxM"
+  },
+  {
+    "name": "El Zamorano",
+    "category": "Restaurante",
+    "lat": -35.0233396,
+    "lng": -58.4247911,
+    "place_id": "ChIJf0wQw1MsvZUR3I3T5ok47S0"
+  },
+  {
+    "name": "Cappotte di Terranova",
+    "category": "Restaurante",
+    "lat": -34.7165199,
+    "lng": -58.2603947,
+    "place_id": "ChIJb-nNfRYuo5UR6hGVoD0bGSU"
+  },
+  {
+    "name": "&quot;Cocina al natural&quot; servicio de viandas saludables.",
+    "category": "Restaurante",
+    "lat": -34.8805519,
+    "lng": -58.0029716,
+    "place_id": "ChIJqQsc5KzfopURscmDGPsNdPQ"
+  },
+  {
+    "name": "TEAlimento",
+    "category": "Restaurante",
+    "lat": -34.6911687,
+    "lng": -58.4643567,
+    "place_id": "ChIJwX5Wv3vJvJURRetpIJN_IGA"
+  },
+  {
+    "name": "CASA TANA Pizza y Pasta Senza Glutine -sin Tacc- apto celiacos -gluten free",
+    "category": "Restaurante",
+    "lat": -34.9027245,
+    "lng": -57.9665481,
+    "place_id": "ChIJdyYuAgDnopURrDHbXrJ7LCw"
+  },
+  {
+    "name": "Ancestral gluten free",
+    "category": "Restaurante",
+    "lat": -34.8506504,
+    "lng": -58.0898403,
+    "place_id": "ChIJlXt09vPfopURzQ1n8Vkbzeo"
+  },
+  {
+    "name": "Ostaria Valtellinese",
+    "category": "Restaurante",
+    "lat": -34.920268,
+    "lng": -57.9602058,
+    "place_id": "ChIJ85Le6zLmopURBlIRbrXj5mk"
+  },
+  {
+    "name": "Curry Green Market &amp; Coffee",
+    "category": "Restaurante",
+    "lat": -34.9132487,
+    "lng": -57.956248,
+    "place_id": "ChIJ3y4PUvDnopURo6SJylm4I_Y"
+  },
+  {
+    "name": "TACCOFF",
+    "category": "Restaurante",
+    "lat": -34.9184481,
+    "lng": -57.9552586,
+    "place_id": "ChIJvZ0sF-znopURLEWigVFK4Vg"
+  },
+  {
+    "name": "POT ? Universo Deli - City Bell",
+    "category": "Restaurante",
+    "lat": -34.8712878,
+    "lng": -58.0470693,
+    "place_id": "ChIJWRTvd3zeopURVA715aUkwfU"
+  },
+  {
+    "name": "Felma",
+    "category": "Restaurante",
+    "lat": -34.9388905,
+    "lng": -57.9400071,
+    "place_id": "ChIJidDSI7LpopURWRvkKtuAask"
+  },
+  {
+    "name": "Lo de Carlitos, el sabor original",
+    "category": "Restaurante",
+    "lat": -34.720494,
+    "lng": -58.2565417,
+    "place_id": "ChIJo9DA9D8uo5UR7L_xdyC0OIM"
+  },
+  {
+    "name": "M&apos;agrada cocina+café",
+    "category": "Restaurante",
+    "lat": -34.9179901,
+    "lng": -57.9483386,
+    "place_id": "ChIJITHMRRDnopURQo5BPlFrgvU"
+  },
+  {
+    "name": "Entre pueblos",
+    "category": "Restaurante",
+    "lat": -35.5740358,
+    "lng": -57.9792031,
+    "place_id": "ChIJB2YY4h9tmJURMyceV1TZ3PU"
+  },
+  {
+    "name": "Los Rivetta",
+    "category": "Restaurante",
+    "lat": -35.0277039,
+    "lng": -58.4302816,
+    "place_id": "ChIJyfCzQmEtvZURRDT0heKTy7A"
+  },
+  {
+    "name": "Charola",
+    "category": "Restaurante",
+    "lat": -34.9179896,
+    "lng": -57.9571641,
+    "place_id": "ChIJLVkDpAnnopURMZ42Uk4Oc_s"
+  },
+  {
+    "name": "Rabbit Town",
+    "category": "Restaurante",
+    "lat": -34.9139579,
+    "lng": -57.9442874,
+    "place_id": "ChIJzbGHd9znopURl0M1th2h6kc"
+  },
+  {
+    "name": "Charola",
+    "category": "Restaurante",
+    "lat": -34.9129299,
+    "lng": -57.9466324,
+    "place_id": "ChIJ10eT2DvmopURgAeyHuqwfPw"
+  },
+  {
+    "name": "Restaurante Club Tacuari",
+    "category": "Restaurante",
+    "lat": -34.9349382,
+    "lng": -57.9489174,
+    "place_id": "ChIJnTpwFpvoopUROtrKC7fFmSs"
+  },
+  {
+    "name": "Cervecería Modelo",
+    "category": "Restaurante",
+    "lat": -34.9148619,
+    "lng": -57.944827,
+    "place_id": "ChIJ-QIkbKznopUR0LZJz2r_Org"
+  },
+  {
+    "name": "El Callejón",
+    "category": "Restaurante",
+    "lat": -34.9155648,
+    "lng": -57.9558135,
+    "place_id": "ChIJWwh7gDnmopURLtCQRRSjgHM"
+  },
+  {
+    "name": "Restaurante Patos",
+    "category": "Restaurante",
+    "lat": -35.5818908,
+    "lng": -58.0160745,
+    "place_id": "ChIJdzoHV6gSmJUR-EGB5TNvbb4"
+  },
+  {
+    "name": "Café Mulé",
+    "category": "Restaurante",
+    "lat": -35.5801077,
+    "lng": -58.0194843,
+    "place_id": "ChIJGScYTm0NmJURTUrcHsA03Q4"
+  },
+  {
+    "name": "McDonald&apos;s",
+    "category": "Restaurante",
+    "lat": -34.9090651,
+    "lng": -57.9567138,
+    "place_id": "ChIJ5xpkMErmopURIXqDSvHXFEY"
+  },
+  {
+    "name": "Manjar Resto",
+    "category": "Restaurante",
+    "lat": -34.9154909,
+    "lng": -57.9463232,
+    "place_id": "ChIJ_fK1Q5HnopURAlRxH-_plMI"
+  },
+  {
+    "name": "AMBERES BIERHUIS",
+    "category": "Restaurante",
+    "lat": -34.9152136,
+    "lng": -57.9448209,
+    "place_id": "ChIJp5ivYLDnopURZwFqBamw9_Q"
+  },
+  {
+    "name": "Atenas Parrilla Resto",
+    "category": "Restaurante",
+    "lat": -34.9251768,
+    "lng": -57.9498894,
+    "place_id": "ChIJjyp7ISbmopURFAeenpmzw1E"
+  },
+  {
+    "name": "La Pasión",
+    "category": "Restaurante",
+    "lat": -34.6186194,
+    "lng": -58.5033397,
+    "place_id": "ChIJf3iR7GrKvJUR1-TYiasW2xk"
+  },
+  {
+    "name": "Victoria Plaza",
+    "category": "Restaurante",
+    "lat": -34.6090618,
+    "lng": -58.4837227,
+    "place_id": "ChIJKe8WUeDJvJURonNJcHqGfGc"
+  },
+  {
+    "name": "Resto Bar",
+    "category": "Restaurante",
+    "lat": -34.6166299,
+    "lng": -58.499574,
+    "place_id": "ChIJdexlM9fJvJURTZaT3M07x9U"
+  },
+  {
+    "name": "Pablos Restó &amp; Pastelería",
+    "category": "Restaurante",
+    "lat": -34.600637,
+    "lng": -58.512268,
+    "place_id": "ChIJsSlhcMy3vJURzNDqFLSlcRE"
+  },
+  {
+    "name": "Chuí",
+    "category": "Restaurante",
+    "lat": -34.5901281,
+    "lng": -58.4411172,
+    "place_id": "ChIJpQgfDBG1vJUREd5_d9adn5U"
+  },
+  {
+    "name": "La barraca desayunos y picadas",
+    "category": "Restaurante",
+    "lat": -34.6409369,
+    "lng": -58.3687307,
+    "place_id": "ChIJuUPX7is1o5URDdmuefUCKWs"
+  },
+  {
+    "name": "Veggie Vendetta!",
+    "category": "Restaurante",
+    "lat": -34.6315494,
+    "lng": -58.3715778,
+    "place_id": "ChIJC3Mck3rLvJURc_4vdC3pCR8"
+  },
+  {
+    "name": "Dandy Madero",
+    "category": "Restaurante",
+    "lat": -34.6056037,
+    "lng": -58.3642886,
+    "place_id": "ChIJjbYW8i41o5URlVRPgLXkX70"
+  },
+  {
+    "name": "McDonald&apos;s",
+    "category": "Restaurante",
+    "lat": -34.580958,
+    "lng": -58.4225547,
+    "place_id": "ChIJDy9IZoO1vJUR9UXw_qrEL0s"
+  },
+  {
+    "name": "Sorrento Restaurante",
+    "category": "Restaurante",
+    "lat": -34.6028499,
+    "lng": -58.366959,
+    "place_id": "ChIJP1FJCjI1o5URuCe5X9wYzGs"
+  },
+  {
+    "name": "McDonald&apos;s",
+    "category": "Restaurante",
+    "lat": -34.5579187,
+    "lng": -58.4599861,
+    "place_id": "ChIJNexG_iq0vJUR8H8oVoYhFvI"
+  },
+  {
+    "name": "Almacén de Tandil Delicatessen",
+    "category": "Restaurante",
+    "lat": -34.5836117,
+    "lng": -58.508368,
+    "place_id": "ChIJSy1NZ3q3vJURqbXE3YkUNeo"
+  },
+  {
+    "name": "Donato (sin tacc)",
+    "category": "Restaurante",
+    "lat": -34.5821412,
+    "lng": -58.442149,
+    "place_id": "ChIJEQlThim1vJURIJjDt4qKIFk"
+  },
+  {
+    "name": "Sattva Lobos Conciencia Vegetariana y Vegana",
+    "category": "Restaurante",
+    "lat": -35.1840777,
+    "lng": -59.097426,
+    "place_id": "ChIJk65tqysHvZURJU8vmTUwAMk"
+  },
+  {
+    "name": "TRIXIE Francisco Alvarez",
+    "category": "Restaurante",
+    "lat": -34.6200213,
+    "lng": -58.8377479,
+    "place_id": "ChIJOWWS0xeRvJURMMd0G-PGkSg"
+  },
+  {
+    "name": "6315 Deli&amp;Catering",
+    "category": "Restaurante",
+    "lat": -34.6050164,
+    "lng": -58.8658824,
+    "place_id": "ChIJnX4tvzSRvJURgPLa1F8W4dQ"
+  },
+  {
+    "name": "Pasta Rossa Canning",
+    "category": "Restaurante",
+    "lat": -34.9021057,
+    "lng": -58.5114331,
+    "place_id": "ChIJ66mIAH7XvJURKvLRY6MnBac"
+  },
+  {
+    "name": "El Palacio Vegano",
+    "category": "Restaurante",
+    "lat": -34.6694181,
+    "lng": -58.695725,
+    "place_id": "ChIJ2XlJfFq_vJURiqF0flaOcZU"
+  },
+  {
+    "name": "Mostaza",
+    "category": "Restaurante",
+    "lat": -34.6494996,
+    "lng": -58.7878924,
+    "place_id": "ChIJ7TqUyeKVvJUReXd2SQVSC2s"
+  },
+  {
+    "name": "MIL820House",
+    "category": "Restaurante",
+    "lat": -34.6002435,
+    "lng": -58.8568671,
+    "place_id": "ChIJ4RvYReaVvJURBsEMBkPrxb4"
+  },
+  {
+    "name": "La Marina Lobos - Resto Bar",
+    "category": "Restaurante",
+    "lat": -35.1839085,
+    "lng": -59.0974102,
+    "place_id": "ChIJMQlg7lMHvZURR8WZcS5azyU"
+  },
+  {
+    "name": "La Recova Restaurant Café",
+    "category": "Restaurante",
+    "lat": -34.6510695,
+    "lng": -59.4309353,
+    "place_id": "ChIJY431iHRzvJURW0BfYUYZ8HE"
+  },
+  {
+    "name": "Fuego Pizzas del Mundo",
+    "category": "Restaurante",
+    "lat": -34.5890487,
+    "lng": -58.4289648,
+    "place_id": "ChIJ6duqD121vJURt8gQV7HOYEQ"
+  },
+  {
+    "name": "Delizzie Gluten Free Barrio Norte",
+    "category": "Restaurante",
+    "lat": -34.601103,
+    "lng": -58.3958619,
+    "place_id": "ChIJc_LDZfHLvJURzknn25Y994k"
+  },
+  {
+    "name": "La Esquina Chiflada",
+    "category": "Restaurante",
+    "lat": -38.858314,
+    "lng": -60.074702,
+    "place_id": "ChIJ3VYOQY3DjZURBnQBbso8NYY"
+  },
+  {
+    "name": "KIRIBATI",
+    "category": "Restaurante",
+    "lat": -38.8581825,
+    "lng": -60.0751409,
+    "place_id": "ChIJA4cCwpF8ZGURB8NSAQR9MoQ"
+  },
+  {
+    "name": "La Estacion Monte Hermoso restaurant y mar",
+    "category": "Restaurante",
+    "lat": -38.989013,
+    "lng": -61.281346,
+    "place_id": "ChIJL-whCYNSjZUR9BNpkeXl-Y4"
+  },
+  {
+    "name": "Casa Naturali",
+    "category": "Restaurante",
+    "lat": -38.9873222,
+    "lng": -61.288106,
+    "place_id": "ChIJ98ZWxJ5TjZURW8J2iTtIQPQ"
+  },
+  {
+    "name": "Restaurante y PARRILLA LUISITO’S Carnes -pastas - pescados",
+    "category": "Restaurante",
+    "lat": -38.986993,
+    "lng": -61.284841,
+    "place_id": "ChIJMZY1E4FSjZURaBsvqot2byg"
+  },
+  {
+    "name": "Vía Appia - Monte Hermoso",
+    "category": "Restaurante",
+    "lat": -38.9878778,
+    "lng": -61.2867916,
+    "place_id": "ChIJOwQxxYNSjZURyrAS9pjfQ_E"
+  },
+  {
+    "name": "Valerie Resto del Mar",
+    "category": "Restaurante",
+    "lat": -38.5468545,
+    "lng": -58.5557016,
+    "place_id": "ChIJ4U7smj-bj5URxQPdKgxUPog"
+  },
+  {
+    "name": "Fonda De Guillermina",
+    "category": "Restaurante",
+    "lat": -38.5465127,
+    "lng": -58.5561288,
+    "place_id": "ChIJ1Z-Eacuaj5URqtBiyJ3l_sw"
+  },
+  {
+    "name": "Ernnan&apos;s",
+    "category": "Restaurante",
+    "lat": -38.5810572,
+    "lng": -58.7296927,
+    "place_id": "ChIJxxLGCwSYj5URiAj8ROySqLI"
+  },
+  {
+    "name": "Restoran Cantina Stella Maris",
+    "category": "Restaurante",
+    "lat": -38.5723114,
+    "lng": -58.7164421,
+    "place_id": "ChIJx4l51h-Yj5URnsySOEhYEWw"
+  },
+  {
+    "name": "Monet Restó Bar",
+    "category": "Restaurante",
+    "lat": -38.5820655,
+    "lng": -58.7295749,
+    "place_id": "ChIJvatRRQSYj5UR_BcrWrnSOoo"
+  },
+  {
+    "name": "La Porota",
+    "category": "Restaurante",
+    "lat": -38.5819616,
+    "lng": -58.7311391,
+    "place_id": "ChIJ2R-DOgSYj5UR00cfBVXPg8M"
+  },
+  {
+    "name": "Concepto gourmet mix de sabores",
+    "category": "Restaurante",
+    "lat": -38.5812202,
+    "lng": -58.728897,
+    "place_id": "ChIJk-Vjs6OZj5URgV02Qv8hOXw"
+  },
+  {
+    "name": "Club House Arenas del Sur",
+    "category": "Restaurante",
+    "lat": -38.0755945,
+    "lng": -57.5795993,
+    "place_id": "ChIJv5rVh0DghJURSydzm7ke5QQ"
+  },
+  {
+    "name": "Gallo Negro",
+    "category": "Restaurante",
+    "lat": -38.5507197,
+    "lng": -58.7481605,
+    "place_id": "ChIJs5yZvp-jj5URD6HGL4DwyR4"
+  },
+  {
+    "name": "La Surfería - Resto Bar",
+    "category": "Restaurante",
+    "lat": -38.2732328,
+    "lng": -57.8341831,
+    "place_id": "ChIJUwcbxSYRhZUR_WgPsZlZEZw"
+  },
+  {
+    "name": "Enebro Necochea resto",
+    "category": "Restaurante",
+    "lat": -38.5804556,
+    "lng": -58.730537,
+    "place_id": "ChIJ7VIvMm-Zj5URjSwQmp-53OQ"
+  },
+  {
+    "name": "La Casa de las Tartas al lado",
+    "category": "Restaurante",
+    "lat": -38.5815983,
+    "lng": -58.7297676,
+    "place_id": "ChIJGfI3QgSYj5URcOiG83ppqaU"
+  },
+  {
+    "name": "Cantina Centro Vasco",
+    "category": "Restaurante",
+    "lat": -38.5567936,
+    "lng": -58.7425187,
+    "place_id": "ChIJH7juSWG9j5URfevwHSacrFA"
+  },
+  {
+    "name": "La Industrial",
+    "category": "Restaurante",
+    "lat": -38.5598265,
+    "lng": -58.7317662,
+    "place_id": "ChIJZ7PMK-GXj5URMYTx7oCEoKI"
+  },
+  {
+    "name": "Al Final Chorizo",
+    "category": "Restaurante",
+    "lat": -38.5818423,
+    "lng": -58.7288912,
+    "place_id": "ChIJG6eVVwSYj5URix-eH4_R6Ms"
+  },
+  {
+    "name": "Kabryl",
+    "category": "Restaurante",
+    "lat": -38.5812202,
+    "lng": -58.728897,
+    "place_id": "ChIJa7ycvbqij5URO-coFgjo-Hw"
+  },
+  {
+    "name": "Taberna Española",
+    "category": "Restaurante",
+    "lat": -38.5795376,
+    "lng": -58.7308644,
+    "place_id": "ChIJl-MI3QCYj5URN3qDJuYdFsw"
+  },
+  {
+    "name": "CANTINA VENEZIA",
+    "category": "Restaurante",
+    "lat": -38.5722797,
+    "lng": -58.7167771,
+    "place_id": "ChIJ3-kXfvWXj5URetQOBBY5OSU"
+  },
+  {
+    "name": "Restaurante Barrika Fonda Escondida",
+    "category": "Restaurante",
+    "lat": -37.3225302,
+    "lng": -59.1303007,
+    "place_id": "ChIJn-wyw9wfkZURCz4PC0x0JPU"
+  },
+  {
+    "name": "Casa Ruda",
+    "category": "Restaurante",
+    "lat": -38.2706654,
+    "lng": -57.831183,
+    "place_id": "ChIJ-cn_ajURhZURUGnNQSZWXxM"
+  },
+  {
+    "name": "Caldero Resto",
+    "category": "Restaurante",
+    "lat": -38.58033,
+    "lng": -58.735058,
+    "place_id": null
+  },
+  {
+    "name": "EL UNICO",
+    "category": "Restaurante",
+    "lat": -38.2847592,
+    "lng": -57.8360697,
+    "place_id": "ChIJ930De3IQhZURRm8TocGZZiQ"
+  },
+  {
+    "name": "Estilo Agreste",
+    "category": "Restaurante",
+    "lat": -38.2894668,
+    "lng": -57.8569183,
+    "place_id": "ChIJ34OcfEYQhZUR2vWSAKzxcVI"
+  },
+  {
+    "name": "El Loco",
+    "category": "Restaurante",
+    "lat": -38.5739701,
+    "lng": -58.7201705,
+    "place_id": "ChIJxWl2dR6Yj5URVuz_WSIb69A"
+  },
+  {
+    "name": "McDonald&apos;s",
+    "category": "Restaurante",
+    "lat": -38.025764,
+    "lng": -57.5321557,
+    "place_id": "ChIJnTIzXsrdhJUReugmDPuy26c"
+  },
+  {
+    "name": "CHEpapá Envíos Tandil",
+    "category": "Restaurante",
+    "lat": -37.3457284,
+    "lng": -59.1347676,
+    "place_id": "ChIJ-1PXcZAfkZURAXetM-pg3ig"
+  },
+  {
+    "name": "Fortunato Restaurant",
+    "category": "Restaurante",
+    "lat": -38.2687426,
+    "lng": -57.8403414,
+    "place_id": "ChIJSUfVuYkQhZURHotWFbYaa3M"
+  },
+  {
+    "name": "Torreón del Monje",
+    "category": "Restaurante",
+    "lat": -38.0080028,
+    "lng": -57.5334337,
+    "place_id": "ChIJp_C11w3dhJURduMx58w_SlQ"
+  },
+  {
+    "name": "Parador Ruta 227",
+    "category": "Restaurante",
+    "lat": -38.5283044,
+    "lng": -58.7022098,
+    "place_id": "ChIJ3U-03EmXj5URBdEHJZBZ2k4"
+  },
+  {
+    "name": "Parrilla la Ruta",
+    "category": "Restaurante",
+    "lat": -38.5394509,
+    "lng": -58.7358564,
+    "place_id": "ChIJC-gQP0O9j5URYPMTjAEWZ74"
+  },
+  {
+    "name": "Amorinda Tutto Pasta",
+    "category": "Restaurante",
+    "lat": -37.3268933,
+    "lng": -57.0235575,
+    "place_id": "ChIJ9aiQcs5dm5URDms479eCkC0"
+  },
+  {
+    "name": "Romeo Restaurant",
+    "category": "Restaurante",
+    "lat": -38.2779816,
+    "lng": -57.8425643,
+    "place_id": "ChIJCzWJ1WUQhZUR2XDyuHrzvFQ"
+  },
+  {
+    "name": "La Veleta",
+    "category": "Restaurante",
+    "lat": -37.9425933,
+    "lng": -57.7770926,
+    "place_id": "ChIJg0y-DKgvhZURZugfFTOF728"
+  },
+  {
+    "name": "CeliBahia",
+    "category": "Restaurante",
+    "lat": -38.7105006,
+    "lng": -62.2714341,
+    "place_id": "ChIJ6yeiu6m87ZUR5SfeUIvD95o"
+  },
+  {
+    "name": "El Rancho",
+    "category": "Restaurante",
+    "lat": -38.7692489,
+    "lng": -62.6089235,
+    "place_id": "ChIJPxXMMunE7ZURk9Du24qYYRM"
+  },
+  {
+    "name": "Tejas Verdes, Productos Saludables Sin Tacc",
+    "category": "Restaurante",
+    "lat": -38.6846491,
+    "lng": -62.3107226,
+    "place_id": "ChIJT1keTsu77ZURwzg1md4qOCU"
+  },
+  {
+    "name": "Ophelia Sin Gluten",
+    "category": "Restaurante",
+    "lat": -38.0971123,
+    "lng": -62.2263578,
+    "place_id": "ChIJYxIaGVhn7JURn3OQ765qqWw"
+  },
+  {
+    "name": "El Rincón del Chipá",
+    "category": "Restaurante",
+    "lat": -38.7131412,
+    "lng": -62.2553881,
+    "place_id": "ChIJ_5CDak2j7ZURZ959iLax_6s"
+  },
+  {
+    "name": "Rotisería Vegetariana Soler",
+    "category": "Restaurante",
+    "lat": -38.7194007,
+    "lng": -62.2597709,
+    "place_id": "ChIJuwGPX0yj7ZUR6oE8GKkkEuw"
+  },
+  {
+    "name": "Oliva",
+    "category": "Restaurante",
+    "lat": -38.7145733,
+    "lng": -62.2613741,
+    "place_id": "ChIJQdL8AgTizJURLskUfYMijGs"
+  },
+  {
+    "name": "Pavarotti Restaurante Bodega",
+    "category": "Restaurante",
+    "lat": -38.717054,
+    "lng": -62.260956,
+    "place_id": "ChIJwYv8a02j7ZURgwEZ5yT_3dg"
+  },
+  {
+    "name": "Casa de Comidas El Parque",
+    "category": "Restaurante",
+    "lat": -39.2587579,
+    "lng": -62.6126423,
+    "place_id": "ChIJ_dIl3coI8pURqxWghCSCASk"
+  },
+  {
+    "name": "Patio Portugal",
+    "category": "Restaurante",
+    "lat": -38.7135563,
+    "lng": -62.2577801,
+    "place_id": "ChIJlyEpOlKj7ZURG_4KVQXmdbo"
+  },
+  {
+    "name": "McDonald&apos;s",
+    "category": "Restaurante",
+    "lat": -38.7220186,
+    "lng": -62.2653565,
+    "place_id": "ChIJ01DYf7O87ZURDRGlNTzgI1I"
+  },
+  {
+    "name": "Resto Victor",
+    "category": "Restaurante",
+    "lat": -38.7189241,
+    "lng": -62.2657593,
+    "place_id": "ChIJ3yOB97K87ZURx0YKMuYdfLE"
+  },
+  {
+    "name": "Bamboo",
+    "category": "Restaurante",
+    "lat": -38.720612,
+    "lng": -62.2631174,
+    "place_id": "ChIJH0C1SLO87ZURfrUnrEPAv8k"
+  },
+  {
+    "name": "Gabo Resto Bar",
+    "category": "Restaurante",
+    "lat": -38.6924002,
+    "lng": -62.2685285,
+    "place_id": "ChIJh1n9YUm77ZURXmQNOze12fQ"
+  },
+  {
+    "name": "Atero Restó y Café",
+    "category": "Restaurante",
+    "lat": -38.1371991,
+    "lng": -61.7958072,
+    "place_id": "ChIJb4yufQDv7JURQHTy1kyv7dI"
+  },
+  {
+    "name": "Casamonte Parque",
+    "category": "Restaurante",
+    "lat": -38.6957126,
+    "lng": -62.2667456,
+    "place_id": "ChIJTwxNYxa77ZUR2JEDrnQWZtc"
+  },
+  {
+    "name": "Sushi Jardin Zen &amp; Cocina del Mundo",
+    "category": "Restaurante",
+    "lat": -38.719263,
+    "lng": -62.267837,
+    "place_id": "ChIJjco8MFC77ZURadzwo78H3E4"
+  },
+  {
+    "name": "Madison Brew Station",
+    "category": "Restaurante",
+    "lat": -38.710344,
+    "lng": -62.2633126,
+    "place_id": "ChIJKU6R8lW97ZURTQcyYBYGdPs"
+  },
+  {
+    "name": "Ave Caesar",
+    "category": "Restaurante",
+    "lat": -38.699601,
+    "lng": -62.24409,
+    "place_id": "ChIJoz4aJ6Gk7ZUR3Fud0HhUW5o"
+  },
+  {
+    "name": "Frid",
+    "category": "Restaurante",
+    "lat": -38.1345212,
+    "lng": -61.7975314,
+    "place_id": "ChIJSfgR5bTu7JURwISCXLKPZko"
+  },
+  {
+    "name": "Gambrinus",
+    "category": "Restaurante",
+    "lat": -38.7215369,
+    "lng": -62.2667411,
+    "place_id": "ChIJU3VwwLO87ZURhsVlMHKnkT8"
+  },
+  {
+    "name": "Nunnie pasteleria",
+    "category": "Restaurante",
+    "lat": -38.7146328,
+    "lng": -62.2569202,
+    "place_id": "ChIJI5-KmxK97ZURQRcHzjx1Ab4"
+  },
+  {
+    "name": "Celigourmet",
+    "category": "Restaurante",
+    "lat": -34.5723995,
+    "lng": -58.4828474,
+    "place_id": "ChIJh4fczcG3vJURW8a5T3Qpo1A"
+  },
+  {
+    "name": "Marianella Sin Gluten",
+    "category": "Restaurante",
+    "lat": -38.1328577,
+    "lng": -61.7985436,
+    "place_id": "ChIJd3MNXQ3v7JURGFk0N4bhpRs"
+  },
+  {
+    "name": "El Molino De La Casa Azul",
+    "category": "Restaurante",
+    "lat": -38.1337897,
+    "lng": -61.7978583,
+    "place_id": "ChIJufWWl7Pu7JURlw-JHGpD25Q"
+  },
+  {
+    "name": "Restaurant Piuque Lom",
+    "category": "Restaurante",
+    "lat": -38.0769386,
+    "lng": -61.9276542,
+    "place_id": "ChIJiU5SQdPy7JURvDAJP5FijKo"
+  },
+  {
+    "name": "L &apos; Angolo. resto",
+    "category": "Restaurante",
+    "lat": -37.1828266,
+    "lng": -62.7614484,
+    "place_id": "ChIJNa2gziAm6pURdVMbOldcsJE"
+  },
+  {
+    "name": "Artemio Gramajo",
+    "category": "Restaurante",
+    "lat": -37.4594441,
+    "lng": -61.9345334,
+    "place_id": "ChIJz2EdHShz65URwbB5LgFTSHo"
+  },
+  {
+    "name": "Restaurant Chiquitín",
+    "category": "Restaurante",
+    "lat": -37.2850665,
+    "lng": -56.9928149,
+    "place_id": "ChIJz-HDIoxgm5URXdgd0ZBvBw0"
+  },
+  {
+    "name": "Cerveceria Josefh",
+    "category": "Restaurante",
+    "lat": -37.9853606,
+    "lng": -61.3487728,
+    "place_id": "ChIJq89stUHL7JURW35VJsuyBvY"
+  },
+  {
+    "name": "Edulis resto",
+    "category": "Restaurante",
+    "lat": -38.1304333,
+    "lng": -61.7927353,
+    "place_id": "ChIJ-dlsPU3p7JURUkGqrM9ZlBU"
+  },
+  {
+    "name": "Hora de Comer SIN TACC",
+    "category": "Tienda",
+    "lat": -34.5687771,
+    "lng": -59.0983199,
+    "place_id": "ChIJj71O6JyHvJURq6zsWI2idR0"
+  },
+  {
+    "name": "Celipunto25",
+    "category": "Tienda",
+    "lat": -35.4337494,
+    "lng": -60.1644275,
+    "place_id": "ChIJh0BBmTdhvpURbOcGd2tpbfM"
+  },
+  {
+    "name": "TaccFree - Casero. Rico. Sin Gluten",
+    "category": "Tienda",
+    "lat": -34.4613937,
+    "lng": -58.5329843,
+    "place_id": "ChIJG58izv2xvJURtQQyU7r1Ewo"
+  },
+  {
+    "name": "Sin gluten chivilcoy",
+    "category": "Tienda",
+    "lat": -34.8876228,
+    "lng": -60.0307315,
+    "place_id": "ChIJ9cxO5dW7vpURLs-Lg4eZfeg"
+  },
+  {
+    "name": "Todo Sin Tacc Rosario",
+    "category": "Tienda",
+    "lat": -32.962557,
+    "lng": -60.645117,
+    "place_id": "ChIJy_t3y3Wrt5UR2vst3c8G1c8"
+  },
+  {
+    "name": "Cynthia Regionales",
+    "category": "Tienda",
+    "lat": -34.7798148,
+    "lng": -59.6749643,
+    "place_id": "ChIJn-9cTnQFvJURJI7D9qhmSrQ"
+  },
+  {
+    "name": "Andando - Sabores del Mundo",
+    "category": "Tienda",
+    "lat": -36.2293048,
+    "lng": -61.1161263,
+    "place_id": "ChIJUaM_Y6rjv5URjB3iEHmiEtA"
+  },
+  {
+    "name": "La Mansa",
+    "category": "Tienda",
+    "lat": -34.7769735,
+    "lng": -58.398761,
+    "place_id": "ChIJ06goNuHSvJURNqB1WfHZwBo"
+  },
+  {
+    "name": "La Picadita",
+    "category": "Tienda",
+    "lat": -35.0307717,
+    "lng": -60.2813968,
+    "place_id": "ChIJMRP4h1jBvpURrzyWHvJFvDc"
+  },
+  {
+    "name": "Dietética Varettoni&apos;s",
+    "category": "Tienda",
+    "lat": -35.0290181,
+    "lng": -60.2785721,
+    "place_id": "ChIJF0aIkVHBvpURGjLwC4rNLkc"
+  },
+  {
+    "name": "Todo Tuti Supermercados",
+    "category": "Tienda",
+    "lat": -35.4506471,
+    "lng": -60.879717,
+    "place_id": "ChIJHT3bkMANv5UR8LfdkO1VgwA"
+  },
+  {
+    "name": "El Rey del granel",
+    "category": "Tienda",
+    "lat": -34.8977126,
+    "lng": -60.0170411,
+    "place_id": "ChIJjc0G4UOlvpUREOxyMm9Mhnc"
+  },
+  {
+    "name": "Lacabana_Drinks",
+    "category": "Tienda",
+    "lat": -34.9078682,
+    "lng": -60.0196726,
+    "place_id": "ChIJqV0Smy6lvpURicE3BElem1w"
+  },
+  {
+    "name": "Tienda natural 9 de Julio",
+    "category": "Tienda",
+    "lat": -35.4479135,
+    "lng": -60.8851366,
+    "place_id": "ChIJaUtqIUYNv5URp4FHPQPvY0c"
+  },
+  {
+    "name": "Delicias Sin Gluten",
+    "category": "Tienda",
+    "lat": -35.6203083,
+    "lng": -61.3590455,
+    "place_id": "ChIJ34b5lT-DwJUR5Ip2xCixL8g"
+  },
+  {
+    "name": "Celicioso y Saludable",
+    "category": "Tienda",
+    "lat": -35.624523,
+    "lng": -61.3653661,
+    "place_id": "ChIJH2qDVS6CwJURRGHBqQxNfNY"
+  },
+  {
+    "name": "Lo de Yagui",
+    "category": "Tienda",
+    "lat": -34.8660249,
+    "lng": -61.5235697,
+    "place_id": "ChIJCfPlmWVFx5URK5EwczGWXhU"
+  },
+  {
+    "name": "Massalud Dietetica",
+    "category": "Tienda",
+    "lat": -35.4291398,
+    "lng": -60.1716567,
+    "place_id": "ChIJKWqTnlFgvpURtUMzYd9HjR8"
+  },
+  {
+    "name": "Organic Sin TACC",
+    "category": "Tienda",
+    "lat": -34.6636064,
+    "lng": -58.5387057,
+    "place_id": "ChIJ8Rn_Y3rJvJURtV7iwxCzchw"
+  },
+  {
+    "name": "SIN GLUTEN Express",
+    "category": "Tienda",
+    "lat": -34.706863,
+    "lng": -58.392348,
+    "place_id": "ChIJQZaBuPjNvJURfPD8Zaa19ic"
+  },
+  {
+    "name": "Vichenzo Sin Tacc Sarandí",
+    "category": "Tienda",
+    "lat": -34.6760169,
+    "lng": -58.3452561,
+    "place_id": "ChIJAQI0EAgzo5URvREE_Z92yxs"
+  },
+  {
+    "name": "#sin tacc Manola Sin Gluten",
+    "category": "Tienda",
+    "lat": -34.7273497,
+    "lng": -58.3971314,
+    "place_id": "ChIJv66WbmjNvJURhvwDW_vJT1M"
+  },
+  {
+    "name": "La Bolognesa Pastas artesanales -sin tacc-",
+    "category": "Tienda",
+    "lat": -34.8191035,
+    "lng": -58.4684304,
+    "place_id": "ChIJjcRCvLPRvJURqUtmCJW89DU"
+  },
+  {
+    "name": "Artes y Delicias- Exclusivo sin tacc. Apto para todos",
+    "category": "Tienda",
+    "lat": -34.64579,
+    "lng": -58.593383,
+    "place_id": "ChIJodIrY77HvJURc5M1pasUbF8"
+  },
+  {
+    "name": "Libertacc GlutenFree",
+    "category": "Tienda",
+    "lat": -34.7562419,
+    "lng": -58.3914633,
+    "place_id": "ChIJL8tqfCvXvJURKlF9fmYwlD8"
+  },
+  {
+    "name": "Para mí, Sin TACC",
+    "category": "Tienda",
+    "lat": -34.7942625,
+    "lng": -58.4922804,
+    "place_id": "ChIJAd2SXeLRvJURG4qm4uOX8lU"
+  },
+  {
+    "name": "Mi Cocina Sin TACC",
+    "category": "Tienda",
+    "lat": -34.8859307,
+    "lng": -58.3889612,
+    "place_id": "ChIJVQyWQUXVvJURTabJcBuTor8"
+  },
+  {
+    "name": "Comiendo sin TACC",
+    "category": "Tienda",
+    "lat": -37.1498821,
+    "lng": -60.0254816,
+    "place_id": null
+  },
+  {
+    "name": "Vita Market Cañuelas",
+    "category": "Tienda",
+    "lat": -35.0520552,
+    "lng": -58.7592113,
+    "place_id": "ChIJae1k23IfvZURJbU1EgFdOh8"
+  },
+  {
+    "name": "Lulemuu SRL",
+    "category": "Tienda",
+    "lat": -34.8730706,
+    "lng": -58.6279788,
+    "place_id": "ChIJIUnG5yrbvJUR7OEjidDZtIA"
+  },
+  {
+    "name": "Rochino",
+    "category": "Tienda",
+    "lat": -34.5927106,
+    "lng": -58.3877135,
+    "place_id": "ChIJQxujlrvKvJUR_5SVG5eeTIc"
+  },
+  {
+    "name": "BRISA NATURAL",
+    "category": "Tienda",
+    "lat": -34.5986472,
+    "lng": -58.441035,
+    "place_id": "ChIJ3Y_ARwvKvJURJQ0B0pUJPoI"
+  },
+  {
+    "name": "Chau Chau Tacc Alm. Natural",
+    "category": "Tienda",
+    "lat": -33.8932056,
+    "lng": -60.5689418,
+    "place_id": "ChIJNebmIlq1uZURtznJelhmreo"
+  },
+  {
+    "name": "Delicias Tresa sin gluten",
+    "category": "Tienda",
+    "lat": -38.3841402,
+    "lng": -60.2774524,
+    "place_id": "ChIJ3_QN1L5tkpURJi0Hlakx0Ew"
+  },
+  {
+    "name": "Alma Delicias Sin Gluten",
+    "category": "Tienda",
+    "lat": -34.6096812,
+    "lng": -58.4883934,
+    "place_id": "ChIJBQLmo9_JvJUR0IQi6febAXA"
+  },
+  {
+    "name": "La Chavense S.A.",
+    "category": "Tienda",
+    "lat": -38.0175644,
+    "lng": -60.1057911,
+    "place_id": "ChIJV7mB9EVHkpURJnwNaDWRnoA"
+  },
+  {
+    "name": "Almacén Libre - Tienda Sin Gluten",
+    "category": "Tienda",
+    "lat": -34.5870617,
+    "lng": -58.4278439,
+    "place_id": "ChIJAQBQFoa1vJURi9e_4jaY0ho"
+  },
+  {
+    "name": "La Botica Sefaradí - Comidas de Oriente SIN TACC",
+    "category": "Tienda",
+    "lat": -34.6158238,
+    "lng": -58.4332985,
+    "place_id": null
+  },
+  {
+    "name": "SIN TACC Gluten free",
+    "category": "Tienda",
+    "lat": -34.9870036,
+    "lng": -57.8539966,
+    "place_id": "ChIJsU7RqF3topURRq4Xny0PJG8"
+  },
+  {
+    "name": "Celi Sueños SIN TACC",
+    "category": "Tienda",
+    "lat": -34.6515326,
+    "lng": -58.6148609,
+    "place_id": "ChIJgQTwuADHvJURrgHqNjNMbok"
+  },
+  {
+    "name": "Celiexpress",
+    "category": "Tienda",
+    "lat": -37.3284836,
+    "lng": -59.1502601,
+    "place_id": "ChIJWZ7L1XcfkZURVqZ4jTSgmjY"
+  },
+  {
+    "name": "Helados Para Celíacos",
+    "category": "Tienda",
+    "lat": -37.3290675,
+    "lng": -59.1353185,
+    "place_id": "ChIJAZPv-5YfkZURmG8HohQTxco"
+  },
+  {
+    "name": "Macadamia Saludable &amp; Gourmet",
+    "category": "Tienda",
+    "lat": -38.3745625,
+    "lng": -60.2691806,
+    "place_id": "ChIJZ9xDhg5tkpURT0zcdTS7XBk"
+  },
+  {
+    "name": "Almacen Natural Laprida",
+    "category": "Tienda",
+    "lat": -37.5442495,
+    "lng": -60.8023755,
+    "place_id": "ChIJ6UMbXVtlk5URRJZqMst7AuI"
+  },
+  {
+    "name": "Familia Green Tandil",
+    "category": "Tienda",
+    "lat": -37.3199959,
+    "lng": -59.1310465,
+    "place_id": "ChIJJ4VxaY4fkZURaTVH8RLeQEo"
+  },
+  {
+    "name": "Tandil | Syquet | Salames, Fiambres, Quesos y Picadas",
+    "category": "Tienda",
+    "lat": -37.3241955,
+    "lng": -59.1381334,
+    "place_id": "ChIJA50E35_JvJURZ2fcEzY2GJQ"
+  },
+  {
+    "name": "Diabéticos Celíacos",
+    "category": "Tienda",
+    "lat": -34.5861987,
+    "lng": -58.5018068,
+    "place_id": "ChIJuz02uU62vJUR-MrtMzi3FlE"
+  },
+  {
+    "name": "Almacén sin tacc",
+    "category": "Tienda",
+    "lat": -34.6020368,
+    "lng": -58.6356628,
+    "place_id": "ChIJc06mQLC5vJURmrox4lAz158"
+  },
+  {
+    "name": "Desde el alma sin gluten",
+    "category": "Tienda",
+    "lat": -34.7267144,
+    "lng": -58.2785939,
+    "place_id": "ChIJjamhPJy1vJUR0K3iLHh3wz0"
+  },
+  {
+    "name": "Dietetica Tienda Natural @tiendailcontadino",
+    "category": "Tienda",
+    "lat": -34.585592,
+    "lng": -58.5007015,
+    "place_id": "ChIJQ3dB3U62vJURGFgOGKt9ENg"
+  },
+  {
+    "name": "El Almacén del Celiaco",
+    "category": "Tienda",
+    "lat": -32.9350287,
+    "lng": -60.6617626,
+    "place_id": "ChIJb88IQE6rt5URx5lnCP9M7t4"
+  },
+  {
+    "name": "Sabores sin tacc",
+    "category": "Tienda",
+    "lat": -34.4288099,
+    "lng": -58.5935263,
+    "place_id": "ChIJa_GX8_WlvJURsQCYS2X18Rs"
+  },
+  {
+    "name": "Don Zapiola",
+    "category": "Tienda",
+    "lat": -34.5626679,
+    "lng": -58.4664392,
+    "place_id": "ChIJTwcPcNS1vJUR_vCYLoU7yH0"
+  },
+  {
+    "name": "La Casa Del Celíaco",
+    "category": "Tienda",
+    "lat": -34.5867617,
+    "lng": -60.9410578,
+    "place_id": "ChIJXaIb7Z7ruJURp1qJVr2BCPQ"
+  },
+  {
+    "name": "Carnicería Re Hermanos",
+    "category": "Tienda",
+    "lat": -34.8917327,
+    "lng": -60.0259236,
+    "place_id": "ChIJk2tErbS6vpURymTCw8pNHmk"
+  },
+  {
+    "name": "El Colonial",
+    "category": "Tienda",
+    "lat": -34.5838314,
+    "lng": -60.9346902,
+    "place_id": "ChIJyc9oPiPruJUR1sI4tzKI52E"
+  },
+  {
+    "name": "Inmi Repostería Artesanal",
+    "category": "Tienda",
+    "lat": -33.8888252,
+    "lng": -60.5636858,
+    "place_id": "ChIJydMTEpO1uZURiM5MibO-Bro"
+  },
+  {
+    "name": "La Antigua, Almacén Organico",
+    "category": "Tienda",
+    "lat": -33.8947855,
+    "lng": -60.5727009,
+    "place_id": "ChIJg41D6FC1uZURZOjNw0T2nn8"
+  },
+  {
+    "name": "Dietética Olivos",
+    "category": "Tienda",
+    "lat": -33.9080833,
+    "lng": -60.5808774,
+    "place_id": "ChIJbfiWI0u1uZURkwBxIpjfpPo"
+  },
+  {
+    "name": "Kwëzi Argentina",
+    "category": "Tienda",
+    "lat": -38.45155,
+    "lng": -63.5989957,
+    "place_id": null
+  },
+  {
+    "name": "cata sin tacc",
+    "category": "Tienda",
+    "lat": -34.6411333,
+    "lng": -60.4439034,
+    "place_id": "ChIJfThMv4MluZURjFXx3UIGNdY"
+  },
+  {
+    "name": "Pastagliani libre de gluten",
+    "category": "Tienda",
+    "lat": -34.6158238,
+    "lng": -58.4332985,
+    "place_id": null
+  },
+  {
+    "name": "Pilar Sin Gluten",
+    "category": "Tienda",
+    "lat": -34.452659,
+    "lng": -58.9155427,
+    "place_id": "ChIJoV5aMNScvJURNBjOc-I8z9I"
+  },
+  {
+    "name": "Yoda gluten free",
+    "category": "Tienda",
+    "lat": -38.0050561,
+    "lng": -57.5561818,
+    "place_id": "ChIJwS4P853fhJURVAwgIEhitMY"
+  },
+  {
+    "name": "Dietéticas Tomy",
+    "category": "Tienda",
+    "lat": -34.4390407,
+    "lng": -58.7818299,
+    "place_id": "ChIJobYjWIKfvJURV4U8CmGAM6Y"
+  },
+  {
+    "name": "El Parmegiano Tortugas",
+    "category": "Tienda",
+    "lat": -34.4431957,
+    "lng": -58.7554603,
+    "place_id": "ChIJh3w8aEufvJURmmmGhr2YyGw"
+  },
+  {
+    "name": "Dulces Lía",
+    "category": "Tienda",
+    "lat": -34.8961234,
+    "lng": -58.9151606,
+    "place_id": "ChIJp-zBrG_lvJURmWdfZ4Ah-Ac"
+  },
+  {
+    "name": "Tierra libre: mercado sano",
+    "category": "Tienda",
+    "lat": -35.055186,
+    "lng": -58.7600762,
+    "place_id": "ChIJl5zzHIEfvZURlv7IXrc5jC0"
+  },
+  {
+    "name": "La Cabaña Almacén Orgánico",
+    "category": "Tienda",
+    "lat": -34.8975514,
+    "lng": -58.5092378,
+    "place_id": "ChIJZ4gAT6vXvJURnRr6cUdyNE0"
+  },
+  {
+    "name": "Punto Sano dietetic",
+    "category": "Tienda",
+    "lat": -34.9025658,
+    "lng": -58.5111461,
+    "place_id": "ChIJq2SMIgDXvJURjQkc-hJyzuo"
+  },
+  {
+    "name": "La Cocina Gluten Free De Mamá",
+    "category": "Tienda",
+    "lat": -34.7973495,
+    "lng": -58.4126044,
+    "place_id": "ChIJ8-n7GdbTvJURJQkfVDnE2GU"
+  },
+  {
+    "name": "Deleite",
+    "category": "Tienda",
+    "lat": -34.8101317,
+    "lng": -58.4024082,
+    "place_id": "ChIJERyZqn_TvJURG-th1j_asJY"
+  },
+  {
+    "name": "DIETETICA ÜDWE alimentos sanos",
+    "category": "Tienda",
+    "lat": -34.7980499,
+    "lng": -58.390135,
+    "place_id": "ChIJt-OSQT_TvJURuY47TyiJWAs"
+  },
+  {
+    "name": "Rooster sin tacc",
+    "category": "Tienda",
+    "lat": -34.762247,
+    "lng": -58.3962675,
+    "place_id": "ChIJD-nWqPzTvJURSDyrodABg6Q"
+  },
+  {
+    "name": "Mamá Celiaca",
+    "category": "Tienda",
+    "lat": -34.8114417,
+    "lng": -58.261347,
+    "place_id": "ChIJczGadhkpo5URb_7VcAmnXLw"
+  },
+  {
+    "name": "Orgánica Adrogué",
+    "category": "Tienda",
+    "lat": -34.7948585,
+    "lng": -58.3833751,
+    "place_id": "ChIJ59f-LDjTvJUR42CR5mpysnE"
+  },
+  {
+    "name": "Sweet Delicities© ~ Homemade Pastry &amp; Boulangerie",
+    "category": "Tienda",
+    "lat": -34.79455,
+    "lng": -58.4031046,
+    "place_id": null
+  },
+  {
+    "name": "Dietetica Fue Tu Culpa",
+    "category": "Tienda",
+    "lat": -34.8129801,
+    "lng": -58.3664325,
+    "place_id": "ChIJnYMz61Uro5UR-Ue6OisMx7s"
+  },
+  {
+    "name": "Almacén Natural Genki",
+    "category": "Tienda",
+    "lat": -34.8263716,
+    "lng": -58.3937501,
+    "place_id": "ChIJQ-WDbaLUvJURxYPptIOx4Eg"
+  },
+  {
+    "name": "Dietética El Grano de Mostaza",
+    "category": "Tienda",
+    "lat": -34.7997229,
+    "lng": -58.3369821,
+    "place_id": "ChIJIwA6sH8to5URnGoujEsnnUk"
+  },
+  {
+    "name": "Dietética Per Caso",
+    "category": "Tienda",
+    "lat": -34.8897359,
+    "lng": -58.3856538,
+    "place_id": "ChIJoyYZtMvVvJURKBO7M2_7ZGk"
+  },
+  {
+    "name": "Dietetica sur",
+    "category": "Tienda",
+    "lat": -34.8264841,
+    "lng": -58.3937759,
+    "place_id": "ChIJj-ReU-_VvJURh3PWfiIZIr0"
+  },
+  {
+    "name": "Zona Sin TACC",
+    "category": "Tienda",
+    "lat": -35.1732444,
+    "lng": -58.2353312,
+    "place_id": "ChIJPWxOXBy3opURVAoIWzCyQjI"
+  },
+  {
+    "name": "SIN CONTACCTO,Alimentos Libre De Gluten-Sin Tacc.",
+    "category": "Tienda",
+    "lat": -34.6123263,
+    "lng": -58.917279,
+    "place_id": "ChIJxyWSyNiRvJURrRf2OG6SQ04"
+  },
+  {
+    "name": "Terra Nostra Almacén Celíaco",
+    "category": "Tienda",
+    "lat": -34.912932,
+    "lng": -57.9534867,
+    "place_id": "ChIJD37zjjbmopURpsv75W7NKTw"
+  },
+  {
+    "name": "Sin Tacc Store",
+    "category": "Tienda",
+    "lat": -35.5751062,
+    "lng": -58.0147685,
+    "place_id": "ChIJ1dOtG68NmJURKLJU0Y84RXg"
+  },
+  {
+    "name": "Distribuidora Diaz sin tacc",
+    "category": "Tienda",
+    "lat": -34.6837676,
+    "lng": -58.5735296,
+    "place_id": "ChIJl4tLiHLHvJUR3KZFZEZm3VQ"
+  },
+  {
+    "name": "Celiacos con Buen Gusto",
+    "category": "Tienda",
+    "lat": -34.9205082,
+    "lng": -57.9531703,
+    "place_id": null
+  },
+  {
+    "name": "Arana sin tacc",
+    "category": "Tienda",
+    "lat": -34.9875597,
+    "lng": -57.9391016,
+    "place_id": "ChIJs6VoZqnpopUR8ivtYPb0h7M"
+  },
+  {
+    "name": "Siembra Tienda Plant Based",
+    "category": "Tienda",
+    "lat": -34.9054648,
+    "lng": -57.9712461,
+    "place_id": "ChIJ79HZ7_znopUR-zDcx6KplC8"
+  },
+  {
+    "name": "Cocina Sin Gluten",
+    "category": "Tienda",
+    "lat": -34.7362936,
+    "lng": -58.2706557,
+    "place_id": "ChIJy2VGbgAvo5URAUD_uU4J2FM"
+  },
+  {
+    "name": "Pasta e Piú",
+    "category": "Tienda",
+    "lat": -34.8733399,
+    "lng": -58.0447147,
+    "place_id": "ChIJH1UXQtDnopURyefOI14NL64"
+  },
+  {
+    "name": "Pago Chico",
+    "category": "Tienda",
+    "lat": -35.5777604,
+    "lng": -58.0118787,
+    "place_id": "ChIJr8dFJVENmJURApzLfGxFUNY"
+  },
+  {
+    "name": "Doña Clementina Almacén Sin Tacc",
+    "category": "Tienda",
+    "lat": -35.5756723,
+    "lng": -58.0136108,
+    "place_id": "ChIJDdaskFYNmJUR2Go_7-PkAoA"
+  },
+  {
+    "name": "Dietetica Jonte",
+    "category": "Tienda",
+    "lat": -34.6068194,
+    "lng": -58.4768496,
+    "place_id": "ChIJjSlf-uLJvJURBP7m83_b20k"
+  },
+  {
+    "name": "El Super sin Gluten",
+    "category": "Tienda",
+    "lat": -34.6158238,
+    "lng": -58.4332985,
+    "place_id": "ChIJgac8J0bKvJURv2WOHdMkBgs"
+  },
+  {
+    "name": "La Esquina de Ana Almacén Gluten Free",
+    "category": "Tienda",
+    "lat": -35.9668143,
+    "lng": -62.7337512,
+    "place_id": "ChIJZ6Dn1DB9wZURAohohxQ4b4Y"
+  },
+  {
+    "name": "El Alero",
+    "category": "Tienda",
+    "lat": -35.1894029,
+    "lng": -59.0973084,
+    "place_id": "ChIJS2dMoVAHvZUR4C778GCQcgc"
+  },
+  {
+    "name": "Dietetica &quot;Pachamama&quot; almacen saludable",
+    "category": "Tienda",
+    "lat": -38.9837566,
+    "lng": -61.2869405,
+    "place_id": "ChIJg_GXv9JTjZURCl04HCqsG7w"
+  },
+  {
+    "name": "RICO&amp;SANO",
+    "category": "Tienda",
+    "lat": -38.9871429,
+    "lng": -61.302758,
+    "place_id": "ChIJLx-l_ttTjZURzNrpznK_11c"
+  },
+  {
+    "name": "Punto Naranja",
+    "category": "Tienda",
+    "lat": -38.8537326,
+    "lng": -60.0770123,
+    "place_id": "ChIJoYZU8CfDjZURSFae-8Pgc3U"
+  },
+  {
+    "name": "Naturalmente Tú Dietética",
+    "category": "Tienda",
+    "lat": -38.9873825,
+    "lng": -61.2848256,
+    "place_id": "ChIJ0VFqcoFSjZURmJGB4opgn_c"
+  },
+  {
+    "name": "Bodega Peters",
+    "category": "Tienda",
+    "lat": -38.8970349,
+    "lng": -60.3421055,
+    "place_id": "ChIJPdvEvr69jZURJE4nlZF7iT8"
+  },
+  {
+    "name": "Sin Tacc Shop",
+    "category": "Tienda",
+    "lat": -34.9438519,
+    "lng": -57.8948746,
+    "place_id": "ChIJs_Y-f8HvopUREfAG5meWa9Q"
+  },
+  {
+    "name": "Celicatessen Gluten Free (sin tacc)",
+    "category": "Tienda",
+    "lat": -38.5822361,
+    "lng": -58.7320161,
+    "place_id": "ChIJP5LSACmZj5URGhFzI1ZRaEk"
+  },
+  {
+    "name": "Doña Elina alimentos sin TACC",
+    "category": "Tienda",
+    "lat": -37.324467,
+    "lng": -59.1670127,
+    "place_id": "ChIJSR9k3zUfkZURM58abHuycwU"
+  },
+  {
+    "name": "Dietética Rivac",
+    "category": "Tienda",
+    "lat": -38.2708818,
+    "lng": -57.8381145,
+    "place_id": "ChIJWyzAdGEQhZURtwh7qhvdSi8"
+  },
+  {
+    "name": "Pacatacc",
+    "category": "Tienda",
+    "lat": -38.5608531,
+    "lng": -58.7387832,
+    "place_id": "ChIJIb2aaPe9j5URH4yxsqjgZxc"
+  },
+  {
+    "name": "Drugstore La Vieja Esquina",
+    "category": "Tienda",
+    "lat": -38.5530691,
+    "lng": -58.7431869,
+    "place_id": "ChIJFa3ZhGS9j5URZABWSegq0GI"
+  },
+  {
+    "name": "Apto Market",
+    "category": "Tienda",
+    "lat": -38.5528348,
+    "lng": -58.7438854,
+    "place_id": "ChIJG85SwwOYj5URr0-EmeJs0Lw"
+  },
+  {
+    "name": "Milnueve86 cerveza y comida",
+    "category": "Tienda",
+    "lat": -38.5674356,
+    "lng": -58.7324186,
+    "place_id": "ChIJD8Au3lyXj5URG91u9n2GAzo"
+  },
+  {
+    "name": "Alfajores Necochea",
+    "category": "Tienda",
+    "lat": -38.5825525,
+    "lng": -58.7290367,
+    "place_id": "ChIJR-YxrQWYj5URDQnDecY6hhc"
+  },
+  {
+    "name": "Proyecto Terra",
+    "category": "Tienda",
+    "lat": -38.5703658,
+    "lng": -58.726308,
+    "place_id": "ChIJRWPV2_6Xj5URw8I2meNJz8M"
+  },
+  {
+    "name": "Sabor criollo",
+    "category": "Tienda",
+    "lat": -38.5711887,
+    "lng": -58.7297461,
+    "place_id": "ChIJ5W203dqXj5URF_X7dAe4hUM"
+  },
+  {
+    "name": "Glasé - Cocina Sin Gluten",
+    "category": "Tienda",
+    "lat": -38.6927665,
+    "lng": -62.2914367,
+    "place_id": "ChIJXSBWz9a77ZURdP7RjRaxf8c"
+  },
+  {
+    "name": "Panetacc panificados despensa sin gluten",
+    "category": "Tienda",
+    "lat": -38.7219626,
+    "lng": -62.2585578,
+    "place_id": "ChIJDU6yKhKj7ZURPMdSXL5CYOY"
+  },
+  {
+    "name": "El Especiero",
+    "category": "Tienda",
+    "lat": -38.7054689,
+    "lng": -62.2972705,
+    "place_id": "ChIJuc8u5W-77ZURkIbxnPsCSIA"
+  },
+  {
+    "name": "Paprika Almacen Saludable",
+    "category": "Tienda",
+    "lat": -38.7039029,
+    "lng": -62.2794259,
+    "place_id": "ChIJNSfwjIe77ZURFyHD19y68T8"
+  },
+  {
+    "name": "Mundo Natural",
+    "category": "Tienda",
+    "lat": -38.7148503,
+    "lng": -62.2649432,
+    "place_id": "ChIJ83OLZ6y87ZURJaEHcZl1qvc"
+  },
+  {
+    "name": "Cúrcuma y Jengibre",
+    "category": "Tienda",
+    "lat": -38.7144406,
+    "lng": -62.2659137,
+    "place_id": "ChIJz9NIV6y87ZURY99NBU0X56Y"
+  },
+  {
+    "name": "Bajo Cero - Tienda de Congelados",
+    "category": "Tienda",
+    "lat": -38.7124148,
+    "lng": -62.2571529,
+    "place_id": "ChIJ62d294-j7ZURJ8pcDhrF4hA"
+  },
+  {
+    "name": "Don Tomás",
+    "category": "Tienda",
+    "lat": -38.7140462,
+    "lng": -62.2602836,
+    "place_id": "ChIJIbrU-lKj7ZUR942SfP8jq9M"
+  },
+  {
+    "name": "El mundo del sabor",
+    "category": "Tienda",
+    "lat": -38.7133825,
+    "lng": -62.2911945,
+    "place_id": "ChIJjYYqwV277ZURBK4FKH5pUzM"
+  },
+  {
+    "name": "CLOÉ",
+    "category": "Tienda",
+    "lat": -38.7206633,
+    "lng": -62.3920209,
+    "place_id": "ChIJi0fkpSK57ZURIsprCyJ25Mk"
+  },
+  {
+    "name": "Abuela Ana",
+    "category": "Tienda",
+    "lat": -38.720762,
+    "lng": -62.2691473,
+    "place_id": "ChIJZ9oDnbG87ZURW1D5_o1Ucag"
+  },
+  {
+    "name": "Espacio de Cocineros",
+    "category": "Tienda",
+    "lat": -38.7157537,
+    "lng": -62.2665902,
+    "place_id": "ChIJ0fObsK287ZURQVeMN7QvInk"
+  },
+  {
+    "name": "Cúrcuma &amp; Co",
+    "category": "Tienda",
+    "lat": -38.45155,
+    "lng": -63.5989957,
+    "place_id": null
+  },
+  {
+    "name": "Punto La Juvenil Pastas - Arrecifes",
+    "category": "Tienda",
+    "lat": -34.0659604,
+    "lng": -60.1040587,
+    "place_id": "ChIJIRW0AQCduZURJbXW-e6-xUA"
+  },
+  {
+    "name": "Picco- todo SIN TACC",
+    "category": "Tienda",
+    "lat": -37.1773512,
+    "lng": -62.7590145,
+    "place_id": "ChIJVcYxRwAn6pURPYM_tQkTPxo"
+  },
+  {
+    "name": "Sana Costumbre - Dietetica",
+    "category": "Tienda",
+    "lat": -37.1744874,
+    "lng": -62.7572436,
+    "place_id": "ChIJGcqe4QEn6pURQq-6Er2UEEU"
+  },
+  {
+    "name": "Dietética Luz Verde",
+    "category": "Tienda",
+    "lat": -38.1043631,
+    "lng": -62.2249496,
+    "place_id": "ChIJi1UObFtm7JURveDRT3sCUUI"
+  },
+  {
+    "name": "Sol Y Luna",
+    "category": "Tienda",
+    "lat": -38.1346354,
+    "lng": -61.7973116,
+    "place_id": "ChIJm43fXLXu7JUR6NqNhLs2_SQ"
+  },
+  {
+    "name": "la tranquera carhue",
+    "category": "Tienda",
+    "lat": -37.1745618,
+    "lng": -62.7569088,
+    "place_id": "ChIJ11dDdocn6pUR1yUWu3u0KBY"
+  },
+  {
+    "name": "Regionales La Rueda",
+    "category": "Tienda",
+    "lat": -38.1367959,
+    "lng": -61.7960832,
+    "place_id": "ChIJH2s0rcru7JUR5jDK-4BuM0M"
+  },
+  {
+    "name": "El Mirador - Supermercado",
+    "category": "Tienda",
+    "lat": -37.4551439,
+    "lng": -61.9355247,
+    "place_id": "ChIJX9QnHCpz65UR5xmyHP1122M"
+  },
+  {
+    "name": "Dulce Morena Sin Tacc",
+    "category": "Tienda",
+    "lat": -33.6789279,
+    "lng": -59.6729244,
+    "place_id": "ChIJnRV5F_YjupUR3OHpooKMBeA"
+  },
+  {
+    "name": "Autoservicio el Baden",
+    "category": "Supermercado",
+    "lat": -34.858718,
+    "lng": -61.5412057,
+    "place_id": "ChIJlynBQntDx5URWO6FNPHSgSY"
+  },
+  {
+    "name": "Supermercado Altos de Monte",
+    "category": "Supermercado",
+    "lat": -35.4407535,
+    "lng": -58.807639,
+    "place_id": "ChIJKz9TKxxpvZURDm4wTuWln_Q"
+  },
+  {
+    "name": "Sin Tacc corrientes",
+    "category": "Supermercado",
+    "lat": -34.6022346,
+    "lng": -58.4314533,
+    "place_id": "ChIJc210sZnLvJURr2iBt9eELZ0"
+  },
+  {
+    "name": "Supermercados Toledo",
+    "category": "Supermercado",
+    "lat": -38.3776199,
+    "lng": -60.2770005,
+    "place_id": "ChIJj8R5FyBtkpURhqLtDYGIlYk"
+  },
+  {
+    "name": "Supermercado",
+    "category": "Supermercado",
+    "lat": -34.1944271,
+    "lng": -60.7387125,
+    "place_id": "ChIJi1FmOLpXuJURvI97kZTDtZI"
+  },
+  {
+    "name": "Super-Plaza",
+    "category": "Supermercado",
+    "lat": -35.056049,
+    "lng": -58.7517907,
+    "place_id": "ChIJ0xH_pHMfvZURQc8a5e5ExJU"
+  },
+  {
+    "name": "Mi Cabaña",
+    "category": "Supermercado",
+    "lat": -34.8712186,
+    "lng": -58.38974,
+    "place_id": "ChIJTfMiZTzVvJURpKlvfx4O15c"
+  },
+  {
+    "name": "Minimercado Los Mellis",
+    "category": "Supermercado",
+    "lat": -35.5787416,
+    "lng": -58.0041752,
+    "place_id": "ChIJpSqmqlVtmJURP_V37UohxMo"
+  },
+  {
+    "name": "Autoservicio Celia",
+    "category": "Supermercado",
+    "lat": -35.2753242,
+    "lng": -59.1294317,
+    "place_id": "ChIJQf-AN5ynvZURfXoahdvksxg"
+  },
+  {
+    "name": "SuperLogico",
+    "category": "Supermercado",
+    "lat": -38.8979803,
+    "lng": -60.3434826,
+    "place_id": "ChIJZygkc8q9jZURlNha_rDZMS4"
+  },
+  {
+    "name": "Cooperativa Obrera",
+    "category": "Supermercado",
+    "lat": -38.981554,
+    "lng": -61.287922,
+    "place_id": "ChIJJ1ITYo9SjZURjqlvyBIAxQY"
+  },
+  {
+    "name": "Cooperativa Obrera",
+    "category": "Supermercado",
+    "lat": -38.5559351,
+    "lng": -58.7406125,
+    "place_id": "ChIJZ87Kb2G9j5URmsTs-B6ZQmA"
+  },
+  {
+    "name": "Puertomar Supermercado",
+    "category": "Supermercado",
+    "lat": -38.5746991,
+    "lng": -58.7219585,
+    "place_id": "ChIJUemHux2Yj5URAV2gcfVMchc"
+  },
+  {
+    "name": "SUPERMERCADO LIDER",
+    "category": "Supermercado",
+    "lat": -38.5416826,
+    "lng": -58.7566669,
+    "place_id": "ChIJGyPqWea9j5UROVGPfiaX5fs"
+  },
+  {
+    "name": "La Baliza de Miramar",
+    "category": "Supermercado",
+    "lat": -38.2655535,
+    "lng": -57.8338736,
+    "place_id": "ChIJ2w8ijYIRhZUR3wa74-emN28"
+  },
+  {
+    "name": "Autoservicio Luz De Luna",
+    "category": "Supermercado",
+    "lat": -38.7247281,
+    "lng": -62.2741808,
+    "place_id": "ChIJie-HVre87ZURcWEHfHyEoNs"
+  },
+  {
+    "name": "Super Jonte",
+    "category": "Supermercado",
+    "lat": -38.7430457,
+    "lng": -62.2670285,
+    "place_id": "ChIJ70-ZfQa97ZURrDVM8V23bEM"
+  },
+  {
+    "name": "Supermercado ARGENCHINO",
+    "category": "Supermercado",
+    "lat": -38.7077815,
+    "lng": -62.2891157,
+    "place_id": "ChIJ0ZJEJ6q77ZUR30L5rHbjCY4"
+  },
+  {
+    "name": "Cooperativa Obrera",
+    "category": "Supermercado",
+    "lat": -38.728882,
+    "lng": -62.27104,
+    "place_id": "ChIJZaN30cm87ZURbdLuAe4pf_g"
+  },
+  {
+    "name": "Maxi Suelto Supermercado",
+    "category": "Supermercado",
+    "lat": -37.9842471,
+    "lng": -61.3516228,
+    "place_id": "ChIJm6UBIhXL7JURyv8KlubAmag"
+  },
+  {
+    "name": "Supermercado Asia",
+    "category": "Supermercado",
+    "lat": -37.461147,
+    "lng": -61.9423843,
+    "place_id": "ChIJ10L4bC9z65UR1wtWt7U7RG0"
+  },
+  {
+    "name": "Minimercado &quot;El Arca&quot;",
+    "category": "Supermercado",
+    "lat": -38.0869102,
+    "lng": -61.9323656,
+    "place_id": "ChIJsZ3EQpTz7JURToVlS9_3L0k"
+  },
+  {
+    "name": "ZEROGLUTEN",
+    "category": "Pizzeria",
+    "lat": -34.6113507,
+    "lng": -58.4304149,
+    "place_id": "ChIJNYZLGMvLvJURxDyd4rRSm3k"
+  },
+  {
+    "name": "PIZZERIA MANOLO",
+    "category": "Pizzeria",
+    "lat": -35.4456821,
+    "lng": -60.8861514,
+    "place_id": "ChIJuzFqEZUNv5UR336IQroODQw"
+  },
+  {
+    "name": "Pizzería Delva",
+    "category": "Pizzeria",
+    "lat": -34.651792,
+    "lng": -58.6197051,
+    "place_id": "ChIJv4z422bHvJURJuXbjuV_z8I"
+  },
+  {
+    "name": "Pizza Lo+Hot",
+    "category": "Pizzeria",
+    "lat": -34.7457619,
+    "lng": -58.393451,
+    "place_id": "ChIJ-5p-HKLSvJURsNc_PsB9sF0"
+  },
+  {
+    "name": "Kentucky",
+    "category": "Pizzeria",
+    "lat": -34.8603365,
+    "lng": -58.5030912,
+    "place_id": "ChIJc39iNyrXvJURxd_hrqHLbf4"
+  },
+  {
+    "name": "Pizza Blu",
+    "category": "Pizzeria",
+    "lat": -34.8203494,
+    "lng": -58.4675007,
+    "place_id": "ChIJcRbkvmDRvJUR99QDn_1mGDU"
+  },
+  {
+    "name": "Kentucky",
+    "category": "Pizzeria",
+    "lat": -34.6057166,
+    "lng": -58.5637142,
+    "place_id": "ChIJwandcSO4vJURAHs2-VxO8ck"
+  },
+  {
+    "name": "Pizza Cero",
+    "category": "Pizzeria",
+    "lat": -34.4383888,
+    "lng": -58.793354,
+    "place_id": "ChIJ410TwtyevJURm3SwE3CveI0"
+  },
+  {
+    "name": "Dell&apos;olmo Pizzería y Heladería",
+    "category": "Pizzeria",
+    "lat": -34.2486696,
+    "lng": -59.4727223,
+    "place_id": "ChIJhY81uqzqu5URqPomWGsphoE"
+  },
+  {
+    "name": "Pizza Club",
+    "category": "Pizzeria",
+    "lat": -34.7997487,
+    "lng": -58.4091839,
+    "place_id": "ChIJW9ZQFw7TvJUReJ1kQJL66tA"
+  },
+  {
+    "name": "Calidad Sin Gluten Pizzas",
+    "category": "Pizzeria",
+    "lat": -34.9170655,
+    "lng": -57.9834594,
+    "place_id": "ChIJ91c9fBznopURkBBSf_Fy-yg"
+  },
+  {
+    "name": "La Toscana Pizzeria / Restaurante",
+    "category": "Pizzeria",
+    "lat": -35.5793979,
+    "lng": -58.0112354,
+    "place_id": "ChIJgWeJ26kSmJUR2tRwaPlng0w"
+  },
+  {
+    "name": "Pizzería La Cueva",
+    "category": "Pizzeria",
+    "lat": -34.6181835,
+    "lng": -58.5025739,
+    "place_id": "ChIJBagwWdHJvJURELkpwBqn5MM"
+  },
+  {
+    "name": "San Pedro",
+    "category": "Pizzeria",
+    "lat": -34.6208458,
+    "lng": -58.5079575,
+    "place_id": "ChIJX6WxDu0iupUROpnuyFe78uU"
+  },
+  {
+    "name": "El Nuevo Hornito Caballito",
+    "category": "Pizzeria",
+    "lat": -34.618773,
+    "lng": -58.457038,
+    "place_id": "ChIJj03TeVPLvJURJdHtoJ47f6M"
+  },
+  {
+    "name": "Pizzeria il Pirata",
+    "category": "Pizzeria",
+    "lat": -38.9881052,
+    "lng": -61.2939368,
+    "place_id": "ChIJ76eZnJxSjZURQiI0fWbeBM0"
+  },
+  {
+    "name": "George Rabbit",
+    "category": "Pizzeria",
+    "lat": -38.27126,
+    "lng": -57.837506,
+    "place_id": "ChIJzQTW2WIQhZURUeRnyRCdBB4"
+  },
+  {
+    "name": "Pizzaiola",
+    "category": "Pizzeria",
+    "lat": -38.2713497,
+    "lng": -57.8389148,
+    "place_id": "ChIJ1yMw32IQhZURV61d78s1USQ"
+  },
+  {
+    "name": "Pizza Zeta Alem",
+    "category": "Pizzeria",
+    "lat": -38.713957,
+    "lng": -62.2609268,
+    "place_id": "ChIJdegF4VKj7ZUR8upnfASn6N0"
+  },
+  {
+    "name": "Pizza 3 Envios A Domicilio",
+    "category": "Pizzeria",
+    "lat": -38.3780604,
+    "lng": -60.2739452,
+    "place_id": "ChIJVRF0qbBtkpURbfB_HaLbpIY"
+  },
+  {
+    "name": "Almacén de Pizzas",
+    "category": "Pizzeria",
+    "lat": -34.4425567,
+    "lng": -58.8738871,
+    "place_id": "ChIJmTb8q1ecvJUR0rNQaBx1sPM"
+  },
+  {
+    "name": "Tati Pastelería Sin Glúten",
+    "category": "Panaderia",
+    "lat": -35.4408418,
+    "lng": -60.8806188,
+    "place_id": "ChIJLWnqzNkNv5URGa6mOhyxmEE"
+  },
+  {
+    "name": "La Pastelera Sin Tacc",
+    "category": "Panaderia",
+    "lat": -34.8937466,
+    "lng": -58.0168973,
+    "place_id": null
+  },
+  {
+    "name": "Cinco Sentidos",
+    "category": "Panaderia",
+    "lat": -34.5583653,
+    "lng": -59.1121498,
+    "place_id": "ChIJyzGMp7-Hu5URVse9uiKWdH8"
+  },
+  {
+    "name": "QueTeTraes_EntreManos_Budines_Tortas_Comida Casera_Bragado",
+    "category": "Panaderia",
+    "lat": -35.1182556,
+    "lng": -60.4907647,
+    "place_id": "ChIJQYihJ6bfvpUREH8ggO2NTaQ"
+  },
+  {
+    "name": "La Unión",
+    "category": "Panaderia",
+    "lat": -34.5808509,
+    "lng": -58.4401418,
+    "place_id": "ChIJS75lnUO1vJURGtNCmBJ11cw"
+  },
+  {
+    "name": "Rose Patisserie",
+    "category": "Panaderia",
+    "lat": -35.4433861,
+    "lng": -60.8817575,
+    "place_id": "ChIJSVQrAusNv5URw01MgiXtcXE"
+  },
+  {
+    "name": "Zerogluten",
+    "category": "Panaderia",
+    "lat": -35.4460446,
+    "lng": -60.886777,
+    "place_id": "ChIJnTepyVgNv5URPXWSG7ay5kw"
+  },
+  {
+    "name": "Piacere Sin Tacc Villa del Parque",
+    "category": "Panaderia",
+    "lat": -34.6058462,
+    "lng": -58.4913927,
+    "place_id": "ChIJZ-wArue3vJURnTIIhqTsDF4"
+  },
+  {
+    "name": "Vanyla Cakes Pasteleria sin tacc",
+    "category": "Panaderia",
+    "lat": -34.5494822,
+    "lng": -58.701694,
+    "place_id": "ChIJD_9O3mC9vJURMgZd1vWjJCQ"
+  },
+  {
+    "name": "Pasteleria Sin tacc",
+    "category": "Panaderia",
+    "lat": -34.6572668,
+    "lng": -58.4008451,
+    "place_id": "ChIJFdfZP9rLvJURe_xgX1VrvrY"
+  },
+  {
+    "name": "Anetta - Cocina Sin Gluten - (Por encargo)",
+    "category": "Panaderia",
+    "lat": -34.778377,
+    "lng": -58.403567,
+    "place_id": "ChIJVaY_dcnTvJURw9U7W6oeF8k"
+  },
+  {
+    "name": "Panadería sin tacc ,Almacén Vida sana",
+    "category": "Panaderia",
+    "lat": -34.8118405,
+    "lng": -58.6361767,
+    "place_id": "ChIJl172EwDbvJURopWkLkZMKS0"
+  },
+  {
+    "name": "De Corazón Sin Tacc",
+    "category": "Panaderia",
+    "lat": -33.8894446,
+    "lng": -60.5740067,
+    "place_id": "ChIJuSE_IgC1uZURsMO_J7yY8Hw"
+  },
+  {
+    "name": "Pasteleria y cafeteria Joli gluten free",
+    "category": "Panaderia",
+    "lat": -38.45155,
+    "lng": -63.5989957,
+    "place_id": null
+  },
+  {
+    "name": "RICO Y SIN TACC",
+    "category": "Panaderia",
+    "lat": -38.45155,
+    "lng": -63.5989957,
+    "place_id": "ChIJV7cH5f3tvJURPdjHlKjd6As"
+  },
+  {
+    "name": "Fosti Gluten Free",
+    "category": "Panaderia",
+    "lat": -34.5826243,
+    "lng": -58.4747977,
+    "place_id": "ChIJc1dFmUbLvJURZwwYqv0110A"
+  },
+  {
+    "name": "GLUTEN FREI ,Tortas , tartas y masas sin Tacc",
+    "category": "Panaderia",
+    "lat": -34.5571124,
+    "lng": -58.5643605,
+    "place_id": "ChIJHxdGFMC5vJURHKThDxlhI3Q"
+  },
+  {
+    "name": "Sin gluten",
+    "category": "Panaderia",
+    "lat": -34.5727468,
+    "lng": -58.4825527,
+    "place_id": "ChIJh4fczcG3vJURW8a5T3Qpo1A"
+  },
+  {
+    "name": "Panadería sin Gluten (SIN TACC)",
+    "category": "Panaderia",
+    "lat": -34.6663848,
+    "lng": -58.6614068,
+    "place_id": null
+  },
+  {
+    "name": "La Cocina de Mamá - Productos Sin Gluten",
+    "category": "Panaderia",
+    "lat": -37.5461043,
+    "lng": -60.8040581,
+    "place_id": "ChIJbW1DYlllk5URngnUU0FL_nA"
+  },
+  {
+    "name": "RUA LIVRE -Natural &amp; Gluten Free-",
+    "category": "Panaderia",
+    "lat": -37.325349,
+    "lng": -59.138796,
+    "place_id": null
+  },
+  {
+    "name": "Tostex SA",
+    "category": "Panaderia",
+    "lat": -38.3844491,
+    "lng": -60.2860959,
+    "place_id": "ChIJ16bNUrptkpURPfvW084eF6Q"
+  },
+  {
+    "name": "Chipá Tentacion",
+    "category": "Panaderia",
+    "lat": -37.3233222,
+    "lng": -59.136828,
+    "place_id": "ChIJcYkQzmsfkZURa5o4glkVGLQ"
+  },
+  {
+    "name": "LE-PA",
+    "category": "Panaderia",
+    "lat": -38.7144835,
+    "lng": -61.2927257,
+    "place_id": "ChIJndqxv8etkpURI-jMIZb_kok"
+  },
+  {
+    "name": "Cooking Time Gluten Free",
+    "category": "Panaderia",
+    "lat": -34.5880621,
+    "lng": -58.4005181,
+    "place_id": "ChIJA1VT_pvKvJUR5ZGx4aKKgAA"
+  },
+  {
+    "name": "FACTURRICA",
+    "category": "Panaderia",
+    "lat": -34.6569457,
+    "lng": -58.5264902,
+    "place_id": "ChIJY1hwLl_IvJURHXYrSUCOFSI"
+  },
+  {
+    "name": "YO TAMBIEN QUIERO! - Panadería Libre De Gluten",
+    "category": "Panaderia",
+    "lat": -34.6820695,
+    "lng": -58.5627821,
+    "place_id": "ChIJTTF8VCTGvJURuYgF-U6EK0c"
+  },
+  {
+    "name": "La Union Gluten Free Bakery",
+    "category": "Panaderia",
+    "lat": -34.607699,
+    "lng": -58.5208538,
+    "place_id": "ChIJv4PEXnm3vJURZMGLfAHa2uE"
+  },
+  {
+    "name": "La Nueva Mosconi",
+    "category": "Panaderia",
+    "lat": -34.590751,
+    "lng": -58.509314,
+    "place_id": "ChIJWw6_yLS3vJURP68aVRdznho"
+  },
+  {
+    "name": "Don Zapiola by Cocelia",
+    "category": "Panaderia",
+    "lat": -34.5626757,
+    "lng": -58.4664334,
+    "place_id": "ChIJE7Q7tX-2vJUR2sFeCceBtRo"
+  },
+  {
+    "name": "Celimundo",
+    "category": "Panaderia",
+    "lat": -37.3172181,
+    "lng": -59.1454825,
+    "place_id": "ChIJ0Zts8YYfkZURNRSyX7syDp4"
+  },
+  {
+    "name": "MASAFAN - Pastelería &amp; café",
+    "category": "Panaderia",
+    "lat": -36.2268564,
+    "lng": -61.1168433,
+    "place_id": "ChIJKeYtolXjv5URC7msQAu4kkE"
+  },
+  {
+    "name": "Placeres sin gluten",
+    "category": "Panaderia",
+    "lat": -34.9275036,
+    "lng": -57.9485248,
+    "place_id": "ChIJ8RxtoJjnopURi8tM_eVK0Ts"
+  },
+  {
+    "name": "Panadería El Encuentro",
+    "category": "Panaderia",
+    "lat": -34.5927242,
+    "lng": -60.9451142,
+    "place_id": "ChIJ7RG2VSjruJURklw6GMpfb2k"
+  },
+  {
+    "name": "GOUT GLUTEN FREE",
+    "category": "Panaderia",
+    "lat": -34.5926449,
+    "lng": -58.3894061,
+    "place_id": "ChIJiRf5erzKvJURWYLLilGAdh4"
+  },
+  {
+    "name": "PARA MI SIN TACC",
+    "category": "Panaderia",
+    "lat": -34.6165476,
+    "lng": -58.4187873,
+    "place_id": "ChIJK0dG4CDJvJURfUt49a8iyQE"
+  },
+  {
+    "name": "La Unión Gluten Free Bakery Recoleta",
+    "category": "Panaderia",
+    "lat": -34.5928508,
+    "lng": -58.3861538,
+    "place_id": "ChIJ54Cj4EbLvJURyWGtuwuJa6E"
+  },
+  {
+    "name": "Coquisintacc",
+    "category": "Panaderia",
+    "lat": -34.6459148,
+    "lng": -60.4657349,
+    "place_id": "ChIJkd0IfysluZURy265bpaOlrE"
+  },
+  {
+    "name": "Panaderia Artesanal la Razon de Cristina del Piano",
+    "category": "Panaderia",
+    "lat": -33.8944051,
+    "lng": -60.576765,
+    "place_id": "ChIJJfiPBlS1uZURtBDzqEX8lyg"
+  },
+  {
+    "name": "Ayulem Caballito Pasteleria Panaderia",
+    "category": "Panaderia",
+    "lat": -34.6272758,
+    "lng": -58.4467959,
+    "place_id": "ChIJPbraIm7LvJURt3ysqM3zfEA"
+  },
+  {
+    "name": "Goût Gluten Free",
+    "category": "Panaderia",
+    "lat": -38.0062051,
+    "lng": -57.5539487,
+    "place_id": "ChIJwS4P853fhJURVAwgIEhitMY"
+  },
+  {
+    "name": "Tomasa Gluten Free",
+    "category": "Panaderia",
+    "lat": -38.0010272,
+    "lng": -57.5644457,
+    "place_id": "ChIJ-3Lrx5XfhJURwSXJvSKMZok"
+  },
+  {
+    "name": "Chivilcoy Sin Tacc",
+    "category": "Panaderia",
+    "lat": -34.8871217,
+    "lng": -60.0191115,
+    "place_id": "ChIJfcLh16alvpURvXZl5gMWmMs"
+  },
+  {
+    "name": "Gustos Sin Gluten",
+    "category": "Panaderia",
+    "lat": -35.6638434,
+    "lng": -59.8095011,
+    "place_id": "ChIJzygfBXXhvZURDPnf4KPKKi8"
+  },
+  {
+    "name": "Panadería Alberti",
+    "category": "Panaderia",
+    "lat": -38.0005771,
+    "lng": -57.5650799,
+    "place_id": "ChIJD9YD-bHehJURVeDBuD0ynko"
+  },
+  {
+    "name": "&quot;La Resolana Libre de Gluten&quot; Elaboración Artesanal Sin TACC",
+    "category": "Panaderia",
+    "lat": -34.973957,
+    "lng": -58.7272142,
+    "place_id": "ChIJxyWSyNiRvJURrRf2OG6SQ04"
+  },
+  {
+    "name": "Pauline Boulangerie 1964",
+    "category": "Panaderia",
+    "lat": -34.6439401,
+    "lng": -58.5661002,
+    "place_id": "ChIJ1VnGY-_HvJUR4jqGJiTtKoM"
+  },
+  {
+    "name": "Patisserie Silvana",
+    "category": "Panaderia",
+    "lat": -34.8564868,
+    "lng": -58.5181402,
+    "place_id": "ChIJkVjjmmrXvJURwYE7pHz_GGA"
+  },
+  {
+    "name": "Delicias Gluten Free",
+    "category": "Panaderia",
+    "lat": -34.8152715,
+    "lng": -58.3569692,
+    "place_id": "ChIJtbP0IGkro5URchjUuOG9zbc"
+  },
+  {
+    "name": "Panaderia y Confiteria Aranjuez",
+    "category": "Panaderia",
+    "lat": -34.8177575,
+    "lng": -58.4161171,
+    "place_id": "ChIJP5X_aXjTvJURgTkyE5whUkM"
+  },
+  {
+    "name": "Panadería MyM",
+    "category": "Panaderia",
+    "lat": -34.8098378,
+    "lng": -58.4014352,
+    "place_id": "ChIJZ43M3-LTvJURp08s6ERAxMM"
+  },
+  {
+    "name": "La Casita",
+    "category": "Panaderia",
+    "lat": -34.7914837,
+    "lng": -58.4060508,
+    "place_id": "ChIJu3KYh6rTvJUR7Ns2fJ6rz6Y"
+  },
+  {
+    "name": "Desayunos a domicilio - Desayuno D&amp;M",
+    "category": "Panaderia",
+    "lat": -34.8122878,
+    "lng": -58.3558586,
+    "place_id": "ChIJpe01gK_TvJURFDfXChDt0hY"
+  },
+  {
+    "name": "Multisabores Sin Tacc",
+    "category": "Panaderia",
+    "lat": -34.7569631,
+    "lng": -58.2075865,
+    "place_id": "ChIJlTDC7vEvo5URcsgxogBwNx8"
+  },
+  {
+    "name": "Ketofood",
+    "category": "Panaderia",
+    "lat": -35.58015,
+    "lng": -58.0130522,
+    "place_id": "ChIJh1nncpETmJURAJbJ5KCvDco"
+  },
+  {
+    "name": "Atalaya",
+    "category": "Panaderia",
+    "lat": -35.5108457,
+    "lng": -58.0246037,
+    "place_id": "ChIJcZzYg6MMmJURLqr9ziqI6jY"
+  },
+  {
+    "name": "Ls sin tacc",
+    "category": "Panaderia",
+    "lat": -38.7118797,
+    "lng": -62.2671753,
+    "place_id": "ChIJOxONYeu97ZURSVbMqOegyXk"
+  },
+  {
+    "name": "Despensa del Celíaco",
+    "category": "Panaderia",
+    "lat": -34.4801219,
+    "lng": -58.5536977,
+    "place_id": "ChIJD_xcnRyxvJURhszjvZdFNUw"
+  },
+  {
+    "name": "Amico Panetteria y Cafe",
+    "category": "Panaderia",
+    "lat": -35.0032156,
+    "lng": -59.2787259,
+    "place_id": "ChIJ8Yi8DIBRvJURi_c5P0tQ6gQ"
+  },
+  {
+    "name": "Sara PASTELERIA",
+    "category": "Panaderia",
+    "lat": -38.9873911,
+    "lng": -61.2847165,
+    "place_id": "ChIJ67tqcoFSjZUR0WjPS_w5j_Q"
+  },
+  {
+    "name": "FRAGONIA. Panaderia Aetesanal",
+    "category": "Panaderia",
+    "lat": -38.2704406,
+    "lng": -57.8514308,
+    "place_id": "ChIJEUusSzsRhZURC9TVGmnUrG0"
+  },
+  {
+    "name": "Sweets- Gluten Free- Sin TACC",
+    "category": "Panaderia",
+    "lat": -38.7146245,
+    "lng": -62.2772528,
+    "place_id": "ChIJta5buEuj7ZURIag4y2lmVAM"
+  },
+  {
+    "name": "La Pana Gluten Free Bakery - Cruncheras",
+    "category": "Panaderia",
+    "lat": -38.7112577,
+    "lng": -62.2526188,
+    "place_id": "ChIJ7RegABSj7ZUR6VxxZBSz6kE"
+  },
+  {
+    "name": "Panaderia y Confiteria la Nacion",
+    "category": "Panaderia",
+    "lat": -38.7095578,
+    "lng": -62.2674504,
+    "place_id": "ChIJZ-XpPaq87ZUReI3OEvSJw_E"
+  },
+  {
+    "name": "Zammá Pastelería &amp; Deco",
+    "category": "Panaderia",
+    "lat": -38.7225787,
+    "lng": -62.2805299,
+    "place_id": "ChIJb_ENO6W87ZURMOy-zoMySug"
+  },
+  {
+    "name": "Happiness confitería y panadería",
+    "category": "Panaderia",
+    "lat": -38.7134765,
+    "lng": -62.2609102,
+    "place_id": "ChIJcUk5NVG77ZUR9jIzbI4TD7E"
+  },
+  {
+    "name": "La Nueva Sirena Panadería",
+    "category": "Panaderia",
+    "lat": -38.7026996,
+    "lng": -62.3004573,
+    "place_id": "ChIJk80p0aq77ZUR8A_tw_sjHi8"
+  },
+  {
+    "name": "La Esquina del Panadero",
+    "category": "Panaderia",
+    "lat": -34.0713949,
+    "lng": -60.1085279,
+    "place_id": "ChIJsYmM7eeduZUR8xB675cfOQY"
+  },
+  {
+    "name": "Gesell gluten free",
+    "category": "Panaderia",
+    "lat": -37.2548483,
+    "lng": -56.9768009,
+    "place_id": "ChIJJTJ4jVlhm5URrNKsCdW1xLI"
+  },
+  {
+    "name": "Dulce REI pasteleria",
+    "category": "Panaderia",
+    "lat": -37.1755947,
+    "lng": -62.7636599,
+    "place_id": "ChIJtfO0C20n6pURPo6SUzIKISw"
+  },
+  {
+    "name": "EL CANDIL CASA DE TÉ",
+    "category": "Panaderia",
+    "lat": -38.082843,
+    "lng": -61.934912,
+    "place_id": "ChIJY4Qy_ynz7JURFstPb12lRqM"
+  },
+  {
+    "name": "Los Trigales",
+    "category": "Panaderia",
+    "lat": -37.5093724,
+    "lng": -61.92132,
+    "place_id": "ChIJS4o9vzly65UR4q48WDoqXpw"
+  },
+  {
+    "name": "Panaderia Pan Serrano",
+    "category": "Panaderia",
+    "lat": -38.0766919,
+    "lng": -61.927413,
+    "place_id": "ChIJBfWIS__z7JUR4e6LKiqyStg"
+  },
+  {
+    "name": "Iceland Helados",
+    "category": "Heladeria",
+    "lat": -34.612151,
+    "lng": -58.9522749,
+    "place_id": "ChIJ8YV3y7qPvJURxBYtM_GWkV0"
+  },
+  {
+    "name": "Gelatiamo",
+    "category": "Heladeria",
+    "lat": -35.4467067,
+    "lng": -60.8851192,
+    "place_id": "ChIJh4maDfUNv5URLDysUqBoTtI"
+  },
+  {
+    "name": "Yo Heladerías",
+    "category": "Heladeria",
+    "lat": -35.4414022,
+    "lng": -60.878549,
+    "place_id": "ChIJQRrHX-kNv5URoqb8alzmK3E"
+  },
+  {
+    "name": "IGLU",
+    "category": "Heladeria",
+    "lat": -35.4465536,
+    "lng": -58.8097781,
+    "place_id": "ChIJY5hoso1pvZURw14xpmU3iQM"
+  },
+  {
+    "name": "Heladeria Bears Canning",
+    "category": "Heladeria",
+    "lat": -34.85663,
+    "lng": -58.5024678,
+    "place_id": "ChIJQYcIa9zXvJURU1nBV2y6yl8"
+  },
+  {
+    "name": "La Romana Helados",
+    "category": "Heladeria",
+    "lat": -38.0337955,
+    "lng": -60.098271,
+    "place_id": "ChIJ46ww1e4xkpURTvxcOv_OFUs"
+  },
+  {
+    "name": "Figlio Premium",
+    "category": "Heladeria",
+    "lat": -37.334658,
+    "lng": -59.1236164,
+    "place_id": "ChIJlxz158YfkZURmKe8Il0-IQ0"
+  },
+  {
+    "name": "Heladería la Sorbetiere - Tandil",
+    "category": "Heladeria",
+    "lat": -37.3290675,
+    "lng": -59.1353185,
+    "place_id": "ChIJOcNh9H8fkZUR2l11YD0AOwA"
+  },
+  {
+    "name": "Gelatiamo",
+    "category": "Heladeria",
+    "lat": -34.8968292,
+    "lng": -60.0172262,
+    "place_id": "ChIJpVW-PzSlvpUR4wQ8hbLiMVg"
+  },
+  {
+    "name": "Trápani Helados",
+    "category": "Heladeria",
+    "lat": -34.8984115,
+    "lng": -60.0173266,
+    "place_id": "ChIJsTAVKTelvpURAN52P64FvOc"
+  },
+  {
+    "name": "Sei Tu",
+    "category": "Heladeria",
+    "lat": -34.896051,
+    "lng": -60.0117732,
+    "place_id": "ChIJi5dKgZulvpURfZ8tWp_p_Jc"
+  },
+  {
+    "name": "Heladería Chocolate",
+    "category": "Heladeria",
+    "lat": -36.2334224,
+    "lng": -61.1106949,
+    "place_id": "ChIJs1JxKRHjv5URGRR6mskyy88"
+  },
+  {
+    "name": "Ipplis san martin",
+    "category": "Heladeria",
+    "lat": -34.5801486,
+    "lng": -60.9334354,
+    "place_id": "ChIJ2a1QjRvruJURuyOJRX_WH2c"
+  },
+  {
+    "name": "Heladeria Simone",
+    "category": "Heladeria",
+    "lat": -34.648123,
+    "lng": -60.4659702,
+    "place_id": "ChIJSYHsmcAluZURkb5f9aNLFZo"
+  },
+  {
+    "name": "Sei Tu",
+    "category": "Heladeria",
+    "lat": -34.5905967,
+    "lng": -60.9569084,
+    "place_id": "ChIJIw_Fv8KVuJURnvbVycx8Fvc"
+  },
+  {
+    "name": "Helados Cognigni",
+    "category": "Heladeria",
+    "lat": -34.5955705,
+    "lng": -60.9443286,
+    "place_id": "ChIJqTGoxNfquJURhWjg75FZLIg"
+  },
+  {
+    "name": "Heladería Bambi",
+    "category": "Heladeria",
+    "lat": -34.5874393,
+    "lng": -60.9475196,
+    "place_id": "ChIJo2Ab7S_ruJUR_n1TwkaokNk"
+  },
+  {
+    "name": "Bioko",
+    "category": "Heladeria",
+    "lat": -34.7684785,
+    "lng": -59.6881617,
+    "place_id": "ChIJ_XfeOGI6ZBAR-bkPO6cWooQ"
+  },
+  {
+    "name": "Sei Tu",
+    "category": "Heladeria",
+    "lat": -35.0521816,
+    "lng": -58.7655389,
+    "place_id": "ChIJLbo2HwwfvZURCbCIaDPTMIc"
+  },
+  {
+    "name": "Volta Heladeria",
+    "category": "Heladeria",
+    "lat": -34.8602643,
+    "lng": -58.5033224,
+    "place_id": "ChIJQZAdN9fWvJURtDXk2zBik5M"
+  },
+  {
+    "name": "La Veneciana",
+    "category": "Heladeria",
+    "lat": -34.871011,
+    "lng": -58.5031686,
+    "place_id": "ChIJ9y6dLHbXvJUR-YZYq3BtUo4"
+  },
+  {
+    "name": "Los Amores",
+    "category": "Heladeria",
+    "lat": -34.7976501,
+    "lng": -58.3856337,
+    "place_id": "ChIJcY4xzEDTvJURXeSzVKYIEso"
+  },
+  {
+    "name": "La Veneciana",
+    "category": "Heladeria",
+    "lat": -34.7951334,
+    "lng": -58.388554,
+    "place_id": "ChIJr-F7zaHTvJURL1Yhptc5fFw"
+  },
+  {
+    "name": "La Veneciana",
+    "category": "Heladeria",
+    "lat": -34.8060068,
+    "lng": -58.403809,
+    "place_id": "ChIJUY-q7G7TvJURcwoinF_7evU"
+  },
+  {
+    "name": "Dis-Fresh Helados",
+    "category": "Heladeria",
+    "lat": -35.5733333,
+    "lng": -58.0141667,
+    "place_id": "ChIJza63OFENmJURYv7f2B1ExRg"
+  },
+  {
+    "name": "Helados Daniel",
+    "category": "Heladeria",
+    "lat": -34.6189423,
+    "lng": -58.5045171,
+    "place_id": "ChIJKQGgI67JvJURL1mR_-7sdZo"
+  },
+  {
+    "name": "il Tramonto Helados",
+    "category": "Heladeria",
+    "lat": -38.9870916,
+    "lng": -61.2958549,
+    "place_id": "ChIJwfYDmPpTjZURubY3Jo1_KEY"
+  },
+  {
+    "name": "Jauja Monte Hermoso",
+    "category": "Heladeria",
+    "lat": -38.9879602,
+    "lng": -61.2868101,
+    "place_id": "ChIJb4QupTFTjZURZc_-wxS1cvE"
+  },
+  {
+    "name": "El Artesano",
+    "category": "Heladeria",
+    "lat": -38.5590648,
+    "lng": -58.7337715,
+    "place_id": "ChIJcbUpjeCXj5URE1gA5DAiS5M"
+  },
+  {
+    "name": "Gianni HELADOS CAFÈ CHOCOLATES",
+    "category": "Heladeria",
+    "lat": -38.2729666,
+    "lng": -57.8345409,
+    "place_id": "ChIJtwOhfXsQhZUR-2JAKIEiCDg"
+  },
+  {
+    "name": "Nesteruc Gabriel Alfredo",
+    "category": "Heladeria",
+    "lat": -38.5724707,
+    "lng": -58.7287152,
+    "place_id": "ChIJDRjEqfmXj5URr_yJ1AoTiHg"
+  },
+  {
+    "name": "Helados Chinos",
+    "category": "Heladeria",
+    "lat": -38.5819199,
+    "lng": -58.7293995,
+    "place_id": "ChIJo0dkSASYj5URYavdH1IRAYY"
+  },
+  {
+    "name": "Guapaletas",
+    "category": "Heladeria",
+    "lat": -38.7063184,
+    "lng": -62.2664424,
+    "place_id": "ChIJ8WUcp7K87ZURHeuzSxRubVw"
+  },
+  {
+    "name": "Heladería Piacere",
+    "category": "Heladeria",
+    "lat": -38.7267099,
+    "lng": -62.2961595,
+    "place_id": "ChIJcYrcQJC87ZURZc6pNsJG3Tw"
+  },
+  {
+    "name": "DIETÉTICA NATUREL",
+    "category": "Heladeria",
+    "lat": -34.0678979,
+    "lng": -60.1055285,
+    "place_id": "ChIJ-3Mcyc2duZURYLmn3XaSrcU"
+  },
+  {
+    "name": "Heladería Lilo&apos;s Arrecifes",
+    "category": "Heladeria",
+    "lat": -34.0678979,
+    "lng": -60.1055285,
+    "place_id": "ChIJdZg0oTKduZUR8R8ROk5Yy-I"
+  },
+  {
+    "name": "Arlequín Carhué",
+    "category": "Heladeria",
+    "lat": -37.1813656,
+    "lng": -62.7599325,
+    "place_id": "ChIJ4W7YIhUn6pUREXHxPA-P2KI"
+  },
+  {
+    "name": "Helados Mar del Plata",
+    "category": "Heladeria",
+    "lat": -37.547123,
+    "lng": -62.772714,
+    "place_id": "ChIJpXekzwbZ65URA74xmIkCUO0"
+  },
+  {
+    "name": "Cleo Helados",
+    "category": "Heladeria",
+    "lat": -34.437542,
+    "lng": -58.990759,
+    "place_id": "ChIJTxf8pHSCvJURF0h5lckQioo"
+  },
+  {
+    "name": "Hipólito’s Burgers",
+    "category": "Hamburgueseria",
+    "lat": -35.0236214,
+    "lng": -58.4211703,
+    "place_id": "ChIJJ7RVXQctvZURh7DFc_yRd_M"
+  },
+  {
+    "name": "Lo de Carlitos",
+    "category": "Hamburgueseria",
+    "lat": -34.8194795,
+    "lng": -58.4692084,
+    "place_id": "ChIJH6itLmfRvJURrMyYXRULBtQ"
+  },
+  {
+    "name": "Perez-H Lomas de Zamora",
+    "category": "Hamburgueseria",
+    "lat": -34.7649711,
+    "lng": -58.4016708,
+    "place_id": "ChIJi2TJS_LTvJUR1YDLeFFi6x0"
+  },
+  {
+    "name": "Hamburga",
+    "category": "Hamburgueseria",
+    "lat": -34.8164012,
+    "lng": -58.471607,
+    "place_id": "ChIJqXPvXgXRvJURRb-mLVuO6ZQ"
+  },
+  {
+    "name": "Mostaza Canning",
+    "category": "Hamburgueseria",
+    "lat": -34.9476061,
+    "lng": -58.4646873,
+    "place_id": "ChIJD-F6meopvZURVMF47frnZaQ"
+  },
+  {
+    "name": "BIG Burger",
+    "category": "Hamburgueseria",
+    "lat": -34.6914527,
+    "lng": -58.690795,
+    "place_id": "ChIJQ9Xes3BaNQARfy1do3KKJ9A"
+  },
+  {
+    "name": "Paseo Costa Laguna",
+    "category": "Hamburgueseria",
+    "lat": -35.4457599,
+    "lng": -58.7979809,
+    "place_id": "ChIJOQdhshBpvZURhl4jSbdaZJY"
+  },
+  {
+    "name": "Mostaza Tandil",
+    "category": "Hamburgueseria",
+    "lat": -37.3240157,
+    "lng": -59.1146874,
+    "place_id": "ChIJU4rgyz4fkZURYhNZ0TxvSqk"
+  },
+  {
+    "name": "Granero 66",
+    "category": "Hamburgueseria",
+    "lat": -37.3695307,
+    "lng": -59.1115958,
+    "place_id": "ChIJT6NId3EfkZURDWu94Bbyxl8"
+  },
+  {
+    "name": "Dean &amp; Dennys - Palermo Soho",
+    "category": "Hamburgueseria",
+    "lat": -34.5909407,
+    "lng": -58.4270769,
+    "place_id": "ChIJU2U_dHjKvJURFT3CjHJcxZU"
+  },
+  {
+    "name": "Puerto Hamburguesa",
+    "category": "Hamburgueseria",
+    "lat": -34.9283585,
+    "lng": -57.9596097,
+    "place_id": "ChIJtdLoESvmopURqlebeoFnvNw"
+  },
+  {
+    "name": "Big Brothers",
+    "category": "Hamburgueseria",
+    "lat": -34.6440121,
+    "lng": -58.7924523,
+    "place_id": "ChIJp2fnc0qVvJURqGxxOlsw2T8"
+  },
+  {
+    "name": "Swing helados y comidas",
+    "category": "Hamburgueseria",
+    "lat": -38.9875592,
+    "lng": -61.2881766,
+    "place_id": "ChIJ5yig-9tTjZUR96QK7dl9nJk"
+  },
+  {
+    "name": "Munich",
+    "category": "Hamburgueseria",
+    "lat": -38.5882341,
+    "lng": -58.7446204,
+    "place_id": "ChIJ2V-Mo_l1nkcRfZixfUq4DAE"
+  },
+  {
+    "name": "GO BURGER",
+    "category": "Hamburgueseria",
+    "lat": -38.7198007,
+    "lng": -62.2670512,
+    "place_id": "ChIJR4aNeMK77ZURc2TQhi30sFU"
+  },
+  {
+    "name": "Barbossa - Burger &amp; Birra",
+    "category": "Hamburgueseria",
+    "lat": -38.7070591,
+    "lng": -62.2663316,
+    "place_id": "ChIJH_FUzzO77ZURC3i5WskrWPs"
+  },
+  {
+    "name": "Big Six Shopping",
+    "category": "Hamburgueseria",
+    "lat": -38.7001069,
+    "lng": -62.241468,
+    "place_id": "ChIJpWMyjrO87ZUR5k-PwjraaYs"
+  },
+  {
+    "name": "Mi Rincon Sin TACC (Pedidos por Encargo, Consultar Stock)",
+    "category": "Delivery",
+    "lat": -34.5464941,
+    "lng": -58.5455136,
+    "place_id": "ChIJhWuEPv23vJURw_Jw5Ef3UVI"
+  },
+  {
+    "name": "Cocino sin gluten",
+    "category": "Delivery",
+    "lat": -37.2977048,
+    "lng": -59.1219873,
+    "place_id": "ChIJS9g_5vwhkZUR_8kFMOoy_dE"
+  },
+  {
+    "name": "Rotisería los girasoles",
+    "category": "Delivery",
+    "lat": -36.2327218,
+    "lng": -61.1186784,
+    "place_id": "ChIJEU3zIRXjv5URB5IdcmH3t8g"
+  },
+  {
+    "name": "La Sabrosona Sin TACC (SOLO POR PEDIDOS CON ANTICIPACIÓN)",
+    "category": "Delivery",
+    "lat": -34.469462,
+    "lng": -58.6469078,
+    "place_id": "ChIJo9FE7mGjvJURhBtEamd9n7Y"
+  },
+  {
+    "name": "Sofias Comidas Caseras",
+    "category": "Delivery",
+    "lat": -34.5449009,
+    "lng": -58.5608635,
+    "place_id": "ChIJ89CEXNW7vJURvBd3yXEBGjQ"
+  },
+  {
+    "name": "DEL NORTE EMPANADAS GOURMET MONTE HERMOSO",
+    "category": "Delivery",
+    "lat": -38.9871043,
+    "lng": -61.3041466,
+    "place_id": "ChIJqSaaFIhTjZURDiUq86SQ6mM"
+  },
+  {
+    "name": "MYSHA- Delivery",
+    "category": "Delivery",
+    "lat": -38.7054191,
+    "lng": -62.2714938,
+    "place_id": "ChIJjaNq9U2j7ZURQ9gMbudxTX8"
+  },
+  {
+    "name": "Cerveza Loro - Cervecería y Maltería Loro - Cerveza sin TACC Libre de Gluten",
+    "category": "Cerveceria",
+    "lat": -34.6044653,
+    "lng": -58.4274665,
+    "place_id": "ChIJPSZEhmu3vJURTI6K0RY31To"
+  },
+  {
+    "name": "Lobeers",
+    "category": "Cerveceria",
+    "lat": -34.7028084,
+    "lng": -58.3931503,
+    "place_id": "ChIJIaQZNSDNvJURNwJK1nZ3eS0"
+  },
+  {
+    "name": "El Galpón Cerveceria",
+    "category": "Cerveceria",
+    "lat": -38.3454607,
+    "lng": -59.6078809,
+    "place_id": "ChIJFx0ABeDjkZUR5gwoTuiaMBI"
+  },
+  {
+    "name": "Cerveza Tandilia",
+    "category": "Cerveceria",
+    "lat": -37.3338903,
+    "lng": -59.1326363,
+    "place_id": "ChIJT8lFl-sfkZURJNTez--4wSE"
+  },
+  {
+    "name": "Glück Cervecería - San Telmo",
+    "category": "Cerveceria",
+    "lat": -34.6125808,
+    "lng": -58.3711795,
+    "place_id": "ChIJN-36Q6XLvJURd-lypwZPCGE"
+  },
+  {
+    "name": "Flora",
+    "category": "Cerveceria",
+    "lat": -33.8945119,
+    "lng": -60.5694186,
+    "place_id": "ChIJ2YcOQlq1uZUR0Y1DW5T2Dh0"
+  },
+  {
+    "name": "MF Despacho",
+    "category": "Cerveceria",
+    "lat": -34.9030098,
+    "lng": -57.9612229,
+    "place_id": "ChIJQxxsUOHnopURJh79UHoGXzk"
+  },
+  {
+    "name": "Glück Cervecería - La Plata",
+    "category": "Cerveceria",
+    "lat": -34.9179045,
+    "lng": -57.958978,
+    "place_id": "ChIJqcG0OKjnopUR4T3xHlc-Kt4"
+  },
+  {
+    "name": "El Holandés Errante. Puerto Cervecero.",
+    "category": "Cerveceria",
+    "lat": -34.5698437,
+    "lng": -58.4832624,
+    "place_id": "ChIJWZ1Ob2C2vJURDXHR5tR7ke0"
+  },
+  {
+    "name": "Ibus almacén cervecero",
+    "category": "Cerveceria",
+    "lat": -38.5538331,
+    "lng": -58.7464618,
+    "place_id": "ChIJLXFgb6-9j5URmzmOOWoRMUM"
+  },
+  {
+    "name": "Vieja Estacion Cerveza Artesanal",
+    "category": "Cerveceria",
+    "lat": -38.5821889,
+    "lng": -58.7325973,
+    "place_id": "ChIJ2wsUm6i9j5URz4MNkMkIIQs"
+  },
+  {
+    "name": "Alquimia Brothers",
+    "category": "Cerveceria",
+    "lat": -38.5766166,
+    "lng": -58.7290991,
+    "place_id": "ChIJGa-JiwSZj5URXU6AVHJd4Ac"
+  },
+  {
+    "name": "La Pacheca Cervecería y Bistró",
+    "category": "Cerveceria",
+    "lat": -38.7121329,
+    "lng": -62.261846,
+    "place_id": "ChIJt4ZZRVOj7ZURBQbrU8Zcsgw"
+  },
+  {
+    "name": "Las Tías - Beer &amp; American Food",
+    "category": "Cerveceria",
+    "lat": -38.7041146,
+    "lng": -62.2689223,
+    "place_id": "ChIJS_PWrla77ZUR7ElQd72cfjE"
+  },
+  {
+    "name": "Butterfly - Espacio Cervecero",
+    "category": "Cerveceria",
+    "lat": -38.1351952,
+    "lng": -61.7977655,
+    "place_id": "ChIJuX9fpK7u7JURpTmimDwL7wo"
+  },
+  {
+    "name": "Temple Craft Pilar",
+    "category": "Cerveceria",
+    "lat": -34.4428517,
+    "lng": -58.8742867,
+    "place_id": "ChIJw0E-_VWcvJUR32RIc-orpyk"
+  }
+]

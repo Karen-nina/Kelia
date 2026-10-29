@@ -1,0 +1,51 @@
+
+.campo-mail,
+.campo-pass{
+    background-color: white !important;
+    border-color: #9bb084 !important;
+}
+
+.campo-mail:hover{
+border-color: #ccd5ae !important;
+}
+.campo-pass:hover{
+border-color: #ccd5ae !important;
+}
+
+.button-registrate{
+    text-decoration: none;
+    color: #9bb084;   
+}
+
+.button-registrate:hover{
+    color: #ccd5ae;   
+}
+
+
+.button-ingresar{
+background-color: #9bb084;
+color: white;
+
+}
+.button-ingresar:hover{
+    background-color:#ccd5ae;
+    color: white;
+
+}
+
+input:-webkit-autofill {
+  background-color: #f1f1f1 !important;
+  -webkit-box-shadow: 0 0 0px 1000px #f1f1f1 inset !important;
+  box-shadow: 0 0 0px 1000px #f1f1f1 inset !important;
+  transition: background-color 5000s ease-in-out 0s;
+}
+
+/* Fondo gris claro cuando el campo está completo */
+.campo-mail:valid,
+.campo-pass:valid,
+.campo-mail:not(:placeholder-shown),
+.campo-pass:not(:placeholder-shown),
+.campo-mail.completo,
+.campo-pass.completo{
+  background-color: #f1f1f1 !important; /* gris claro */
+}

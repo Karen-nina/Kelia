@@ -1,0 +1,54 @@
+name: Continuous Deployment
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: 18
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run tests with coverage
+        run: npm run jest:coverage
+
+      - name: Extract coverage from coverage-summary.json
+        id: coverage
+        run: |
+          FILE="coverage/coverage-summary.json"
+          if [ ! -f "$FILE" ]; then
+            echo "❌ coverage-summary.json no encontrado"
+            exit 1
+          fi
+
+          COVERAGE=$(jq '.total.lines.pct' "$FILE")
+          echo "📊 Total de líneas con coverage: $COVERAGE%"
+          echo "coverage=$COVERAGE" >> $GITHUB_OUTPUT
+
+      - name: Fail if coverage < 50%
+        if: ${{ steps.coverage.outputs.coverage < 50 }}
+        run: |
+          echo "❌ Coverage menor a 50%. Abortando deploy."
+          exit 1
+
+  deploy:
+    runs-on: ubuntu-latest
+    needs: test
+    if: ${{ success() }}
+
+    steps:
+      - name: Deploy to Netlify
+        run: |
+          curl -X POST -d '{}' https://api.netlify.com/build_hooks/${{ secrets.NETLIFY_BUILD_HOOK }}

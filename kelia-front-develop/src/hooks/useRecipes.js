@@ -1,0 +1,31 @@
+import axios from 'axios';
+import { useEffect, useState } from 'react';
+
+
+export const useGetRecipes = (term) => {
+  const [data, setData] = useState([]);
+  const [error, setError] = useState("");
+  const [loading, setLoading] = useState(false);
+
+  const baseUrl = process.env.REACT_APP_BACKEND_URL;
+
+  const fetch = async () => {
+        try {
+            setLoading(true);
+            setData([])
+            const response = await axios.get(`${baseUrl}/recipe?term=${term}&q=10`)
+            setData(response.data)
+            setLoading(false);      
+        } catch (err) {
+            setData([])
+            setError(error);
+            setLoading(false);
+        }
+    };
+
+  useEffect(() => {
+    fetch();
+  }, [term]);
+
+  return { data , error, loading };
+};

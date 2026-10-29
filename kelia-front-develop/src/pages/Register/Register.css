@@ -1,0 +1,66 @@
+.campo-mail-register,
+.campo-pass-register,
+.campo-name-register,
+.campo-preg-register,
+.campo-date-register,
+.campo-code-register{
+    background-color: white !important;
+    border-color: #9bb084 !important;
+}
+
+.campo-mail-register:hover,
+.campo-pass-register:hover,
+.campo-name-register:hover,
+.campo-preg-register:hover,
+.campo-date-register:hover,
+.campo-code-register:hover {
+  border-color: #ccd5ae !important;
+}
+
+.button-iniciar-sesion{
+    text-decoration: none;
+    color: #9bb084;   
+}
+
+.button-iniciar-sesion:hover{
+    color: #ccd5ae;   
+}
+
+
+.button-registrar{
+background-color: #9bb084;
+color: white;
+
+}
+.button-registrar:hover{
+    background-color:#ccd5ae;
+    color: white;
+
+}
+
+input:-webkit-autofill {
+  background-color: #f1f1f1 !important;
+  -webkit-box-shadow: 0 0 0px 1000px #f1f1f1 inset !important;
+  box-shadow: 0 0 0px 1000px #f1f1f1 inset !important;
+  transition: background-color 5000s ease-in-out 0s;
+}
+
+.campo-mail-register.completo {
+  background-color: #f1f1f1 !important;
+}
+
+/* Fondo gris claro cuando el campo está completo */
+.campo-mail-register:valid,
+.campo-pass-register:valid,
+.campo-name-register:valid,
+.campo-preg-register:valid,
+.campo-date-register:valid,
+.campo-code-register:valid,
+.campo-mail-register:not(:placeholder-shown),
+.campo-pass-register:not(:placeholder-shown),
+.campo-name-register:not(:placeholder-shown),
+.campo-preg-register:not(:placeholder-shown),
+.campo-date-register:not(:placeholder-shown),
+.campo-code-register:not(:placeholder-shown) {
+  background-color: #f1f1f1 !important; /* gris claro */
+}

@@ -1,0 +1,71 @@
+.App {
+  text-align: center;
+}
+
+body {
+  background-color: #f3f1e6;
+  font-family: 'Nunito', sans-serif;
+  padding-top: 76px;
+}
+
+.btn-cta {
+  background-color: #9bb084;
+  color: white;
+  border-radius: 5px;
+}
+
+.feature-card {
+  border-radius: 12px;
+  padding: 24px;
+  transition: 0.3s;
+  text-align: center;
+  background: #fff;
+}
+
+.feature-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
+}
+
+.feature-img {
+  max-height: 120px;
+  margin-bottom: 16px;
+}
+
+.welcome-img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 12px;
+  background-color: #f3f1e6;
+}
+
+.notification-btn {
+  position: relative;
+  background: none;
+  border: none;
+  font-size: 1.4rem;
+  color: #555;
+}
+
+.notification-btn .badge {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.contact-section {
+  background-color: #ccd5ae;
+  border-radius: 16px;
+  padding: 40px;
+  margin-top: 60px;
+}
+
+.form-control:focus {
+  box-shadow: none;
+}
+
+.btn-send {
+  background-color: #333;
+  color: white;
+  border-radius: 5px;
+}

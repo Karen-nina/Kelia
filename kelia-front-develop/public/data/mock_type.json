@@ -1,0 +1,406 @@
+[
+    {
+        "key": "1",
+        "title": "ACEITES"
+    },
+    {
+        "key": "2",
+        "title": "ACEITES Y GRASAS DE ORIGEN SOLAMENTE ANIMAL"
+    },
+    {
+        "key": "3",
+        "title": "ADITIVOS ALIMENTARIOS"
+    },
+    {
+        "key": "4",
+        "title": "AGUAS Y AGUAS GASIFICADAS"
+    },
+    {
+        "key": "5",
+        "title": "ALCOHOLES Y AFINES"
+    },
+    {
+        "key": "6",
+        "title": "ALFAJORES"
+    },
+    {
+        "key": "7",
+        "title": "ALGAS"
+    },
+    {
+        "key": "8",
+        "title": "ALIMENTOS CON PROPÓLEOS"
+    },
+    {
+        "key": "9",
+        "title": "ALIMENTOS DE RÉGIMEN O DIETÉTICOS (SIN CONVENCIONAL DEFINIDO)"
+    },
+    {
+        "key": "10",
+        "title": "ALIMENTOS PARA LACTANTES Y NIÑOS DE CORTA EDAD"
+    },
+    {
+        "key": "11",
+        "title": "ALIMENTOS PARA PROPÓSITOS MÉDICOS ESPECÍFICOS"
+    },
+    {
+        "key": "12",
+        "title": "AZÚCARES Y JARABES"
+    },
+    {
+        "key": "13",
+        "title": "BAÑOS Y RELLENOS PARA REPOSTERÍA Y CONFITERÍA"
+    },
+    {
+        "key": "14",
+        "title": "BARRAS DE CEREAL"
+    },
+    {
+        "key": "15",
+        "title": "BEBIDAS ALCOHÓLICAS MIXTAS"
+    },
+    {
+        "key": "16",
+        "title": "BEBIDAS ALCOHÓLICAS SIMPLES"
+    },
+    {
+        "key": "17",
+        "title": "BEBIDAS ANALCOHÓLICAS CON CAFEÍNA Y TAURINA"
+    },
+    {
+        "key": "18",
+        "title": "BEBIDAS ANALCOHÓLICAS Y PRODUCTOS PARA PREPARARLAS"
+    },
+    {
+        "key": "19",
+        "title": "BEBIDAS LÁCTEAS"
+    },
+    {
+        "key": "20",
+        "title": "BOMBONES"
+    },
+    {
+        "key": "21",
+        "title": "CACAO Y AFINES"
+    },
+    {
+        "key": "22",
+        "title": "CAFÉ Y SUCEDÁNEOS"
+    },
+    {
+        "key": "23",
+        "title": "CARAMELOS, CHICLES Y PASTILLAS"
+    },
+    {
+        "key": "24",
+        "title": "CEREALES"
+    },
+    {
+        "key": "25",
+        "title": "CEREALES PARA DESAYUNO"
+    },
+    {
+        "key": "26",
+        "title": "CERVEZAS"
+    },
+    {
+        "key": "27",
+        "title": "CHACINADOS EMBUTIDOS COCIDOS"
+    },
+    {
+        "key": "28",
+        "title": "CHACINADOS EMBUTIDOS FRESCOS"
+    },
+    {
+        "key": "29",
+        "title": "CHACINADOS EMBUTIDOS SECOS"
+    },
+    {
+        "key": "30",
+        "title": "CHACINADOS NO EMBUTIDOS"
+    },
+    {
+        "key": "31",
+        "title": "CHACINADOS NO EMBUTIDOS COCIDOS"
+    },
+    {
+        "key": "32",
+        "title": "CHOCOLATES"
+    },
+    {
+        "key": "33",
+        "title": "COADYUVANTES DE TECNOLOGÍA PARA LA INDUSTRIA ALIMENTICIA"
+    },
+    {
+        "key": "34",
+        "title": "COMIDAS PREPARADAS Y SEMIELABORADAS"
+    },
+    {
+        "key": "35",
+        "title": "CONFITURAS (COMPOTAS, VEGETALES EN ALMÍBAR, MERMELADAS, DULCES, JALEAS)"
+    },
+    {
+        "key": "36",
+        "title": "CONSERVAS ALIMENTICIAS (CALDOS Y SOPAS)"
+    },
+    {
+        "key": "37",
+        "title": "CONSERVAS DE CARNE DE AVES"
+    },
+    {
+        "key": "38",
+        "title": "CONSERVAS DE CARNE DE CERDO"
+    },
+    {
+        "key": "39",
+        "title": "CONSERVAS DE CARNE VACUNA"
+    },
+    {
+        "key": "40",
+        "title": "CONSERVAS DE HORTALIZAS, VERDURAS Y LEGUMBRES"
+    },
+    {
+        "key": "41",
+        "title": "CONSERVAS DE OTROS PRODUCTOS DE LA PESCA"
+    },
+    {
+        "key": "42",
+        "title": "CONSERVAS DE PESCADO"
+    },
+    {
+        "key": "43",
+        "title": "CONSERVAS DE VEGETALES (FRUTAS, HORTALIZAS, VERDURAS Y LEGUMBRES)"
+    },
+    {
+        "key": "44",
+        "title": "CONSERVAS MIXTAS"
+    },
+    {
+        "key": "45",
+        "title": "CORTES CÁRNEOS ENVASADOS"
+    },
+    {
+        "key": "46",
+        "title": "CREMA DE LECHE"
+    },
+    {
+        "key": "47",
+        "title": "DERIVADOS LÁCTEOS PARA LA INDUSTRIA ALIMENTARIA"
+    },
+    {
+        "key": "48",
+        "title": "DULCE DE LECHE"
+    },
+    {
+        "key": "49",
+        "title": "EDULCORANTES DE MESA"
+    },
+    {
+        "key": "50",
+        "title": "ESPECIAS Y CONDIMENTOS PREPARADOS"
+    },
+    {
+        "key": "51",
+        "title": "FERMENTOS, LEVADURAS, ENZIMAS Y DERIVADOS"
+    },
+    {
+        "key": "52",
+        "title": "FÓRMULAS PARA LACTANTES Y NIÑOS EN PRIMERA INFANCIA"
+    },
+    {
+        "key": "53",
+        "title": "FRUTAS/HORTALIZAS AZUCARADAS"
+    },
+    {
+        "key": "54",
+        "title": "GALLETITAS Y BIZCOCHOS"
+    },
+    {
+        "key": "55",
+        "title": "GOLOSINAS"
+    },
+    {
+        "key": "56",
+        "title": "HARINAS, CONCENTRADOS, AISLADOS Y DERIVADOS PROTEICOS"
+    },
+    {
+        "key": "57",
+        "title": "HARINAS, SÉMOLAS Y ALMIDONES"
+    },
+    {
+        "key": "58",
+        "title": "HELADOS Y TORTAS HELADAS"
+    },
+    {
+        "key": "59",
+        "title": "HONGOS PROCESADOS"
+    },
+    {
+        "key": "60",
+        "title": "HUEVO CONSERVADO"
+    },
+    {
+        "key": "61",
+        "title": "HUEVO FRESCO ENVASADO"
+    },
+    {
+        "key": "62",
+        "title": "JUGOS VEGETALES"
+    },
+    {
+        "key": "63",
+        "title": "LECHE CONDENSADA"
+    },
+    {
+        "key": "64",
+        "title": "LECHE EN POLVO"
+    },
+    {
+        "key": "65",
+        "title": "LECHES FERMENTADAS"
+    },
+    {
+        "key": "66",
+        "title": "LECHES FLUIDAS"
+    },
+    {
+        "key": "67",
+        "title": "MANTECA"
+    },
+    {
+        "key": "68",
+        "title": "MARGARINAS"
+    },
+    {
+        "key": "69",
+        "title": "MASAS CRUDAS PARA PIZZA, EMPANADAS, TARTAS Y SIMILARES"
+    },
+    {
+        "key": "70",
+        "title": "MATERIAS PRIMAS PARA LA INDUSTRIA ALIMENTARIA"
+    },
+    {
+        "key": "71",
+        "title": "MEZCLAS Y PREMEZCLAS"
+    },
+    {
+        "key": "72",
+        "title": "MIELES Y PRODUCTOS DERIVADOS DE LA APICULTURA"
+    },
+    {
+        "key": "73",
+        "title": "PAN Y PRODUCTOS DE PANADERÍA Y REPOSTERÍA"
+    },
+    {
+        "key": "74",
+        "title": "PASTAS FRESCAS RELLENAS"
+    },
+    {
+        "key": "75",
+        "title": "PASTAS FRESCAS SIN RELLENO"
+    },
+    {
+        "key": "76",
+        "title": "PASTAS SECAS RELLENAS"
+    },
+    {
+        "key": "77",
+        "title": "PASTAS SECAS SIN RELLENO"
+    },
+    {
+        "key": "78",
+        "title": "POLVO PARA HORNEAR"
+    },
+    {
+        "key": "79",
+        "title": "POLVOS PARA PREPARAR FLANES, POSTRES CREMOSOS Y SIMILARES"
+    },
+    {
+        "key": "80",
+        "title": "POLVOS PARA PREPARAR TORTAS, BUDINES Y SIMILARES"
+    },
+    {
+        "key": "81",
+        "title": "POSTRES LÁCTEOS LISTOS PARA CONSUMIR"
+    },
+    {
+        "key": "82",
+        "title": "POSTRES NO LÁCTEOS LISTOS PARA CONSUMIR"
+    },
+    {
+        "key": "83",
+        "title": "PRODUCTOS AZUCARADOS DE SEMILLAS Y/O FRUTAS SECAS"
+    },
+    {
+        "key": "84",
+        "title": "PRODUCTOS DE REPOSTERÍA"
+    },
+    {
+        "key": "85",
+        "title": "PRODUCTOS PARA PREPARAR HELADOS"
+    },
+    {
+        "key": "86",
+        "title": "QUESOS"
+    },
+    {
+        "key": "87",
+        "title": "SALAZONES"
+    },
+    {
+        "key": "88",
+        "title": "SALES"
+    },
+    {
+        "key": "89",
+        "title": "SALSAS, ADEREZOS Y ALIÑOS"
+    },
+    {
+        "key": "90",
+        "title": "SALVADO Y DERIVADOS"
+    },
+    {
+        "key": "91",
+        "title": "SEMILLAS ENTERAS O PROCESADAS"
+    },
+    {
+        "key": "92",
+        "title": "SIDRA Y DERIVADOS"
+    },
+    {
+        "key": "93",
+        "title": "SNACKS"
+    },
+    {
+        "key": "94",
+        "title": "SUPLEMENTOS DIETARIOS"
+    },
+    {
+        "key": "95",
+        "title": "TÉ Y HIERBAS PARA INFUSIÓN"
+    },
+    {
+        "key": "96",
+        "title": "VEGETALES (FRUTAS, FRUTAS SECAS, HORTALIZAS, VERDURAS Y LEGUMBRES) FRESCOS ENVASADOS"
+    },
+    {
+        "key": "97",
+        "title": "VEGETALES (FRUTAS, HORTALIZAS, FRUTAS SECAS, VERDURAS Y LEGUMBRES) PROCESADOS"
+    },
+    {
+        "key": "98",
+        "title": "VEGETALES (FRUTAS, HORTALIZAS, FRUTAS SECAS, VERDURAS Y LEGUMBRES) SEMIPROCESADOS"
+    },
+    {
+        "key": "99",
+        "title": "VINAGRES"
+    },
+    {
+        "key": "100",
+        "title": "YERBA MATE Y AFINES"
+    },
+    {
+        "key": "101",
+        "title": "YOGURES"
+    }
+]

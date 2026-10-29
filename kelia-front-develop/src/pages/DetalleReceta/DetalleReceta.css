@@ -1,0 +1,268 @@
+.detalle-receta {
+  display: flex;
+  flex-wrap: nowrap; /* no permitir salto de línea */
+  gap: 2rem;
+  max-width: none;
+  width: 75%;
+  margin: 2rem auto;
+  padding: 2rem;
+  font-family: "Segoe UI", sans-serif;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  justify-content: space-between;
+  align-items: flex-start;
+  box-sizing: border-box;
+}
+
+.columna-izq {
+  flex: 1 1 300px; /* crece, mínimo 300px */
+}
+
+.columna-media {
+  flex: 2 1 400px; /* más ancha */
+}
+
+.columna-derecha {
+  flex: 0 0 200px; /* ancho fijo */
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.detalle-receta-titulo {
+  text-align: start;
+  font-size: 2.2rem;
+  margin: 0.5rem 0;
+}
+
+.detalle-receta-autor {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin: 0 0 1rem;
+  max-width: 100%;
+  flex-wrap: wrap;
+}
+.detalle-receta-autor img {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.receta-autor-detalle {
+  text-align: center;
+  color: #555;
+  width: 206px;
+  margin-bottom: 0;
+}
+
+.receta-autor-detalle img {
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.receta-time {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.receta-guardados {
+  margin-top: 0.5rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.receta-img {
+  width: 70%;
+  height: 160px;
+  border-radius: 12px;
+  object-fit: cover;
+  margin-bottom: 1rem;
+}
+
+.receta-ingredientes,
+.receta-instrucciones {
+  margin-top: 30px;
+  flex: 1 1 45%;
+}
+
+ul {
+  font-size: 1.1rem;
+}
+
+li {
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.receta-ingredientes ul,
+.receta-instrucciones ol {
+  padding-left: 1.5rem;
+}
+
+.info-receta {
+  display: flex;
+  justify-content: space-around;
+  background-color: #f8f9fa;
+  padding: 1rem;
+  border-radius: 8px;
+  margin-bottom: 2rem;
+  text-align: center;
+}
+
+.receta-tags {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 1rem;
+  margin-top: 2rem;
+}
+
+.receta-tags .tag,
+.badge {
+  background-color: #d39b63;
+  color: white;
+  padding: 0.4rem 0.8rem;
+  border-radius: 5px;
+  font-size: 0.9rem;
+  margin-right: 0.5rem;
+}
+
+.guardar-reportar,
+.guardar-reportar-agregar {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  padding: 0.5rem 1rem;
+  border: 1px solid black;
+  border-radius: 6px;
+  background-color: white;
+  font-size: 1rem;
+  white-space: nowrap;
+}
+
+.guardar-reportar svg,
+.guardar-reportar-agregar svg {
+  margin-right: 5px;
+}
+
+.contenedor-comentarios {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  padding: 15px;
+  align-items: center;
+}
+
+.comentario {
+  background-color: #f9f9f9;
+  border: 1px solid #eee;
+  padding: 15px 2rem;
+  border-radius: 8px;
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.05);
+  position: relative;
+  width: 77%;
+  box-sizing: border-box;
+}
+
+.comentario-autor {
+  display: flex;
+  align-items: center;
+  margin-bottom: 0;
+}
+
+.foto-perfil-comentario {
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  margin-right: 10px;
+  object-fit: cover;
+  border: 2px solid #9bb084;
+}
+
+.info-autor {
+  display: flex;
+  flex-direction: column;
+}
+
+.nombre-autor {
+  font-weight: bold;
+  margin-bottom: 2px;
+}
+
+.rating-estrellas,
+.comentario span {
+  color: gold;
+  font-size: 1.7em;
+}
+
+.comentario-texto {
+  margin-bottom: 15px;
+  padding: 10px;
+  background-color: white;
+  border-radius: 20px;
+}
+
+.comentario-tiempo {
+  font-size: 0.8em;
+  color: #777;
+  position: absolute;
+  bottom: 6px;
+  right: 10px;
+  margin-bottom: 0;
+}
+
+/* === Responsivo === */
+@media (max-width: 768px) {
+  .columna-derecha {
+    flex: 1 1 100%;
+    max-width: none;
+    flex-direction: row;
+    justify-content: space-around;
+  }
+
+  .guardar-reportar-agregar,
+  .guardar-reportar {
+    width: 30%;
+    justify-content: center;
+  }
+
+  .comentario {
+    width: 100%;
+  }
+
+  .receta-img {
+    width: 100%;
+  }
+}
+
+.btn-volver {
+  color: white;
+  background: #d4a373;
+  border: none;
+  border-radius: 5px;
+  font-weight: bold;
+  padding: 0.5rem 1.5rem;
+  font-size: 1.1rem;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.btn-volver:hover {
+  background: #bc5f28;
+}
+
+/* Contenedor del botón volver alineado con el lado derecho de .detalle-receta y .comentario */
+.btn-volver-container {
+  width: 75%;
+  margin: 0 auto 1.5rem auto;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-start;
+}

@@ -1,0 +1,46 @@
+.answer-text {
+  text-align: left;
+}
+.accordion-header:not(.collapsed) {
+  --bs-accordion-active-bg: #9eb387;
+  --bs-accordion-active-color: #fff;
+
+}
+.accordion-button:focus {
+  border-color: #9eb387;
+  --bs-accordion-active-color: #fff;
+   box-shadow: none;
+}
+
+/* General: aumenta tamaño y grosor de la flechita */
+.accordion-button::after {
+  width: 1.2rem;
+  height: 1.2rem;
+  background-size: 1.2rem;
+  transition: transform 0.2s ease;
+}
+
+/* Estado cerrado (colapsado): fondo blanco y flecha verde oscuro */
+.accordion-button.collapsed {
+  background-color: #fff;
+  color: #000;
+  border: none;
+  box-shadow: none;
+}
+
+.accordion-button.collapsed::after {
+  filter: brightness(0) saturate(100%) invert(78%) sepia(16%) saturate(579%) hue-rotate(45deg) brightness(91%) contrast(92%);
+}
+
+/* Estado abierto: fondo verde oscuro y flecha verde claro */
+.accordion-button:not(.collapsed) {
+  background-color: #9eb387;
+  color: #fff;
+  border: none;
+  box-shadow: none;
+}
+
+.accordion-button:not(.collapsed)::after {
+  transform: rotate(180deg);
+  filter: brightness(0) saturate(100%) invert(94%) sepia(4%) saturate(1036%) hue-rotate(47deg) brightness(95%) contrast(92%);
+}

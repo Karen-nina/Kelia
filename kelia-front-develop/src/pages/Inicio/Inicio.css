@@ -1,0 +1,192 @@
+#root{
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.container{
+  max-width: 90%;
+}
+.inicio-wrapper{
+  background-color: #F3F1E6;
+}
+
+.post-button {
+  background-color: #D4A373;
+  color: white; 
+  font-weight: bold; 
+  border-radius: 5px;
+  border: none;
+  padding: 0.5rem 1rem;
+  transition: background-color 0.3s ease;
+}
+
+.post-button:hover {
+  background-color: #bc5f28; 
+  color: white;
+}
+
+.filter-button {
+    background-color: #333333;
+    color: white; 
+    font-weight: bold; 
+    border-radius: 5px;
+    border: none;
+    padding: 0.5rem 1rem;
+    transition: background-color 0.3s ease;
+}
+
+.filter-button:hover {
+    background-color: white; 
+    color: black;
+}
+
+.filter-button.active {
+    background-color: white; 
+    color: black;
+}
+
+.product-button {
+  background-color: #D4A373;
+  color: white;
+  font-weight: bold;
+  border-radius: 5px;
+  border: none;
+  text-align: center;
+  display: inline-block;
+  transition: background-color 0.3s ease;
+  text-decoration: none; 
+  padding: 0.4rem 0.7rem;
+  font-size: 0.95rem;
+}
+
+.product-button:hover {
+  background-color: #bc5f28;
+  color: white;
+}
+
+.meli-buy-button {
+  background-color: #D4A373 !important; /* Amarillo Mercado Libre */
+  color: #ffffff !important;            /* Azul Mercado Libre */
+  font-weight: bold;
+  border: 1px solid #D4A373;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.04);
+  display: flex;
+  align-items: center;
+  gap: 0;
+}
+
+.meli-buy-button:hover {
+  background-color: #bc5f28 !important;
+  color: #ffffff !important;
+}
+
+.product-card {
+  margin-bottom: 20px; /* Espacio entre las tarjetas */
+  background-color: #fff;
+  border-radius: 10px;
+  padding: 15px;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.recipe-card {
+  margin-bottom: 20px; /* Espacio entre las tarjetas */
+  background-color: #fff;
+  border-radius: 10px;
+  padding: 15px;
+  box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.1);
+  cursor: 'pointer';
+  transition: 'box-shadow 0.2s ease';
+}
+
+/* Modal para post y comentarios */
+.modal-backdrop {
+  position: fixed;
+  top: 0; left: 0; right: 0; bottom: 0;
+  background: rgba(0,0,0,0.4);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 9999;
+}
+.modal-content {
+  background: #fff;
+  border-radius: 10px;
+  padding: 2rem;
+  min-width: 350px;
+  max-width: 90vw;
+  max-height: 90vh;
+  overflow-y: auto;
+  position: relative;
+}
+.close-btn {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  background: none;
+  border: none;
+  font-size: 2.2rem;
+  cursor: pointer;
+  z-index: 2;
+  line-height: 1;
+}
+.comments-section {
+  margin-top: 2rem;
+}
+.comment {
+  padding: 0.7rem 0;
+  border-bottom: 1px solid #eee;
+  padding-right: 20px;
+}
+
+.mention-link {
+  color: #949D77;
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.mention-link:hover {
+  text-decoration: underline;
+}
+.pill {
+ color: #d39b63;
+ background-color: rgba(212, 163, 115, 0.3);
+ border: #d39b63;
+ border-style: solid;
+ border-width: 1px;
+ padding: 0.25rem 0.25rem;
+ border-radius: 5px;
+ font-size: 0.9rem;
+ font-weight: 600;
+ margin-right: 0.5rem;
+}
+.pill-recipe {
+ color: #d39b63;
+ background-color: rgba(212, 163, 115, 0.3);
+ border: #d39b63;
+ border-style: solid;
+ border-width: 1px;
+}
+.pill-product {
+ color:#62684f;
+ background-color: rgba(148, 157, 119, 0.3);
+ border: #62684f;
+ border-style: solid;
+ border-width: 1px;
+}
+.pill-place {
+ color:#dc3545;
+ background-color: rgba(220, 53, 69, 0.3);
+ border: #dc3545;
+ border-style: solid;
+ border-width: 1px;
+}
+
+.custom-sidebar {
+  background-color: #e8e7e7;
+  border-color:#e8e7e7;
+  border-radius: 12px;
+  padding: 16px;
+  margin-bottom: 30px;
+}
