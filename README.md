@@ -8,7 +8,7 @@ Proyecto final integrador desarrollado en 2025. Mi participación se centró pri
 
 **Estado:** proyecto académico / portafolio.
 
-![Logo de Kelia](kelia-front-develop/public/img/logo.png)
+<a href="https://github.com/Karen-nina/Kelia"><img src="kelia-front-develop/kelia-home.png" width="350"></a>
 
 ## Índice
 - [Funcionalidades principales](#funcionalidades-principales)
